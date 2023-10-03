@@ -1,0 +1,2731 @@
+company_name,first_name,last_name,ssn,carriers
+Athenian Living,ASHLEY,LEMKE,394022114,{Guardian}
+Athenian Living,CONNIE,VENZKE,390942648,{Guardian}
+Athenian Living,DARCY,KINGSBURY,392928901,{Guardian}
+Athenian Living,DAWN,BUNKELMAN,390983686,{Guardian}
+Athenian Living,ELLIS,MILLER,877504493,{Guardian}
+Athenian Living,JAMES,BOYD,399084140,{Guardian}
+Athenian Living,LISA,MCCORD,394744343,{Guardian}
+Athenian Living,LISA,NOWICKI,395780386,{Guardian}
+Athenian Living,LISA,PETERSON,392860209,{Guardian}
+Athenian Living,LORI,ZETTLER,394744661,{Guardian}
+Athenian Living,REBECCA,LANE,396889244,{Guardian}
+Athenian Living,SHERRY,HAKE,393589445,{Guardian}
+"Bethany Board and Lodge, Inc",BRITNEY,TOLLEFSON,518697571,{Guardian}
+"Bethany Board and Lodge, Inc",ETHAN,JEMTRUD,471435090,{Guardian}
+"Bethany Board and Lodge, Inc",JULIE,EIA,473740211,{Guardian}
+"Bethany Board and Lodge, Inc",KAYLEE,ANDERSON,476372733,{Guardian}
+"Bethany Board and Lodge, Inc",LACY,COYER,469986366,{Guardian}
+"Bethany Board and Lodge, Inc",MARCELLA,SIMONSON,472028950,{Guardian}
+"Bethany Board and Lodge, Inc",RENEE,MATHISON,470845000,{Guardian}
+"Bethany Board and Lodge, Inc",ROXY,BUCHHOLZ,470941777,{Guardian}
+"Bethany Board and Lodge, Inc",SARAH,THODE,476883988,{Guardian}
+"Bethany Board and Lodge, Inc",SHELDON,MURPHY,477041751,{Guardian}
+"Bethany Board and Lodge, Inc",TAYLOR,KLINKE,476299790,{Guardian}
+"Bethany Board and Lodge, Inc",TYLER,MCGLYNN,471028566,"{FBA,Guardian}"
+"BVM Coral Landing, LLC",ANGEL,DEJESUS,592671303,{Guardian}
+"BVM Coral Landing, LLC",ASHLIEGH,CARTER,594040705,{Guardian}
+"BVM Coral Landing, LLC",BRANDY,JOHNS,592167845,{Guardian}
+"BVM Coral Landing, LLC",CAROLYN,JOHNSON,591073960,{Guardian}
+"BVM Coral Landing, LLC",CHERYL,BLACKWELDER,257174582,{Guardian}
+"BVM Coral Landing, LLC",CHRISTINA,CRISP,589880330,{Guardian}
+"BVM Coral Landing, LLC",DERICKA,GILLIAM,770014042,{Guardian}
+"BVM Coral Landing, LLC",HALEY,HARVEY,590876564,{Guardian}
+"BVM Coral Landing, LLC",JASMINE,WRIGHT,593390033,{Guardian}
+"BVM Coral Landing, LLC",JERMYRE,PERRY,767249983,{Guardian}
+"BVM Coral Landing, LLC",JOSEPH,ANDERSON,595804425,{Guardian}
+"BVM Coral Landing, LLC",KAREN,WILKINS,523734699,{Guardian}
+"BVM Coral Landing, LLC",KATHY,JOHNSON,171585918,{Guardian}
+"BVM Coral Landing, LLC",KAYLA,CARPENTER,301960064,{Guardian}
+"BVM Coral Landing, LLC",KENDELL,MYERS,363213327,{Guardian}
+"BVM Coral Landing, LLC",LATEKKIA,COLE,242413084,{Guardian}
+"BVM Coral Landing, LLC",LINDA,DIPAOLO,108501304,{Guardian}
+"BVM Coral Landing, LLC",MELISSA,HUNTER,594742320,{Guardian}
+"BVM Coral Landing, LLC",MERCEDES,NORIEGA,768345334,{Guardian}
+"BVM Coral Landing, LLC",QUIANA,REESE,591221201,{Guardian}
+"BVM Coral Landing, LLC",RICHARA,FREEMAN,595207128,{Guardian}
+"BVM Coral Landing, LLC",SHELBY,VALLE,362272543,{Guardian}
+"BVM Coral Landing, LLC",SUSAN,SCOTT,349508151,{Guardian}
+"BVM Coral Landing, LLC",TABITHA,HERSEY,589281064,{Guardian}
+"BVM Coral Landing, LLC",TAMARA,GLINTON,592637428,{Guardian}
+"BVM Coral Landing, LLC",TAMEKIA,HUTCHERSON,590186859,{Guardian}
+"BVM Coral Landing, LLC",TIFFANY,SMITH,591744763,{Guardian}
+"BVM Coral Landing, LLC",TRENCESS,WILKINS,263693805,{Guardian}
+"BVM Coral Landing, LLC",TREVON,GIDDENS,591830911,{Guardian}
+"BVM Coral Landing, LLC",YOLANDA,WRIGHT,133588741,{Guardian}
+"BVM Coral Landing, LLC",ZANA,JOHNSON,593415100,{Guardian}
+"BVM The Bridges, LLC",ANGELA,RIVERA,766247851,{Guardian}
+"BVM The Bridges, LLC",ANITA,SIERRA DE VARGAS,590636279,{Guardian}
+"BVM The Bridges, LLC",ANN-MARIE,GRANT-BROWN,050786208,{Guardian}
+"BVM The Bridges, LLC",ASHLYNN,ANCIL,315171966,{Guardian}
+"BVM The Bridges, LLC",CITLALI,MORENO VARGAS,110531964,{Guardian}
+"BVM The Bridges, LLC",COLEEN,MERCILLIOTT,382826860,{Guardian}
+"BVM The Bridges, LLC",DONNA,STEIERMANN,158565806,{Guardian}
+"BVM The Bridges, LLC",EVELYN,AKINS,593020109,{Guardian}
+"BVM The Bridges, LLC",GREGORY,GRIFFIN,223219379,"{FBA,Guardian}"
+"BVM The Bridges, LLC",JANET,NOAH,473787320,{Guardian}
+"BVM The Bridges, LLC",JARED,EPSTEIN,090769633,{Guardian}
+"BVM The Bridges, LLC",JESAMIN,ABINGTON,337989583,{Guardian}
+"BVM The Bridges, LLC",JOSE,HERRERA ALMANZAR,830501268,{Guardian}
+"BVM The Bridges, LLC",JULIE,LOWE,261318756,{Guardian}
+"BVM The Bridges, LLC",KEITH,MAHARAJ,218793315,"{FBA,Guardian}"
+"BVM The Bridges, LLC",LEROY,CAMPBELL,116445186,{Guardian}
+"BVM The Bridges, LLC",LOUANCY,QUEVEDO,062944990,{Guardian}
+"BVM The Bridges, LLC",MARJORIE,COHEN,076643661,{Guardian}
+"BVM The Bridges, LLC",MICHELLE,SIDDIQUI,593751680,{Guardian}
+"BVM The Bridges, LLC",MYRNA,COLON,334549724,{Guardian}
+"BVM The Bridges, LLC",RAFAEL,RIVERA GARCIA,584531583,{Guardian}
+"BVM The Bridges, LLC",SAMANTHA,LOVE,593081329,{Guardian}
+"BVM The Bridges, LLC",SUSAN,STRASAVICH,216868345,{Guardian}
+"BVM The Bridges, LLC",WIDLENE,GAPPY,828331149,{Guardian}
+"BVM The Bridges, LLC",YAHIDA,GARCIA,050640212,{Guardian}
+Colony Court,ADAM,WORKE,472983616,"{FBA,Guardian}"
+Colony Court,ADRIENNE,GILLEY,605464269,{Guardian}
+Colony Court,AMY,BRUNNER,471029470,{Guardian}
+Colony Court,AMY,DIAZ,468847221,{Guardian}
+Colony Court,BRENDA,PATTERSON,470026361,{Guardian}
+Colony Court,CHANICE,PETTY,335781850,{Guardian}
+Colony Court,COLIN,WORKE,471337040,{Guardian}
+Colony Court,DANIEL,MATTAUCH,547591611,{Guardian}
+Colony Court,DIANE,COSSETTE,502884262,"{FBA,Guardian}"
+Colony Court,ERIC,WORKE,472983675,"{FBA,Guardian}"
+Colony Court,JAY,SCHOLLJEGERDES,474111003,{Guardian}
+Colony Court,JENNIFER,FRANK,472929162,{Guardian}
+Colony Court,JESSICA,HANSEN,479061441,{Guardian}
+Colony Court,KAREN,LETTS,485116824,{Guardian}
+Colony Court,LAURA,GRUNDMEIER,472355525,{Guardian}
+Colony Court,LISA,BURDICK,472681869,{Guardian}
+Colony Court,LISA,CAGE,470988549,"{FBA,Guardian}"
+Colony Court,RHONDA,MUSEL,469923667,{Guardian}
+Colony Court,SHAE,SEIFERT,248736829,{Guardian}
+Colony Court,SHEILA,FRANCIS,483865552,{Guardian}
+Colony Court,SIOBHAN,WHEELOCK,471252229,{Guardian}
+Colony Court,TAMERA,JENSEN,475725750,{Guardian}
+Colony Court,TAMMY,OLMANSON,471922075,{Guardian}
+Colony Court,TERRI,SNOW,471982064,{Guardian}
+Colony Court,TRACY,ENGLISH,479886792,{Guardian}
+Colony Court,TYLER,WESSELS,475025713,"{FBA,Guardian}"
+Comfort Keepers,ALISON,BROOKS,501946343,"{FBA,Guardian}"
+Comfort Keepers,ALONA,HANSEN,475378713,{Guardian}
+Comfort Keepers,BRITTANY,KUZNIA,517199151,{Guardian}
+Comfort Keepers,CASSIE,ANDERSON,604201035,"{BCBSMN,FBA,Guardian}"
+Comfort Keepers,CORINNE,JOHNSON,501781687,"{BCBSMN,FBA,Guardian}"
+Comfort Keepers,DAWN,DALEN,551711815,{Guardian}
+Comfort Keepers,DORINDA,O'MARRO,502720323,{Guardian}
+Comfort Keepers,EMILY,DALLMAN,502084035,{Guardian}
+Comfort Keepers,JANA,TRONIER,415983413,{Guardian}
+Comfort Keepers,JENNIFER,GUSTIN,501115656,{Guardian}
+Comfort Keepers,JENNIFER,KAMPHAUG,501132346,{Guardian}
+Comfort Keepers,JESSECA,BRAEWELL,119924068,{Guardian}
+Comfort Keepers,JESSICA,ANGLEBRANDT,501068363,{Guardian}
+Comfort Keepers,JOEL,PETERSON,476845181,{Guardian}
+Comfort Keepers,KEELY,OLSON,468439418,{Guardian}
+Comfort Keepers,LORNA,THRONSEDT,502743692,{Guardian}
+Comfort Keepers,LORRAINE,CLEMENS,501526551,{Guardian}
+Comfort Keepers,MAIA,MASTEL,501197827,{Guardian}
+Comfort Keepers,MARIE,GUIDRY,435722449,{Guardian}
+Comfort Keepers,MARY,STROMQUIST,474948065,"{BCBSMN,Guardian}"
+Comfort Keepers,MELISSA,HEATH,501089276,{Guardian}
+Comfort Keepers,STACY,BLOMQUIST,502049296,{Guardian}
+Comfort Keepers,SUSAN,PETERSON,501741894,{Guardian}
+Comfort Keepers,TAMARA,DRONEN,468806334,{Guardian}
+Comfort Keepers,TARALYN,BORAH,349686847,"{BCBSMN,Guardian}"
+Comfort Keepers,TIARA,SMITH,476191226,{FBA}
+Comfort Keepers,VERONICA,HOLLATZ,470844204,{Guardian}
+Comfort Keepers,YOLANDA,JALAN,502157870,"{FBA,Guardian}"
+Community Living Options,ABDUL,SESAY,757866401,{Guardian}
+Community Living Options,ABDULLAHI,MOHAMED,536355723,{Guardian}
+Community Living Options,ADAM,BECKSTRAND,468171696,"{FBA,Guardian}"
+Community Living Options,AIMEE,MAHESHE,110671855,{Guardian}
+Community Living Options,ALEX,LEE,395216774,{Guardian}
+Community Living Options,ALEXANDER,MURRAY,472271218,"{FBA,Guardian}"
+Community Living Options,ALEXANDRA,ANTOLIN,622662546,{Guardian}
+Community Living Options,ALEX FLORENT,KAMGAING DJOKO,691515632,{Guardian}
+Community Living Options,ALISSA,LUEDTKE,472396268,{Guardian}
+Community Living Options,ALISSA,LUNDBERG,476194387,{Guardian}
+Community Living Options,ALLISON,HACKER,617225493,"{FBA,Guardian}"
+Community Living Options,ALLISON,WEIDENDORF,468437173,{Guardian}
+Community Living Options,ALYCIA,JELLISON,473276299,{Guardian}
+Community Living Options,ALYSSA,LACOMBE,470271353,"{FBA,Guardian}"
+Community Living Options,AMANDA,BAUER,474210187,{Guardian}
+Community Living Options,AMANDA,GILQUIST,469338386,{Guardian}
+Community Living Options,AMANDA,GROVE,470043540,{Guardian}
+Community Living Options,AMANDA,HEAD,470985451,{Guardian}
+Community Living Options,AMANDA,HEBING,471235828,{Guardian}
+Community Living Options,AMANDA,OPPERUD,476068426,{Guardian}
+Community Living Options,AMANDA,SWENSRUD,469944807,{Guardian}
+Community Living Options,AMBER,HAGEMAN,468948784,{Guardian}
+Community Living Options,AMBER,SAGERER,477399171,{Guardian}
+Community Living Options,ANDREW,DUNNING,468274705,{Guardian}
+Community Living Options,ANDREW,SHERMER,476946285,{Guardian}
+Community Living Options,ANTHONY,BIRON,477063473,{Guardian}
+Community Living Options,ANTHONY,MCLAIN,477886705,"{FBA,Guardian}"
+Community Living Options,ANTHONY,PROFANT,477925290,{Guardian}
+Community Living Options,APRIL,KIEFAT,472742209,{Guardian}
+Community Living Options,ARIEL,JAMES,593469276,{Guardian}
+Community Living Options,ARIEL,MARKSON,474372594,{Guardian}
+Community Living Options,ASHLEY,ZELLMER,392984560,{Guardian}
+Community Living Options,AUGUSTUS,VOAHN,053431524,"{FBA,Guardian}"
+Community Living Options,AYRLAHN,JOHNSON,469567235,{Guardian}
+Community Living Options,BENITA,HAYES,492743994,"{FBA,Guardian}"
+Community Living Options,BIANCA,ESTRADA,473417736,{Guardian}
+Community Living Options,BILLIE,MCPHEETERS,474043426,{Guardian}
+Community Living Options,BLAKE,HANSON,389252158,{Guardian}
+Community Living Options,BLAKE,TOWNLEY,477311234,"{FBA,Guardian}"
+Community Living Options,BRENDA,IRVINE,473023172,{Guardian}
+Community Living Options,BRIANA,STENGER,469270813,{Guardian}
+Community Living Options,BRIDGET,PAULSEN,471217603,{Guardian}
+Community Living Options,BRITTANY,FICKBOHM,394253976,{Guardian}
+Community Living Options,CARINE LARISSA,THOUPOU NGOULA,753316745,{Guardian}
+Community Living Options,CARRIE,DESHARNAIS,476065776,{Guardian}
+Community Living Options,CASEY,CROCKER,395040338,{Guardian}
+Community Living Options,CASEY,GRISHAM,477114310,"{FBA,Guardian}"
+Community Living Options,CASSANDRA,MATRIOUS,475043499,{Guardian}
+Community Living Options,CHANTAL,NYAMAHORO,692565038,{Guardian}
+Community Living Options,CHARLENE,MECKEL,468907120,{Guardian}
+Community Living Options,CHARLENE,WETHERN,468886671,{Guardian}
+Community Living Options,CHARLES,SCOTT,473941659,{Guardian}
+Community Living Options,CHARLES,WETHERN,387887301,{Guardian}
+Community Living Options,CHRIS,COX,399763695,{Guardian}
+Community Living Options,CHRISTINE,MATHEWS,469985256,{Guardian}
+Community Living Options,CHRISTINE,ORSBURNE,474760939,{Guardian}
+Community Living Options,CLAREN,REITSMA,473649292,{Guardian}
+Community Living Options,CLAUDIA,BARNETT-GALLEGOS,472298467,{Guardian}
+Community Living Options,COREY,FISHER,630383678,{Guardian}
+Community Living Options,CRYSTAL,ROCK,474043452,{Guardian}
+Community Living Options,CYNTHIA,SIMONSON,472861130,{Guardian}
+Community Living Options,DALE,FORSLIN,344385553,{Guardian}
+Community Living Options,DANA,BREZNIAK,476089551,{Guardian}
+Community Living Options,DANIEL,FREDRICKSON,473705054,{Guardian}
+Community Living Options,DANIELLE,MEYER,476062208,{Guardian}
+Community Living Options,DANIELLE,TETRAULT-WINN,377800292,"{FBA,Guardian}"
+Community Living Options,DANNY,KELLER,397743293,{Guardian}
+Community Living Options,DARLENE,KRUTSCH,474828284,{Guardian}
+Community Living Options,DARLENE,LUNDQUIST,471745702,{Guardian}
+Community Living Options,DAVID,WALTER,471901104,{Guardian}
+Community Living Options,DAWN,STANGER,468945417,{Guardian}
+Community Living Options,DAWNETTE,HANSON,476883511,{Guardian}
+Community Living Options,DAYCIE,DOLAN,468411313,{Guardian}
+Community Living Options,DEAN,HANSON,476788855,{Guardian}
+Community Living Options,DEBORAH,HILL,472863502,{Guardian}
+Community Living Options,DEEDREE,LUDWIG,474847594,"{FBA,Guardian}"
+Community Living Options,DENIELLE,MATTSON,399965043,{Guardian}
+Community Living Options,DENISE,CAMPBELL,471823760,"{FBA,Guardian}"
+Community Living Options,DEREK,MARTIN,471316788,{Guardian}
+Community Living Options,DESIREE,MORSE,471356629,{Guardian}
+Community Living Options,DUSTIN,RUZYNSKI,468068353,"{FBA,Guardian}"
+Community Living Options,EBONY,RICHARD,316114521,{Guardian}
+Community Living Options,ELISHA,NEUKOM,475982394,{Guardian}
+Community Living Options,ERRICA,SPRINGER,619528738,{Guardian}
+Community Living Options,GABRELLE,KINGREY,483296004,{Guardian}
+Community Living Options,GAIL,KOSKINEN,471685780,{Guardian}
+Community Living Options,GARY,SELIX,503234830,{Guardian}
+Community Living Options,GENE,MOEY,474780719,{Guardian}
+Community Living Options,GERALD,JOHNSON,474788766,"{FBA,Guardian}"
+Community Living Options,HALEY,KIRKENDALL,476335295,"{ABA,Guardian}"
+Community Living Options,HEIDI,CARLSON,469869356,{Guardian}
+Community Living Options,HOLLY,PROEFROCK,477239221,{Guardian}
+Community Living Options,HUA,WU,476416701,{Guardian}
+Community Living Options,ISABEL,HESCH,472371790,{Guardian}
+Community Living Options,JACOB,LINCOLN,472295379,{Guardian}
+Community Living Options,JACOB,ZACHRISON,476231109,"{ABA,Guardian}"
+Community Living Options,JACQUELINE,HEAD,473986390,{Guardian}
+Community Living Options,JAIME,TURNER,476116724,{Guardian}
+Community Living Options,JAMES,FALKOWSKI,473194947,"{FBA,Guardian}"
+Community Living Options,JAMIE,MCKELLAR,442807691,{Guardian}
+Community Living Options,JAMIE,MORTENSON,473069319,{Guardian}
+Community Living Options,JANELLE,RAIVO,471949392,{Guardian}
+Community Living Options,JARED,MCPHEETERS,650282383,{Guardian}
+Community Living Options,JARED,YERKE,393069714,{Guardian}
+Community Living Options,JASMINE,HICKS,470350817,{Guardian}
+Community Living Options,JASON,BROWN,472869903,{Guardian}
+Community Living Options,JASON,CHARBONNEAU,468211088,"{FBA,Guardian}"
+Community Living Options,JEAN,NADEAU,231490932,{Guardian}
+Community Living Options,JEAN GREGOIRE,BOUIME NEMALA,721764018,{Guardian}
+Community Living Options,JEFFERY,FELTZ,472665785,{Guardian}
+Community Living Options,JEFFERY,WILBUR,315868399,{Guardian}
+Community Living Options,JEFFREY,NELSON,468706969,{Guardian}
+Community Living Options,JENNIFER,LOUDEN,476022520,{Guardian}
+Community Living Options,JENNIFER,SHELTON,473137220,{Guardian}
+Community Living Options,JENNIFER,WRIGHT,474085442,{Guardian}
+Community Living Options,JEREMIAH,ZINKAN,470438700,{Guardian}
+Community Living Options,JEROMY,ZERWAS,476252833,{Guardian}
+Community Living Options,JESSE,HODENA,429816046,{Guardian}
+Community Living Options,JESSE,MCCLOSKEY,474963063,{Guardian}
+Community Living Options,JESSICA,ANDERSON,476741748,{Guardian}
+Community Living Options,JESSICA,JOHNSON,474179854,{Guardian}
+Community Living Options,JESSICA,ROBIN,470086198,{Guardian}
+Community Living Options,JOANN,MAKI,476024509,{Guardian}
+Community Living Options,JOCELYN,HATFIELD,473158258,{Guardian}
+Community Living Options,JODI,PETERSON,471806902,{Guardian}
+Community Living Options,JOHANNA,DIETHELM,450397466,{Guardian}
+Community Living Options,JOHN,BUCHEK,475809864,{Guardian}
+Community Living Options,JOHNATHAN,FALKOWSKI,473195486,{Guardian}
+Community Living Options,JONATHAN,AUCHI,606347957,{Guardian}
+Community Living Options,JOPHELIA,KILLEN,473477647,{Guardian}
+Community Living Options,JORDAN,COURTOIS,471295136,{Guardian}
+Community Living Options,JOSHUA,WENTHE,471398390,{Guardian}
+Community Living Options,JULIA,HOEKE,473377229,{Guardian}
+Community Living Options,JULIE,EGGEN,639911188,{Guardian}
+Community Living Options,JULIE,HINSLEY,474889737,{Guardian}
+Community Living Options,JULIE,STOTTLER,469924952,{Guardian}
+Community Living Options,JUNE,HADLOCK,392849747,{Guardian}
+Community Living Options,JUSTIN,ANDERSON,270455225,{Guardian}
+Community Living Options,KAITLIN,BISHOP,393081385,{Guardian}
+Community Living Options,KARIE,LANG,471682961,{Guardian}
+Community Living Options,KATHERINE,HORRISBERGER,476190875,{Guardian}
+Community Living Options,KATHIE,HODENA,430811945,{Guardian}
+Community Living Options,KATHY,FLYNN,474869772,{Guardian}
+Community Living Options,KATIE,LONG,473374384,{Guardian}
+Community Living Options,KATIE,SIMON,399960395,{Guardian}
+Community Living Options,KAYLA,NELSON,471111192,{Guardian}
+Community Living Options,KAYLA,VALENCIA,614268476,{Guardian}
+Community Living Options,KEITH,JOHNSON,234250737,{Guardian}
+Community Living Options,KELLY,RHODES,474113936,"{FBA,Guardian}"
+Community Living Options,KENDRA,DRAKE,389961332,"{FBA,Guardian}"
+Community Living Options,KENNETH,HUMPHREY,477046953,"{FBA,Guardian}"
+Community Living Options,KIMI,HARWOOD,545632068,{Guardian}
+Community Living Options,KIRSTYN,KAISERLIK,468394076,{Guardian}
+Community Living Options,KRISTIN,MILLERBERND,468747057,{Guardian}
+Community Living Options,KRISTINA,PETERS,475903136,{Guardian}
+Community Living Options,KRYSTAL,GOEPFERT,394022205,{Guardian}
+Community Living Options,KURT,BLOOM,477949424,{Guardian}
+Community Living Options,KYLIE,HEGG,468413177,{Guardian}
+Community Living Options,KYLIE,MEADOWS,632842015,{Guardian}
+Community Living Options,LEAH,CLIMER,475333959,{Guardian}
+Community Living Options,LEAH,ETTER,503215913,"{FBA,Guardian}"
+Community Living Options,LIAM,TROTT,387239727,"{FBA,Guardian}"
+Community Living Options,LILIANE,NKONGOLO,888869409,{Guardian}
+Community Living Options,LINDA,FELTZ,468662926,{Guardian}
+Community Living Options,LINDSAY,CLEAR,476080730,{Guardian}
+Community Living Options,LISA,BLUME,473172043,{Guardian}
+Community Living Options,LISA,REICHOW,470116949,{Guardian}
+Community Living Options,LISA,ROGNE,477925031,{Guardian}
+Community Living Options,LOGAN,RUSTOM,470398749,{Guardian}
+Community Living Options,LOGAN,SCHAAF,389236621,{Guardian}
+Community Living Options,LUCAS,ANDERSON,469376795,{Guardian}
+Community Living Options,MARGARET,BECKSTRAND,468194300,"{FBA,Guardian}"
+Community Living Options,MARK,OLSON,469843398,"{FBA,Guardian}"
+Community Living Options,MARK,SCHERER,468586736,{Guardian}
+Community Living Options,MARTINA,BRUCHU,468310564,{Guardian}
+Community Living Options,MARVIN,CLARK,352540770,{Guardian}
+Community Living Options,MARY,STONE,475705617,{Guardian}
+Community Living Options,MATTHEW,ANDERSON,473829873,"{FBA,Guardian}"
+Community Living Options,MATTHEW,SCHINZEL,469314252,{Guardian}
+Community Living Options,MATTHEW,SPURBECK,473319700,{Guardian}
+Community Living Options,MEGAN,MITCHELL,503155007,{Guardian}
+Community Living Options,MELISSA,JELBERG,472949434,{Guardian}
+Community Living Options,MELISSA,MAGNUSON,476412067,{Guardian}
+Community Living Options,MERLIN,POWELL,476357217,{Guardian}
+Community Living Options,MICHAEL,DUPRE,472906701,"{FBA,Guardian}"
+Community Living Options,MICHAEL,FILLER,474088630,{Guardian}
+Community Living Options,MICHAEL,ROATCH,393802055,{Guardian}
+Community Living Options,MICHELLE,BRAIN,475868960,{Guardian}
+Community Living Options,MICHELLE,GUPTILL,470844805,{Guardian}
+Community Living Options,MINDY,ANDERSON,469156061,{Guardian}
+Community Living Options,MOMOH,FREEMAN,628740560,{Guardian}
+Community Living Options,MORGAN,ANDERSON,473372596,{Guardian}
+Community Living Options,MUSU,GARLAKOR,664647747,{Guardian}
+Community Living Options,NANCY,PARENT,476783431,"{FBA,Guardian}"
+Community Living Options,NATALIE,WOLD,484869266,{Guardian}
+Community Living Options,NELSON,DUFRESNE,593200058,{Guardian}
+Community Living Options,NICHOLAS,BUISMAN,515948991,{Guardian}
+Community Living Options,NICHOLAS,DIANCHRIST,489170755,{Guardian}
+Community Living Options,NICHOLAS,ZACHRISON,470352709,{Guardian}
+Community Living Options,NICO,STEINBACH,477882355,{Guardian}
+Community Living Options,NICOLE,HEJNY,470158868,{Guardian}
+Community Living Options,NICOLE,ISAACSON,470866337,{Guardian}
+Community Living Options,NIKITA,TAYLOR,637883969,{Guardian}
+Community Living Options,PAMELA,SERACKI,470826777,"{FBA,Guardian}"
+Community Living Options,PATRICE,OLSON,476783032,{Guardian}
+Community Living Options,PATRICIA,KARAS,476688200,{Guardian}
+Community Living Options,PATTI,ARNT,396720633,{Guardian}
+Community Living Options,PAULA,BUTTERFIELD,470929304,{Guardian}
+Community Living Options,PAULA,SPAFFORD,393881181,{Guardian}
+Community Living Options,PEGGY,DUTCHER,470156218,"{FBA,Guardian}"
+Community Living Options,PETER,BLADOW,504709538,{Guardian}
+Community Living Options,RACHEL,AINLEY,396883668,{Guardian}
+Community Living Options,RACHEL,ELMSTRAND,474740436,{Guardian}
+Community Living Options,RANDALL,KOEP,474924367,{Guardian}
+Community Living Options,RAYNA,SURDEY,472029936,{Guardian}
+Community Living Options,RICHARD,PAYNE,475743324,{Guardian}
+Community Living Options,ROBIN,GILLILAND,476826263,{Guardian}
+Community Living Options,RONALD,HOFF,471842123,{Guardian}
+Community Living Options,RONI DILANE,PAGNING,848659561,{Guardian}
+Community Living Options,ROY KAME,JULIEN,078474555,{Guardian}
+Community Living Options,RUKIAH Y,PASSAWEE TOE,375975626,{Guardian}
+Community Living Options,RYAN,HARD,476350808,{Guardian}
+Community Living Options,RYAN,WILLEY,397217846,{Guardian}
+Community Living Options,SABRINA,RUTHSTROM,472411313,{Guardian}
+Community Living Options,SALLY,SAY,476904426,{Guardian}
+Community Living Options,SAMANTHA,STIFTER,477338386,{Guardian}
+Community Living Options,SARA,NELSON,474150480,{Guardian}
+Community Living Options,SARAH,BORRIS,475040452,{Guardian}
+Community Living Options,SCOT,CHAVEZ,110606803,{Guardian}
+Community Living Options,SEAN,HACKER,617225550,{Guardian}
+Community Living Options,SHADOW,IRVINE-CAHILL,468336421,{Guardian}
+Community Living Options,SHANE,SMITH,476119946,{Guardian}
+Community Living Options,SHARLENE,SENSKE,475905769,{Guardian}
+Community Living Options,SHEILA,BIGGINS,474829147,{Guardian}
+Community Living Options,SHEILA,JELLISON,468945462,{Guardian}
+Community Living Options,SHERI,ZUNIGA,472889680,{Guardian}
+Community Living Options,SKYE,GILBERT,471433076,{Guardian}
+Community Living Options,SONIA,FITZGERALD,477961495,{Guardian}
+Community Living Options,STEPHANIE,BEAULIEU,468883675,{Guardian}
+Community Living Options,STEPHANIE,EGGE,469274762,"{FBA,Guardian}"
+Community Living Options,STEPHANIE,MEISSNER,390826245,{Guardian}
+Community Living Options,STEPHANIE,MUELLER,398825538,{Guardian}
+Community Living Options,STEPHANIE,OLSON,470084379,"{FBA,Guardian}"
+Community Living Options,STEVEN,DESHARNAIS,477216448,{Guardian}
+Community Living Options,STEVEN,WITTE,476840244,{Guardian}
+Community Living Options,SUSAN,LONGMORE,472863806,{Guardian}
+Community Living Options,SUSAN,MCKAY,472969875,{Guardian}
+Community Living Options,TAJAB,ABDULAZIZ,470459409,{Guardian}
+Community Living Options,TARA,LAURSEN,472947503,{Guardian}
+Community Living Options,TAYLOR,BENNETT-MEALEY,472356939,{Guardian}
+Community Living Options,TAYLOR,GARDNER,477434517,{Guardian}
+Community Living Options,TAYLOR,TOPP,472271540,{Guardian}
+Community Living Options,TERA,HOPKINS,471041434,{Guardian}
+Community Living Options,TERESA,JOHNSON,393700549,{Guardian}
+Community Living Options,TERESA,ROSSOW,470906281,{Guardian}
+Community Living Options,TERRY,JOKINEN,471682733,{Guardian}
+Community Living Options,THERESA,HOFER-NELSON,468964618,"{FBA,Guardian}"
+Community Living Options,THOMAS,ROCK,476068730,{Guardian}
+Community Living Options,TIMOTHY,HAWES,469111589,{Guardian}
+Community Living Options,TONY,KURSCHNER,470924261,"{FBA,Guardian}"
+Community Living Options,TORI,FULWEILER,522277268,{Guardian}
+Community Living Options,VALERIE,ANDERSON,397743227,{Guardian}
+Community Living Options,VANESSA,ECKDAHL,474159224,{Guardian}
+Community Living Options,VIOLA,MELTON,601076650,{Guardian}
+Community Living Options,WILLIAM,GANLEY,475580117,{Guardian}
+Community Living Options,ZAWADI,SAGARUKE,086637823,{Guardian}
+Cornerstone Management Services LLC,AIMEE,CAHOON,484198604,{Guardian}
+Cornerstone Management Services LLC,ALEXA,TRIM,388232484,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ALICE,MOREMA,106413878,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ALISA,BENEKE,474153123,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,ALYSSA,HATLAND,478292082,{Guardian}
+Cornerstone Management Services LLC,AMANDA,KOLSRUD,485159497,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,AMANDA,ROSENBERG,398960667,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,AMBER,ELLIS,480278151,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,AMY,CHLEBORAD,475686338,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ANDERS,NYGREN,474151974,{Guardian}
+Cornerstone Management Services LLC,ANGELA,BOYLE,333704915,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ANGELA,LANGE,469965981,{Guardian}
+Cornerstone Management Services LLC,ANGIE,ELLENBECKER,399660065,{Guardian}
+Cornerstone Management Services LLC,APRIL,ROVANG,470136598,"{ABA,BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,ASHLEY,BOETTCHER,473171096,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ASHLEY,GENTZ,479258613,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ASHLEY,HEFFERNON,394119855,{Guardian}
+Cornerstone Management Services LLC,ASHLEY,KLINKNER,476113831,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ASHLEY,LUCAS,398086485,{Guardian}
+Cornerstone Management Services LLC,ASHLEY,RONNING,387089745,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,AUDRA,DEISS,395885685,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,BEN,HANSON,468233374,{Guardian}
+Cornerstone Management Services LLC,BETH,DILLABOUGH,366862961,{Guardian}
+Cornerstone Management Services LLC,BETHANY,FRIEDRICH,399767553,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,BOBBI JO,PLUGER,399905299,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,BRENDA,MCKNIGHT,468900757,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,BRENDA,PETERSEN,470780053,{Guardian}
+Cornerstone Management Services LLC,BRENDA,WYANT,477826202,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,BRIAN,OLSON,473331107,{Guardian}
+Cornerstone Management Services LLC,BRITTANY,BURNETT,472273514,{Guardian}
+Cornerstone Management Services LLC,BRITTNEY,MILLER,481210252,{Guardian}
+Cornerstone Management Services LLC,CANDACE,HERRERA,398905305,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,CASEY,FORCE,520986631,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,CHRISTINE,CALNIN,399506184,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,CINDY,DRALLE,483785096,{Guardian}
+Cornerstone Management Services LLC,CINDY,MAYFIELD,485741718,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,CINDY,MUSTA,477727184,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,CINDY,WOOLLEY,475048562,{BCBSMN}
+Cornerstone Management Services LLC,CONNIE,LAUER,478828253,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,CONNIE,SUNDE,468629862,{Guardian}
+Cornerstone Management Services LLC,CYNTHIA,BREIWA,399788471,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DANA,DAVENPORT,006863850,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DARCIE,HOCKINSON,472886189,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DARLENE,ONEIL,472860870,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DAWN,BRATTEN,388661191,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,DAWN,RAND,388943244,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DAWN,SEVER,514762666,{Guardian}
+Cornerstone Management Services LLC,DEANNA,TITUS,480885944,{Guardian}
+Cornerstone Management Services LLC,DEBRA,STREETT,391848195,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,DENIS,OYARO,468398871,{Guardian}
+Cornerstone Management Services LLC,DIANE,TOUSLEY,472863475,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DINA,PERROTTO,471744316,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DONNA,BESEKE,469947372,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,DONNA,KOLSRUD,482024158,{Guardian}
+Cornerstone Management Services LLC,DORIS,VANDE LOO,392701059,{Guardian}
+Cornerstone Management Services LLC,DWAYNE,HEARD,331646648,{BCBSMN}
+Cornerstone Management Services LLC,EKHLAS,ATIYATALA,011250737,{Guardian}
+Cornerstone Management Services LLC,EMILY,CLAUSON,394088262,{BCBSMN}
+Cornerstone Management Services LLC,EMILY,DOEGE,468330266,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ERIC,HERSHEY,471173976,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ERIC,SYRING,394722253,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,ERICA,SCHMITT,521471354,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,FERLYN,CAREY,619740860,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,FRED,HELGERSON,473749004,{Guardian}
+Cornerstone Management Services LLC,GINA,THOMPSON,470963234,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,HAILEY,WERNER,470332033,"{ABA,BCBSMN}"
+Cornerstone Management Services LLC,HALIE,FISH,388230971,"{ABA,Guardian}"
+Cornerstone Management Services LLC,HEIDI,LOWERY,484803012,"{ABA,BCBSMN,Guardian}"
+Cornerstone Management Services LLC,HEIDI,SHOWERS,483068568,{Guardian}
+Cornerstone Management Services LLC,JACQUELYN,STRINI,501981180,{FBA}
+Cornerstone Management Services LLC,JANELYN,GUYER,485806081,{BCBSMN}
+Cornerstone Management Services LLC,JANNA,GIANOLI,392907853,{BCBSMN}
+Cornerstone Management Services LLC,JAY,GUNNARSON,470942661,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JAYNE,WETZSTEIN,473789469,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JEAN,KING,202546201,"{ABA,BCBSMN}"
+Cornerstone Management Services LLC,JENNIFER,KUEHL,477709399,{BCBSMN}
+Cornerstone Management Services LLC,JERICA,MILLER,483299474,{Guardian}
+Cornerstone Management Services LLC,JESSE,CORAGGIO,387139866,{BCBSMN}
+Cornerstone Management Services LLC,JESSICA,VILLA,639289892,{ABA}
+Cornerstone Management Services LLC,JESSICA,WILLIAMS,395921515,{Guardian}
+Cornerstone Management Services LLC,JILL,BOLEY,475530943,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JILL,RICHARDS,484061351,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JOANN,SVOBODA,483687854,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JODEE,JEVNE,473967929,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,JOHN,KOSKIE,478880576,{Guardian}
+Cornerstone Management Services LLC,JORDAN,LANGE,470254427,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JULIE,BISHOP,469784515,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JULIE,TORGERSON,482869930,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,JUSTIN,MURPHY,472177206,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,KAREN,HOFFMAN,476740389,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,KARI,BLOOMFIELD,476069195,{Guardian}
+Cornerstone Management Services LLC,KATY,WINTER,473216930,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,KAY,FIELDING,564332093,{BCBSMN}
+Cornerstone Management Services LLC,KAYLA,MCKNIGHT,472257431,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,KELLY,BROWN,479967127,{Guardian}
+Cornerstone Management Services LLC,KEVIN,LANGE,472829389,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,KRISTI,DEAN,591010507,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,KRISTINA,KRUMENAUER,397826373,{Guardian}
+Cornerstone Management Services LLC,KYLIE,JONES,482255198,{Guardian}
+Cornerstone Management Services LLC,LESA,FASCHING,501963830,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,LESLIE,YOUNG,388908912,{Guardian}
+Cornerstone Management Services LLC,LESTER,FLEMMING,394137013,{Guardian}
+Cornerstone Management Services LLC,LIBBY,LAIN,399762849,{Guardian}
+Cornerstone Management Services LLC,LINA,PADILLA,118459226,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,LINDA,BODUO,036685719,{Guardian}
+Cornerstone Management Services LLC,LINDA,KLEINSCHMIDT,478847246,{Guardian}
+Cornerstone Management Services LLC,LINDA,VILAI,476178722,{Guardian}
+Cornerstone Management Services LLC,LINDSEY,JOHNSTON,484029538,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,LISA,CAMPBELL,469844662,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,LISA,LANGE,469967406,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,MARGARET ANN,TAYLOR,388822057,{Guardian}
+Cornerstone Management Services LLC,MARIA,HERNANDEZ,622908711,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MARIFE,THOMPSON,298318379,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MARIO,CHILLIS,354561699,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MARISSA,KIEFER,397116690,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MARK,BUFANO,562023469,{Guardian}
+Cornerstone Management Services LLC,MARK,DICKSON,468647004,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MARY,SIERZANT,389786093,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MEGAN,PICTON,468431446,{BCBSMN}
+Cornerstone Management Services LLC,MELBA,DAVIS,324496882,{Guardian}
+Cornerstone Management Services LLC,MELISSA,FOHRMAN,476065151,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,MELISSA,HOFER,468968501,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,MELLISSA,NICKERSON,390900506,{Guardian}
+Cornerstone Management Services LLC,MICHAEL,MURPHY,571271784,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,MICHAEL,SMITH,395660861,{Guardian}
+Cornerstone Management Services LLC,MICHELLE,GORST,473926737,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,MICHELLE,WILSON,395943745,{Guardian}
+Cornerstone Management Services LLC,MICKI,GARTNER,476960819,"{BCBSMN,FBA}"
+Cornerstone Management Services LLC,MIRANDA,STAHN,469235951,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,MOLLY,FROVIK,473988210,{Guardian}
+Cornerstone Management Services LLC,MOLLY,MCMAHON,478318679,{Guardian}
+Cornerstone Management Services LLC,NALINIE,BUDHRAM,730161399,{Guardian}
+Cornerstone Management Services LLC,NATASHA,ELAM,481080324,{Guardian}
+Cornerstone Management Services LLC,NICHOLAS,CROOKS,572350185,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,NORAH,MORANGA,472479071,{Guardian}
+Cornerstone Management Services LLC,PHILIP,WANNA,473156920,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,RACHEL,JOHNSON,469296991,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,RAELYN,SPEICHER,473316808,{Guardian}
+Cornerstone Management Services LLC,REBECCA,RUTGERS,476088217,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,RITA,HORST,584159355,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,RYAN,RAVELLETTE,492088615,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,SAMANTHA,AYLSWORTH,471293062,{Guardian}
+Cornerstone Management Services LLC,SAMANTHA,RETTINGER,394178081,{Guardian}
+Cornerstone Management Services LLC,SAMANTHA,THOMPSON,764102346,{Guardian}
+Cornerstone Management Services LLC,SANDRA,WOLFF,484988922,{Guardian}
+Cornerstone Management Services LLC,SANDY,JONES,478901180,{Guardian}
+Cornerstone Management Services LLC,SANGHAY,MASSALEY,471553537,{Guardian}
+Cornerstone Management Services LLC,SAUL,VILLA ALCALA,334535473,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,SHELLY,SMIDT,503942702,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,SHERRI,FLEMING,470886334,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,STEPHANIE,PUENTE,639507976,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,STEPHENY,BRONSTAD,521570738,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,STEVEN,HACKETT,526431920,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,TAMARA,HARMS,483809842,"{BCBSMN,FBA,Guardian}"
+Cornerstone Management Services LLC,TARA,HAUGEN,468886778,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,TEANKE,TARWAI,470376008,{Guardian}
+Cornerstone Management Services LLC,TEEIA,WOODARD,393889834,{Guardian}
+Cornerstone Management Services LLC,TINA,PILARSKI,391725216,"{BCBSMN,Guardian}"
+Cornerstone Management Services LLC,TRACIE,SCHABER,472745295,{BCBSMN}
+Cornerstone Management Services LLC,TRACY,LEONARD,474767730,{Guardian}
+Cornerstone Management Services LLC,VALERIE,EGAN,479082305,{Guardian}
+Cornerstone Management Services LLC,WERIS,SAID,229690685,{Guardian}
+Cornerstone Management Services LLC,WILLIAM,ACREY,142726645,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,ANNE,RUMSEY,200681906,"{BCBSMN,FBA,Guardian}"
+Crescent Health Care Group LLC,BRIAN,LEE,138522778,{Guardian}
+Crescent Health Care Group LLC,HELEN,MURAGE,132942996,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,HOLLIEM,HUNT,144641154,{Guardian}
+Crescent Health Care Group LLC,JACQUELINE,BOYD,142703627,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,LASHONDA,JONES-ACREY,158725978,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,LAWRENCE,RUSSELL,156725536,{Guardian}
+Crescent Health Care Group LLC,MARIBEL,PADILLA,098585822,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,MICHAEL,SMITH,175529231,"{BCBSMN,Guardian}"
+Crescent Health Care Group LLC,NITISHA,SPENCER,157822093,{Guardian}
+Crescent Health Care Group LLC,OMORO,BRYANT,135743454,{Guardian}
+Crescent Health Care Group LLC,PETULA,BRADLEY,142722076,{Guardian}
+Crescent Health Care Group LLC,TIAJA,BILAH,247976844,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,AALIYAH,HOWARD,342900185,{Guardian}
+Dellwood Gardens/Millers Landing,AKUA,AMANKWAAH,884859022,{Guardian}
+Dellwood Gardens/Millers Landing,ANNA,NATT-WILLIAMS,150969170,{Guardian}
+Dellwood Gardens/Millers Landing,ANTOINETTE,GLASBY,348985408,{Guardian}
+Dellwood Gardens/Millers Landing,ARIEL,HALL,350860458,{Guardian}
+Dellwood Gardens/Millers Landing,AVERY,ROWEL,622065779,{Guardian}
+Dellwood Gardens/Millers Landing,BARBARA,MAYBERRY,426375456,{Guardian}
+Dellwood Gardens/Millers Landing,BRIAN,HAYWOOD,355500640,{Guardian}
+Dellwood Gardens/Millers Landing,BRYANT,EVANS,355543954,{Guardian}
+Dellwood Gardens/Millers Landing,CLINTON,SIMMONS,334764133,{Guardian}
+Dellwood Gardens/Millers Landing,COLIN,ZACHER - SULLIVAN,472235500,{Guardian}
+Dellwood Gardens/Millers Landing,DAMITA,MAJOR,140764342,{Guardian}
+Dellwood Gardens/Millers Landing,DANIELLE,RAMSTROM,475191685,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,DEANGELO,STEPHENS,125828874,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,DEVONTE,PULLUM,341880620,{Guardian}
+Dellwood Gardens/Millers Landing,EDWIN,BLEMIE,127179262,{Guardian}
+Dellwood Gardens/Millers Landing,ELANA,HEGRANES,474415923,{Guardian}
+Dellwood Gardens/Millers Landing,ELIZABETH,MC CLEAR,522573374,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,EPHREM,DEMISSIE,470392916,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,ILEAN,TAYLOR,360581145,{Guardian}
+Dellwood Gardens/Millers Landing,JENNIFER,SULLIVAN,471987413,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,JODY,MALIK,469841790,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,JOETTA,ADAMS,055257310,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,JOHN,MADISON,104586640,"{BCBSMN,Guardian}"
+Dellwood Gardens/Millers Landing,KADEJSHA,KIBBLE,474275552,{Guardian}
+Dellwood Gardens/Millers Landing,KARI,GARDNER,394866624,{Guardian}
+Dellwood Gardens/Millers Landing,KARLISHA,JOHNSON,350768346,{Guardian}
+Dellwood Gardens/Millers Landing,KATIE,STADTHER,468980001,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,KAYLEN,HARVELL,348960762,{Guardian}
+Dellwood Gardens/Millers Landing,KEMONIE,ROAN,476391395,{Guardian}
+Dellwood Gardens/Millers Landing,KIMBERLY,HINES,472299071,{Guardian}
+Dellwood Gardens/Millers Landing,KUNISHA,ANDERSON,476111837,{Guardian}
+Dellwood Gardens/Millers Landing,LATEASHA,MURRY,370882613,{Guardian}
+Dellwood Gardens/Millers Landing,LATRISHA,GOODMAN,476087729,{Guardian}
+Dellwood Gardens/Millers Landing,LAYA,MORK,477295511,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,LINDSAY,SCHMIDT,392041906,{Guardian}
+Dellwood Gardens/Millers Landing,LORINDA,SWEEZY,326729140,{Guardian}
+Dellwood Gardens/Millers Landing,MA-GBORLU,SHERIFF,477476891,{Guardian}
+Dellwood Gardens/Millers Landing,MARCELUS,GULLEY,357921077,{Guardian}
+Dellwood Gardens/Millers Landing,MARY,KINNIEBREW,468807135,{Guardian}
+Dellwood Gardens/Millers Landing,PABLO,MEYER,477412780,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,PHILIP,MAHLSTADT,389048043,{Guardian}
+Dellwood Gardens/Millers Landing,RANDEE,LACKTORIN,468199988,{Guardian}
+Dellwood Gardens/Millers Landing,ROSE,OSOKPO,473491849,"{BCBSMN,FBA,Guardian}"
+Dellwood Gardens/Millers Landing,RUSSELL,GOLDER,504808723,{Guardian}
+Dellwood Gardens/Millers Landing,SAMUEL,JINADU,730215429,{Guardian}
+Dellwood Gardens/Millers Landing,SIGRID,VANDEMARK,472040896,{Guardian}
+Dellwood Gardens/Millers Landing,TAKEELA,BROWN,476680170,{Guardian}
+Dellwood Gardens/Millers Landing,TAMEKA,NEWTON,470021341,{Guardian}
+Dellwood Gardens/Millers Landing,TAMIKA,AMES,475357200,{Guardian}
+Dellwood Gardens/Millers Landing,TASHA,NUTALL,330802634,{Guardian}
+Dellwood Gardens/Millers Landing,THERESA,ANDERSON,472826837,{Guardian}
+Dellwood Gardens/Millers Landing,TREAJA,KING,351906776,{Guardian}
+Dellwood Gardens/Millers Landing,TRE MEESCIA,HOPPER,472237548,{Guardian}
+Dellwood Gardens/Millers Landing,URSULA,RANKINS,343647084,{Guardian}
+Dellwood Gardens/Millers Landing,YASMIN,DIRIE,471335635,{Guardian}
+Dellwood Gardens/Millers Landing,YESHI,LEMMA,671490644,{Guardian}
+Eagle Ridge Senior Living,BLAYNE,PECKMAN,398152083,{Guardian}
+Eagle Ridge Senior Living,BRIANNA,VIEBROCK,389250017,{Guardian}
+Eagle Ridge Senior Living,CAITLIN,STARKEN,505338704,"{BCBSMN,Guardian}"
+Eagle Ridge Senior Living,JO,PERKINS,470867937,{Guardian}
+Eagle Ridge Senior Living,KARI,BURROWS,474981432,"{BCBSMN,Guardian}"
+Eagle Ridge Senior Living,LEE,PACKER,397802302,"{BCBSMN,Guardian}"
+Eagle Ridge Senior Living,LINDSAY,OLLILA,468199123,"{BCBSMN,Guardian}"
+Eagle Ridge Senior Living,NICOLE,MANGAN,394784436,"{BCBSMN,Guardian}"
+Eagle Ridge Senior Living,TAMMY,MONTPETIT,474847463,"{BCBSMN,Guardian}"
+Foundations Autism Center,ALEXIA,SCOTT,468376991,{Guardian}
+Foundations Autism Center,ASHLEY,JOHNSON,475195109,{Guardian}
+Foundations Autism Center,AVERY,HARRISON,477274687,"{FBA,Guardian}"
+Foundations Autism Center,BRIANNA,MIDDENDORF,472435869,{Guardian}
+Foundations Autism Center,CHELSEY,PETERSON,471236893,{Guardian}
+Foundations Autism Center,ELENA,JARRETT,629701273,{Guardian}
+Foundations Autism Center,JAMIE,STEMPFLEY,623965638,{Guardian}
+Foundations Autism Center,JESSICA,SAUTER,485192548,"{FBA,Guardian}"
+Foundations Autism Center,KAILA,BURROUGHS,443088370,"{FBA,Guardian}"
+Foundations Autism Center,KRISTI,HARTUNG,475082499,{Guardian}
+Foundations Autism Center,KRISTINE,WAINRIGHT-TADYCH,475042474,"{FBA,Guardian}"
+Foundations Autism Center,LUKE,SCHUMACHER,474436685,{Guardian}
+Foundations Autism Center,MADISON,TADYCH,468399980,{Guardian}
+Foundations Autism Center,MIRANDA,SEFFINGA,468237798,"{FBA,Guardian}"
+Foundations Autism Center,NANCY,CHRISTOPHERSON,472153436,{Guardian}
+Foundations Autism Center,RILEY,BLANKENHORN,607274821,{Guardian}
+Greater MN Community SRV,BENJAMIN,ERIE,477061116,"{FBA,Guardian}"
+Greater MN Community SRV,DEBORAH,DOBBINS,474907201,{Guardian}
+Greater MN Community SRV,KRISTIN,APPEL,471218888,"{FBA,Guardian}"
+Greater MN Community SRV,LISA,LIVINGSTON,501084786,{Guardian}
+Greater MN Community SRV,MANDI,MURPHY,502043677,{Guardian}
+Greater MN Community SRV,NICOLE,BAEM,502041893,{Guardian}
+Greater MN Community SRV,ROBIN,LAUTH,502880325,{Guardian}
+Greater MN Community SRV,SHANNON,PAUNA,469047503,"{FBA,Guardian}"
+Greater MN Community SRV,TABITHA,CADMUS,474171172,{Guardian}
+Greater MN Community SRV,TAYLOR,KEEGAN-OSTASH,501359980,"{FBA,Guardian}"
+Greenwood Connections,AMANDA,LANE,476885981,"{FBA,Guardian}"
+Greenwood Connections,AMBER,SHELTON,474045113,{Guardian}
+Greenwood Connections,AMY,KOR,477137354,"{FBA,Guardian}"
+Greenwood Connections,AUTUMN,DELEON,471417280,{Guardian}
+Greenwood Connections,BROCK,KAKO,470390891,{Guardian}
+Greenwood Connections,CARRIE,FRIEDL,472152766,{Guardian}
+Greenwood Connections,CARYN,FOX,474171551,{Guardian}
+Greenwood Connections,CHERYL,JOHNSON,470116558,"{FBA,Guardian}"
+Greenwood Connections,CHRISTIAN,WORKMAN,641038487,{Guardian}
+Greenwood Connections,COREY,BENJAMIN,398964149,"{FBA,Guardian}"
+Greenwood Connections,COURTNEY,STEWART,016789893,{Guardian}
+Greenwood Connections,CRYSTAL,JACOB,476745628,"{FBA,Guardian}"
+Greenwood Connections,DANIEL,RIPPENTROP,504881220,"{FBA,Guardian}"
+Greenwood Connections,DAVID,LAKE,476602599,"{FBA,Guardian}"
+Greenwood Connections,DENISSE,OLIVEROS,477085284,{Guardian}
+Greenwood Connections,DONNA,MILLER,476765705,"{FBA,Guardian}"
+Greenwood Connections,DONNA,MURPHY,472745489,"{FBA,Guardian}"
+Greenwood Connections,ELIZABETH,ROBBINS,468333061,{Guardian}
+Greenwood Connections,GAYLE,LIMANEN,472921618,{Guardian}
+Greenwood Connections,GEORGE,GARTNER,476783155,"{FBA,Guardian}"
+Greenwood Connections,HALEY,HECK,472233318,{Guardian}
+Greenwood Connections,HEATHER,GARTNER,473949730,"{FBA,Guardian}"
+Greenwood Connections,HOLDEN,ECKEL,473310825,{Guardian}
+Greenwood Connections,JENNIFER,LEE,476217691,"{FBA,Guardian}"
+Greenwood Connections,JOAN,GRAVELY,475841732,"{FBA,Guardian}"
+Greenwood Connections,JULIA,PALMER,087766892,{Guardian}
+Greenwood Connections,KAREN,LEPINSKI,474540409,{Guardian}
+Greenwood Connections,KARI,GRAVELY,472822187,"{FBA,Guardian}"
+Greenwood Connections,KATRINA,HRDLICKA,530578596,"{FBA,Guardian}"
+Greenwood Connections,KERRI,CONN,473980827,"{FBA,Guardian}"
+Greenwood Connections,KIMBERLY,BASO,477843566,"{FBA,Guardian}"
+Greenwood Connections,KIMBERLY,REDETZKE,477237138,"{FBA,Guardian}"
+Greenwood Connections,LANNA,DAVISON,468021297,"{FBA,Guardian}"
+Greenwood Connections,LAURA,AHLF,474943855,"{FBA,Guardian}"
+Greenwood Connections,LEAH,JOHNSON,471980314,"{FBA,Guardian}"
+Greenwood Connections,LEANN,YLINIEMI,472941940,"{FBA,Guardian}"
+Greenwood Connections,LORRAINE,ENDRES,470219166,"{FBA,Guardian}"
+Greenwood Connections,MADISON,SAURDIFF,474414620,{Guardian}
+Greenwood Connections,MADISYN,MARJAMAA,469391601,"{FBA,Guardian}"
+Greenwood Connections,MARIE,ENTWISTLE,468029600,"{FBA,Guardian}"
+Greenwood Connections,MARISSA,NEVALA,470060410,"{FBA,Guardian}"
+Greenwood Connections,MATTHEW,KAUMANS,505941518,"{FBA,Guardian}"
+Greenwood Connections,MEGAN,ETTER,470062978,"{FBA,Guardian}"
+Greenwood Connections,MELISSA,KOSKI,471969976,"{FBA,Guardian}"
+Greenwood Connections,MONICA,JOHNSON,472023473,{Guardian}
+Greenwood Connections,NANCY,VANDERBEEK,468962936,"{FBA,Guardian}"
+Greenwood Connections,PAMELA,REDMAN,527910887,{Guardian}
+Greenwood Connections,PATRICIA,ANDERSON,471825611,{Guardian}
+Greenwood Connections,PAULA,BAKER,477800336,"{FBA,Guardian}"
+Greenwood Connections,RAELYNN,WHITAKER,468138244,"{FBA,Guardian}"
+Greenwood Connections,REBECCA,LAPINOJA,471746605,"{FBA,Guardian}"
+Greenwood Connections,ROXANNE,GILBERT,471863149,"{FBA,Guardian}"
+Greenwood Connections,SANDRA,ROGNSTAD,477741601,"{FBA,Guardian}"
+Greenwood Connections,SHARON,GOOD,390089958,{Guardian}
+Greenwood Connections,STEPHANIE,WEST,477985067,{Guardian}
+Greenwood Connections,TAMBERLEENE,MAANINGA,469885104,"{FBA,Guardian}"
+Greenwood Connections,TAMMY,BECK,472948774,"{FBA,Guardian}"
+Greenwood Connections,TAMMY,VOSS,469842280,"{FBA,Guardian}"
+Greenwood Connections,TERRY,BECK,475827389,"{FBA,Guardian}"
+Greenwood Connections,THOMAS,ELLINGSON,474847510,"{FBA,Guardian}"
+Greenwood Connections,TRACY,ROGGENKAMP,476131244,{Guardian}
+Greenwood Connections,TROY,JACOB,473847708,"{FBA,Guardian}"
+Greenwood Connections,VICTORIA,MORGAN,468310379,{Guardian}
+Greenwood Connections,VIOLET,PICKAR,469258945,{Guardian}
+Greenwood Connections,WENDY,HAVERINEN,472741585,"{FBA,Guardian}"
+Harry Meyering Center,ADAM,JOHNSON,470087650,"{BCBSMN,Guardian}"
+Harry Meyering Center,ALISHIA,ROLLINGS,473986571,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,ALYSSA,GAVLEK,269046042,"{BCBSMN,Guardian}"
+Harry Meyering Center,AMI,KOUDAYA,470513256,{Guardian}
+Harry Meyering Center,AMIRA,JOHNSON,470276057,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,AMY,HAGER,473781769,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,ANDREA,AMUNDSON,470290496,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,ANDREA,VEROEVEN,469156918,{Guardian}
+Harry Meyering Center,ANNA,OLSON,468083799,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,ANNAMARIA,WHALEN,300704712,"{BCBSMN,Guardian}"
+Harry Meyering Center,AUSTEN,WEK,504256088,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,BEATRICE,OMANDI,676947505,{Guardian}
+Harry Meyering Center,BECKY,GILBERTSON,393904539,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,BENJAMIN,FYVIE,471153980,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,BONNIE,GILBERT,476826852,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,BREANNA,ALLORE,475277477,"{ABA,BCBSMN,Guardian}"
+Harry Meyering Center,BRIDGETTE,WADEKAMPER,472965439,"{BCBSMN,Guardian}"
+Harry Meyering Center,BRITTANY,SMITH,476025375,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,CHAITRA,COLLISON,468270011,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,CHLOE,HRUSKA,474117366,"{BCBSMN,Guardian}"
+Harry Meyering Center,COURTNEY,PENKATY,469355113,{Guardian}
+Harry Meyering Center,DAKOTA,TESKE,515155315,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,DANIELLE,OLSON,471138275,"{BCBSMN,Guardian}"
+Harry Meyering Center,DARCELE,KIES,476669314,"{BCBSMN,Guardian}"
+Harry Meyering Center,DESIREE,STERNHAGEN,476235580,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,DIONISE,DEAN,488021540,"{FBA,Guardian}"
+Harry Meyering Center,ELIZABETH,PETERSEN,474357257,{Guardian}
+Harry Meyering Center,ELLEN,ROBALLO,473909943,"{BCBSMN,Guardian}"
+Harry Meyering Center,EMILY,BRITZ,504980420,"{BCBSMN,Guardian}"
+Harry Meyering Center,ERIN,BERLE,470112064,{Guardian}
+Harry Meyering Center,GABRIELLE,AMUNDSON,468252990,"{BCBSMN,Guardian}"
+Harry Meyering Center,HANNAH,HAWKINSON,472333657,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JAYLIN,DANUSER,468332141,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JAYLNN,YONKER,504235549,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JAYNE,VOLK,477901339,"{BCBSMN,Guardian}"
+Harry Meyering Center,JEFFREY,CONERS,472357591,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JENNIFER,DRGANC,468086617,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JESSICA,INGBRITSON,469190184,{Guardian}
+Harry Meyering Center,JESSICA,PITTS,469134302,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JILL,KINAS,474025952,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JILLIAN,VEROEVEN,471411230,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JOEL,CHINDVALL,471041292,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JOHN,TERHURNE,475520142,{Guardian}
+Harry Meyering Center,JUDITH,LEIBBRAND,474887158,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,JULIA,TRAHMS,468139276,{Guardian}
+Harry Meyering Center,JULIE,ERDMAN,473887638,{Guardian}
+Harry Meyering Center,JUSTIN,LAMB,476942722,"{BCBSMN,Guardian}"
+Harry Meyering Center,KAILEY,YUREK,472338632,"{BCBSMN,Guardian}"
+Harry Meyering Center,KATHLEEN,RAVN,472688182,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,KATIE JO,GEORGE,477989858,"{BCBSMN,Guardian}"
+Harry Meyering Center,KYLE,RUETER,485048708,{Guardian}
+Harry Meyering Center,LINDA,LEIDING,503845195,"{BCBSMN,FBA}"
+Harry Meyering Center,MAEGEN,ANDRESZCUK,477333077,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,MARTHA,HARTMAN,477783301,"{BCBSMN,Guardian}"
+Harry Meyering Center,MIRELLA,TORRES JUANTOS,469391643,"{BCBSMN,FBA}"
+Harry Meyering Center,MOLLY,YOCUM,473046115,{Guardian}
+Harry Meyering Center,NICK,PSYCK,509784030,{Guardian}
+Harry Meyering Center,PAMELA,SOMA,485823237,"{FBA,Guardian}"
+Harry Meyering Center,PATRICK,VAUBEL,475520145,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,PAULINE,ROSE,506701863,"{BCBSMN,Guardian}"
+Harry Meyering Center,REBECCA,MEGER,477115069,{Guardian}
+Harry Meyering Center,REBEKAH,UTZ,468083826,{Guardian}
+Harry Meyering Center,RICHARD,BERNARDY,474708871,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,SARAH,KITZMANN,476906434,{Guardian}
+Harry Meyering Center,SARAH,SCHMIDT,473984652,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,SHANNON,GINDORFF,473352802,{Guardian}
+Harry Meyering Center,SHIRLEY,HALL,469923836,{Guardian}
+Harry Meyering Center,STACY,CONWAY,483965457,{Guardian}
+Harry Meyering Center,STEPHANIE,STALOCH,468151560,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,SUSAN,TRNKA,473026325,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,TRACEY,TRUEBENBACH,471943693,"{BCBSMN,FBA,Guardian}"
+Harry Meyering Center,VIRJEAN,LANE-LENERTZ,477886163,"{BCBSMN,FBA,Guardian}"
+Heartland PCA,AMY,ACHMAN,476337028,{Guardian}
+Heartland PCA,DEBORAH,MCALLISTER,496763468,{Guardian}
+Heartland PCA,EMILY,REIMER,325821218,{Guardian}
+Heartland PCA,FARRAH,HALVORSON,470968781,{Guardian}
+Heartland PCA,JESSICA,FURNAS,229495551,{Guardian}
+Heartland PCA,KATIE,KESTER,251730648,{Guardian}
+Heartland PCA,KENNETH,LEE,474259755,{Guardian}
+Heartland PCA,LAURIE,HEY,475869939,{Guardian}
+Heartland PCA,LORI,SOEST,469041014,{Guardian}
+Heartland PCA,LORRAINE,VOVES,468742002,{Guardian}
+Heartland PCA,LYNNETTE,HISCHER,477068526,{Guardian}
+Heartland PCA,MARIA,WARD,471862494,{Guardian}
+Heartland PCA,MARY,CREE,472217381,{Guardian}
+Heartland PCA,NIKKEL,HEINRICH,477331095,{Guardian}
+Heartland PCA,PETER,SENARIGHI,474110565,"{FBA,Guardian}"
+Heartland PCA,ROBIN,AKER,475860678,{Guardian}
+Heartland PCA,RUTH,STOFFERAHN,475800864,{Guardian}
+Heartland PCA,SARA,SENARIGHI,473087405,"{FBA,Guardian}"
+Heartland PCA,SARAH,HAKE,476313340,{Guardian}
+Heartland PCA,TAMI,RIEDEMAN,565390978,"{FBA,Guardian}"
+ICAN,ADAM,STRAND,472432459,{Guardian}
+ICAN,ALEYDA,IZAGUIRRE,630681970,{Guardian}
+ICAN,AMY,SCHAETZKE,474027136,{Guardian}
+ICAN,ANDREA,EWERT,475027158,"{BCBSMN,FBA,Guardian}"
+ICAN,ANDREW,SCHAAL,472784385,{Guardian}
+ICAN,ANGELA,FITZLAFF,477115086,"{BCBSMN,FBA,Guardian}"
+ICAN,ANGIE,CAMACHO,394769350,{Guardian}
+ICAN,AUBREE,WEISE,470254787,{Guardian}
+ICAN,BECKY,ARELLANO,638682509,{Guardian}
+ICAN,BENJAMIN,SERRATO,611624035,{Guardian}
+ICAN,BRANDON,PENA,470451912,{Guardian}
+ICAN,BROOKLYN,LARSON,471353902,{Guardian}
+ICAN,CAITLIN,PAULSON,471310812,{Guardian}
+ICAN,CAREY,ROOT,473048805,"{BCBSMN,FBA,Guardian}"
+ICAN,CARRISSA,GIFFORD,473969440,{Guardian}
+ICAN,CHELSEA,LLOYD,476278070,"{BCBSMN,FBA,Guardian}"
+ICAN,CHRIS,STECK,474062216,"{BCBSMN,FBA,Guardian}"
+ICAN,CONNIE,DAVISON,471806014,"{BCBSMN,Guardian}"
+ICAN,DEBBIE,CULBERTSON,477802172,"{BCBSMN,Guardian}"
+ICAN,DEMARCEL,GONZALEZ,552734734,"{BCBSMN,Guardian}"
+ICAN,DIANE,NELSON,474727938,{Guardian}
+ICAN,DOROTHY,BLANCO,611306500,{Guardian}
+ICAN,DUSTIN,EDSTROM,469354777,{Guardian}
+ICAN,ELVIA,LLANAS,536788386,{Guardian}
+ICAN,EMILY,GUERRA,474417812,{Guardian}
+ICAN,ERYNN,JOHNSON,472258151,{Guardian}
+ICAN,HOPE,WEISE,551696855,{Guardian}
+ICAN,ISAIAH,MAYES,472338116,{Guardian}
+ICAN,JANICE,MILLER,476867237,{Guardian}
+ICAN,JENNIFER,CARLSON,538742659,"{BCBSMN,Guardian}"
+ICAN,JENNIFER,WILLIAMSON,473116020,"{BCBSMN,FBA,Guardian}"
+ICAN,JESSICA,LOEFFLER,471298100,{Guardian}
+ICAN,JOELLA,GOTTSCHALK,475294593,{Guardian}
+ICAN,JONAH,JEVNING,474394470,{Guardian}
+ICAN,JOY,GOTTSCHALK,503766675,"{BCBSMN,Guardian}"
+ICAN,JULIE,WHEELOCK,475909972,"{FBA,Guardian}"
+ICAN,KRISTINA,ECKER,475089362,{Guardian}
+ICAN,KRYSTIN,HERNANDEZ,619237742,{Guardian}
+ICAN,LEANDER,MOUNTAIN,479869801,{Guardian}
+ICAN,LINDA,EBNET,477582904,{Guardian}
+ICAN,LINDA,MIHM,475866201,"{BCBSMN,Guardian}"
+ICAN,LOGAN,OLIEN,473313839,"{BCBSMN,Guardian}"
+ICAN,LORI,EWERT,475521586,"{BCBSMN,FBA,Guardian}"
+ICAN,MARSHA,CICHOS,474845468,{Guardian}
+ICAN,MEGAN,JOHANNECK,477941345,"{BCBSMN,FBA,Guardian}"
+ICAN,MELISSA,MCSHANE,228257565,{Guardian}
+ICAN,MICHAEL,JEVNING,474847178,"{BCBSMN,Guardian}"
+ICAN,MICHELE,MUMME,380823260,{Guardian}
+ICAN,NICOLE,RUX,472118713,"{BCBSMN,Guardian}"
+ICAN,OLIVIA,TERRELL,474312416,"{BCBSMN,Guardian}"
+ICAN,STEPHEN,MOBLEY,670125590,{Guardian}
+ICAN,TALA,SCHAAL,480338606,"{BCBSMN,Guardian}"
+ICAN,TAMI,HEAGY,469944432,"{BCBSMN,Guardian}"
+ICAN,TARYN,SACK,471298087,{Guardian}
+ICAN,TIFFANY,LYNCH,468113165,"{BCBSMN,FBA,Guardian}"
+ICAN,TONYA,MILLER,504788055,"{BCBSMN,FBA,Guardian}"
+ICAN,WHITNEY,GEORGE,470354095,{Guardian}
+JEC Miller,ADAM,GREGG,476236858,"{BCBSMN,Guardian}"
+JEC Miller,AMBER,BARRY,475233006,"{BCBSMN,Guardian}"
+JEC Miller,AMBER,NASERS,373217709,"{BCBSMN,Guardian}"
+JEC Miller,ANIKA,JACKSON,428778990,"{BCBSMN,FBA,Guardian}"
+JEC Miller,BRANDY,KROUBETZ,477969304,"{BCBSMN,Guardian}"
+JEC Miller,CAROLYN,ARMSTRONG,468024944,{Guardian}
+JEC Miller,CHAD,CORNELIUS,477785660,"{BCBSMN,Guardian}"
+JEC Miller,CHRISTINE,SHAMAN,472969531,{BCBSMN}
+JEC Miller,CLARISSA,SULLIVAN,470251914,"{BCBSMN,Guardian}"
+JEC Miller,DALTON,NESSET,473319133,"{BCBSMN,Guardian}"
+JEC Miller,DENISE,MILLER,474762292,"{BCBSMN,Guardian}"
+JEC Miller,DEREK,LASALLE,472217540,"{BCBSMN,Guardian}"
+JEC Miller,EMILY,ELSENPETER,394134491,"{BCBSMN,Guardian}"
+JEC Miller,EMILY,WOOD,474236994,"{BCBSMN,Guardian}"
+JEC Miller,ETHAN,CORNELIUS,470392130,{BCBSMN}
+JEC Miller,HANNA,MARSHALL,470353479,"{BCBSMN,Guardian}"
+JEC Miller,HANNAH,ROBINSON,477276417,"{BCBSMN,FBA,Guardian}"
+JEC Miller,JEFFERY,PANZER,477943174,"{BCBSMN,Guardian}"
+JEC Miller,JENNIFER,GOETZ,601334123,"{BCBSMN,Guardian}"
+JEC Miller,JESSICA,COWLEY,513807367,"{BCBSMN,Guardian}"
+JEC Miller,JESSICA,JONES,350764349,{Guardian}
+JEC Miller,JONDREA,CHAPPLE,592660809,{Guardian}
+JEC Miller,JULIANNA,GOLDBERG,477278817,{Guardian}
+JEC Miller,JULIE,CORNELIUS,477943377,"{BCBSMN,Guardian}"
+JEC Miller,KELLEY,ODONNELL,477270238,"{BCBSMN,FBA,Guardian}"
+JEC Miller,LARRY,STALBERGER,469800106,{Guardian}
+JEC Miller,LAURA,MORD,476084888,"{BCBSMN,Guardian}"
+JEC Miller,LISTINA,MCCOY,470116085,"{BCBSMN,Guardian}"
+JEC Miller,MALCOLM,AL-SAID,131786301,"{BCBSMN,FBA,Guardian}"
+JEC Miller,MANAAL,SAHID,477435304,{Guardian}
+JEC Miller,MARGARET,SLAWIK,474902115,"{BCBSMN,FBA,Guardian}"
+JEC Miller,MICAH,ZAWISTOWSKI,474232425,"{BCBSMN,Guardian}"
+JEC Miller,MICHELLE,BEHRENDS,341704700,"{BCBSMN,Guardian}"
+JEC Miller,MOCKEY,BILE,442753496,{Guardian}
+JEC Miller,RICHARD,ANDERSON,399661609,"{BCBSMN,Guardian}"
+JEC Miller,ROBIN,SCHOUWEILER,475820534,"{BCBSMN,Guardian}"
+JEC Miller,SAMANTHA,SMITH,395085483,"{BCBSMN,Guardian}"
+JEC Miller,SARAH,HOBBIE,393069105,{Guardian}
+JEC Miller,SEAN,ROLISON,476174116,"{BCBSMN,FBA,Guardian}"
+JEC Miller,YASHITA,HOUSTON,345681659,{Guardian}
+J&J Holmes,ALISA,BARNUM,477945131,{FBA}
+J&J Holmes,AMADOU,NGAIDO,472394486,{Guardian}
+J&J Holmes,ANDREA,KUSCHEL,468157379,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,ANDREA,METZGER,273885424,{Guardian}
+J&J Holmes,ANGELA,ANSAH,470909609,{Guardian}
+J&J Holmes,BRIAN,SKROCH,477046365,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,BRIANNA,SMITH,307118860,{Guardian}
+J&J Holmes,CEDRIC,FILIYARO,472315096,"{FBA,Guardian}"
+J&J Holmes,CHERYLANNE,MAILE,475232304,{Guardian}
+J&J Holmes,COURTNEY,WOODS,471238991,"{FBA,Guardian}"
+J&J Holmes,DANETTE,RAMSEY,471842651,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,DORETTA,DUEA,477729895,{Guardian}
+J&J Holmes,ELIZABETH,BOUTA,477087436,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,FAITH,BIGELOW,476159346,{Guardian}
+J&J Holmes,JADE,DOLAN,475983387,{Guardian}
+J&J Holmes,JANELL,SCHOONOVER,468740465,{Guardian}
+J&J Holmes,JANELLE,SOLOMON BEY,500820858,{Guardian}
+J&J Holmes,JONATHAN,FREER,470026934,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,KELLIE,GISH,476982358,"{FBA,Guardian}"
+J&J Holmes,LEYA,RENSHAW,485299662,{Guardian}
+J&J Holmes,LILLIAN,KOROMA,088801194,{Guardian}
+J&J Holmes,MARY,ANDERSEN,474947572,"{BCBSMN,Guardian}"
+J&J Holmes,MISCHA,IDZERDA,514924313,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,NEGIN,EMAMI,474278751,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,NICOLE,ZWILLING,472086646,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,REBECCA,HILLEY,476064863,"{BCBSMN,FBA,Guardian}"
+J&J Holmes,ROBERT,JONES,474989825,"{BCBSMN,Guardian}"
+J&J Holmes,SARA,NEUVILLE,469150947,"{BCBSMN,Guardian}"
+J&J Holmes,SHANNON,NELSON,395985173,{Guardian}
+J&J Holmes,TRISTAN,HAMMELL,478083036,"{FBA,Guardian}"
+JMKS,JANE,HANSEN,471688521,"{BCBSMN,FBA,Guardian}"
+JMKS,MARGARET,SCHAEFER,477864738,"{BCBSMN,FBA,Guardian}"
+JMKS,SHERRY,CHISHOLM,470805155,"{BCBSMN,FBA,Guardian}"
+Jones-Harrison Senior Living,DENIS,OBIRI,277237094,{Guardian}
+Jones-Harrison Senior Living,LEE,XIONG,476398863,{Guardian}
+Lewiston Senior Living,BRENDA,FABER,473847406,{Guardian}
+Lewiston Senior Living,BRIAN,KELLEY,470964490,{Guardian}
+Lewiston Senior Living,BRIDGET,VAN DEN HEMEL,472047393,{Guardian}
+Lewiston Senior Living,HEIDI,DUNCANSON,472840698,{Guardian}
+Lewiston Senior Living,JENNY,SHERMAN,476865497,{Guardian}
+Lewiston Senior Living,KORY,BRIGGS,473986696,{Guardian}
+Lewiston Senior Living,MAGGIE,EDER,398062497,{Guardian}
+Lewiston Senior Living,MARIA,FUENTES,392714270,{Guardian}
+Lewiston Senior Living,MARLENY,GERNES,475538554,{Guardian}
+Lewiston Senior Living,MORGAN,MILLER,474473356,{Guardian}
+"Life By Design, Inc.",ALEKSANDR,STANISHEVSKIY,783333988,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",BARBARA,STUEFEN,475745598,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",BETH,ZEIEN,470663880,"{BCBSMN,Guardian}"
+"Life By Design, Inc.",CAROLE,ABRAHAMSON,476648811,{Guardian}
+"Life By Design, Inc.",CHRISTINA,GARCIA,470179186,{Guardian}
+"Life By Design, Inc.",GERI,OLSON,470849062,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",HALEY,PUCELY,476356680,"{FBA,Guardian}"
+"Life By Design, Inc.",JENNIFER,HUSOM,472064333,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",JENNIFER,ROO,470175431,{BCBSMN}
+"Life By Design, Inc.",JESSICA,FRANTSI,471084879,{Guardian}
+"Life By Design, Inc.",JILL,HUSOM,472820980,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",KATHRYN,CONNER,474130431,{Guardian}
+"Life By Design, Inc.",LISA,CRUISE,451572989,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",LOUANN,LARSON,477762966,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",LYNN,BAXTON,473827351,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",LYNN,MAXSON,470864295,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",MARIAH,FIRN,469317264,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",MATTHEW,CHARBONNEAU,477194786,"{BCBSMN,Guardian}"
+"Life By Design, Inc.",PAMELA,JIRASEK,477684777,"{BCBSMN,Guardian}"
+"Life By Design, Inc.",RHIANA,KIPP,473151970,{Guardian}
+"Life By Design, Inc.",SAMANTHA,FRIENDSHUH,474150977,{Guardian}
+"Life By Design, Inc.",SHERI,VAN ASCH,470901115,"{BCBSMN,FBA,Guardian}"
+"Life By Design, Inc.",SUSAN,METCALF,805229702,{Guardian}
+"Life By Design, Inc.",TRAVIS,BAMFORD,472211703,"{BCBSMN,FBA,Guardian}"
+Living Services Foundation,ABIGAIL,OLSON,476418709,{Guardian}
+Living Services Foundation,AMANDA,LARSON,469235829,{Guardian}
+Living Services Foundation,AMANDA,MILLER,476212552,{Guardian}
+Living Services Foundation,AMANDA,SEELOW,473174086,{Guardian}
+Living Services Foundation,AMBER,PETERSON,469311690,{Guardian}
+Living Services Foundation,AMY,TRELSTAD,468881766,{Guardian}
+Living Services Foundation,ANDREA,SARVELA,476842025,{Guardian}
+Living Services Foundation,ANGEL,SCHMALZ,469028614,{Guardian}
+Living Services Foundation,ANGELA,KIRIAGO,471043724,{Guardian}
+Living Services Foundation,ANGELA,KLEJESKI,475085020,{Guardian}
+Living Services Foundation,APRIL,LEVERTY,477843591,{Guardian}
+Living Services Foundation,BETTY,LINDEMOEN-NEFF,474848546,{Guardian}
+Living Services Foundation,BETTY,RICHTER,473841210,{Guardian}
+Living Services Foundation,BRENDA,BOYD,472089630,{Guardian}
+Living Services Foundation,CALEB,SLEVIN,468252635,{Guardian}
+Living Services Foundation,CHARLENE,AMMEND LONSKY,472153687,{Guardian}
+Living Services Foundation,CHERI,CARLSEN,471807711,{Guardian}
+Living Services Foundation,CINDY,ONASCH,469860701,{Guardian}
+Living Services Foundation,DANIEL,LANGER,475689455,{Guardian}
+Living Services Foundation,DARNELL,HENDRICKSON,468542337,{Guardian}
+Living Services Foundation,DEBRA,BACKLUND,468825496,{Guardian}
+Living Services Foundation,DEVONNA,ROGERS,474358907,{Guardian}
+Living Services Foundation,ELISA,GUTIERREZ,550936587,{Guardian}
+Living Services Foundation,ELYCIA,ROPPE,475962170,{Guardian}
+Living Services Foundation,ERICA,KIMINSKI,475134994,{Guardian}
+Living Services Foundation,FAYE,KRITZECK,476900691,{Guardian}
+Living Services Foundation,HOLLY,MAIN,605360800,{Guardian}
+Living Services Foundation,JACQUELYNNE,NORDSTROM,468063639,{Guardian}
+Living Services Foundation,JENNA,GUSTAFSON,471255353,{Guardian}
+Living Services Foundation,JENNIFER,GLEASON,473178324,{Guardian}
+Living Services Foundation,JENNIFER,HINES,468062753,{Guardian}
+Living Services Foundation,JENNIFER,PETERSON,469923971,{Guardian}
+Living Services Foundation,JESSICA,JOHNSON,246615647,{Guardian}
+Living Services Foundation,JESSICA,RIEDL,468216954,{Guardian}
+Living Services Foundation,JESSIE,BERCKES,503869067,{Guardian}
+Living Services Foundation,JODY,BALOUN,503703045,{Guardian}
+Living Services Foundation,JULIE,BOTTELBERGHE,477662360,{Guardian}
+Living Services Foundation,JUSTIN,PESCH,470069706,{Guardian}
+Living Services Foundation,KATHERINE,SCHLENNER,477763066,{Guardian}
+Living Services Foundation,KATHY,JOHNSON,474807181,{Guardian}
+Living Services Foundation,KEVIN,LEVERTY,473902942,{Guardian}
+Living Services Foundation,KIRSTIE,ROGALSKI,469290017,{Guardian}
+Living Services Foundation,KONRAD,LEWIS,474065972,{Guardian}
+Living Services Foundation,LAURA,LARSON,471708130,"{FBA,Guardian}"
+Living Services Foundation,LAURIE,HAUGEN,471701389,{Guardian}
+Living Services Foundation,LINDA,ASTEDT,473842394,{Guardian}
+Living Services Foundation,MARIAH,DALBEC,472434248,{Guardian}
+Living Services Foundation,MAY,SPROESSIG,471472727,{Guardian}
+Living Services Foundation,MELISSA,GOLLY,474969826,{Guardian}
+Living Services Foundation,MELISSA,LOZENSKI,470928720,"{FBA,Guardian}"
+Living Services Foundation,MELISSA,MATTFELD,475332253,{Guardian}
+Living Services Foundation,MERCEDES,GOMEZ,801891016,{Guardian}
+Living Services Foundation,MERLA,TRYTTEN,788633314,{Guardian}
+Living Services Foundation,MOLLIE,DUCLOS,477901021,{Guardian}
+Living Services Foundation,NANCY,DOBBINS,469022807,{Guardian}
+Living Services Foundation,PAMELA,ROLES,475787120,{Guardian}
+Living Services Foundation,PATRICIA,VALEN,476800724,{Guardian}
+Living Services Foundation,REBECCA,STEFFEN,470118156,{Guardian}
+Living Services Foundation,RENAE,GUTTORMSSON,468701915,{Guardian}
+Living Services Foundation,ROBIN,JANOUSEK,473706529,{Guardian}
+Living Services Foundation,ROBYN,RHODE,477689620,{Guardian}
+Living Services Foundation,RYAN,SEIBERLICH,470084201,{Guardian}
+Living Services Foundation,SAMANTHA,KRAM,469252336,{Guardian}
+Living Services Foundation,SHALAYNA,KLOOS,469198428,"{FBA,Guardian}"
+Living Services Foundation,SHANNON,OLSON,468066588,{Guardian}
+Living Services Foundation,SHARON,ODENCRANS,476829988,{Guardian}
+Living Services Foundation,SHEILA,SWENSON,475088787,{Guardian}
+Living Services Foundation,SHERRY,DUNCAN,473708401,{Guardian}
+Living Services Foundation,SHERRY,ROOTKIE,469906172,{Guardian}
+Living Services Foundation,SUSAN,ANDERSON-HORNER,468115560,{Guardian}
+Living Services Foundation,TAMI,ROOTKIE,471138236,"{FBA,Guardian}"
+Living Services Foundation,TAMMY,ESPING,347541714,{Guardian}
+Living Services Foundation,TARA,RADERMACHER,477961605,{Guardian}
+Living Services Foundation,TAYLOR,DOBBINS,469356466,{Guardian}
+Living Services Foundation,TINA,DUBOIS,476021074,{Guardian}
+Living Services Foundation,TINA,GILMAN,473785576,{Guardian}
+Living Services Foundation,TRACEY,JOHNSON,469927646,{Guardian}
+Living Services Foundation,WENDY,ROONEY,468947115,{Guardian}
+Midwest Independent Living Services,AMANDA,SCHULTZ-KOSTER,474949683,{Guardian}
+Midwest Independent Living Services,CAROLINE,BURCHETT,476507525,{Guardian}
+Midwest Independent Living Services,JAMIE,OTTE,468255457,{Guardian}
+Midwest Independent Living Services,JUDY,DINGER,475629050,{Guardian}
+Midwest Independent Living Services,KATHERINE,KNIGHT,549983361,{Guardian}
+Midwest Independent Living Services,LYNN,BROWN,469781930,{Guardian}
+Midwest Independent Living Services,MARY,MARQUIS,431516187,{Guardian}
+Midwest Independent Living Services,SUSAN,HENTGES,394744238,"{FBA,Guardian}"
+Midwest Independent Living Services,WENDY,FORS,473766502,{FBA}
+Minnesota Valley Management,ASHLEY,KRAUS,476293867,{Guardian}
+Minnesota Valley Management,CINDY,SWANSON,475725233,{Guardian}
+Minnesota Valley Management,DAYNA,MARTIN,399764621,{Guardian}
+Minnesota Valley Management,JENNIFER,REINIGER,477335905,{Guardian}
+Minnesota Valley Management,KARI,APITZ,475903534,"{FBA,Guardian}"
+Minnesota Valley Management,LAURA,THOMAS,474064883,{Guardian}
+Minnesota Valley Management,MIRANDA,POSTEL,471945680,{Guardian}
+Minnesota Valley Management,RACHEL,LANG,472298757,{Guardian}
+Minnesota Valley Management,SARA,GIESEKE,382905785,"{FBA,Guardian}"
+Orion Corporation of Minnesota,AHMED,ALI,472396374,{Guardian}
+Orion Corporation of Minnesota,ALEXANDER,MATTHEWS,476961197,{Guardian}
+Orion Corporation of Minnesota,ALICIA,BELL,474064678,{Guardian}
+Orion Corporation of Minnesota,ALICIA,HAWKINSON,473920389,{Guardian}
+Orion Corporation of Minnesota,BRIDGET,ANDERSON,358547943,{Guardian}
+Orion Corporation of Minnesota,CAITLIN,MARTIN,470233332,"{FBA,Guardian}"
+Orion Corporation of Minnesota,CAROLYN,EDWARDS,468609696,{Guardian}
+Orion Corporation of Minnesota,CHRISTINE,CARR,476114008,{Guardian}
+Orion Corporation of Minnesota,CHRISTINE,REINARZ,470822742,{Guardian}
+Orion Corporation of Minnesota,CINDY,HART,474705692,{Guardian}
+Orion Corporation of Minnesota,DANIEL,MANDICH,471702354,{Guardian}
+Orion Corporation of Minnesota,DARRELL,REIGEL,468786205,{Guardian}
+Orion Corporation of Minnesota,DEANNA,KVILVANG,473291489,"{FBA,Guardian}"
+Orion Corporation of Minnesota,DEBBIE,ROTHSTEIN,475567128,{Guardian}
+Orion Corporation of Minnesota,DESHON,RUSSELL,470259416,"{FBA,Guardian}"
+Orion Corporation of Minnesota,DIANE,WANNER,565132382,{Guardian}
+Orion Corporation of Minnesota,ELIZABETH,SWANSON,474373144,{Guardian}
+Orion Corporation of Minnesota,EMILY,JURGANSEN,476436817,{Guardian}
+Orion Corporation of Minnesota,ERIC,PETERSON,549654314,{Guardian}
+Orion Corporation of Minnesota,EVA,DUNNELL,471397555,{Guardian}
+Orion Corporation of Minnesota,EVANGELINA,GUTIERREZ,601109978,{Guardian}
+Orion Corporation of Minnesota,EVELYN,WINJUM,470450321,{Guardian}
+Orion Corporation of Minnesota,GABRIELLE,SMITH,468868230,"{FBA,Guardian}"
+Orion Corporation of Minnesota,GEMMA,CARD,800113147,{Guardian}
+Orion Corporation of Minnesota,JADIE,NEVILL KLIMEK,653071806,{Guardian}
+Orion Corporation of Minnesota,JANEEN,SAYLOR,472981888,{Guardian}
+Orion Corporation of Minnesota,JAYDEN,SWENSON,473356091,{Guardian}
+Orion Corporation of Minnesota,JAYNE,NOLETTE,476236435,{Guardian}
+Orion Corporation of Minnesota,JEFFERY,JOHNSON,477256231,{Guardian}
+Orion Corporation of Minnesota,JILL,PEDERSEN,331682164,"{FBA,Guardian}"
+Orion Corporation of Minnesota,JOSEPH,CURTISS,468212451,{Guardian}
+Orion Corporation of Minnesota,JULIE,KROEGER,472983154,"{FBA,Guardian}"
+Orion Corporation of Minnesota,KACIE,KAUFHOLD,473111115,{Guardian}
+Orion Corporation of Minnesota,KARTER,STARLING,440133378,"{FBA,Guardian}"
+Orion Corporation of Minnesota,KATERI,LEINONEN,477252760,{Guardian}
+Orion Corporation of Minnesota,KENDAHL,ERNEWEIN,476251859,{Guardian}
+Orion Corporation of Minnesota,KIARRA,LINSTON,475219009,{Guardian}
+Orion Corporation of Minnesota,KIM,COLE,473920007,{Guardian}
+Orion Corporation of Minnesota,KIMBERLEY,CRAIG,474865086,{Guardian}
+Orion Corporation of Minnesota,KRISTEE,REIGEL,477900428,{Guardian}
+Orion Corporation of Minnesota,KRISTINE,WATSON,472800729,{Guardian}
+Orion Corporation of Minnesota,LAURA,CARR,476114491,{Guardian}
+Orion Corporation of Minnesota,LINDA,DOME,294646802,{Guardian}
+Orion Corporation of Minnesota,LORIE,HAMPTON,476945685,{Guardian}
+Orion Corporation of Minnesota,LYNNDA,KRAFT,470867572,{Guardian}
+Orion Corporation of Minnesota,MARIA,MANDICH,618144389,{Guardian}
+Orion Corporation of Minnesota,MELISSA,NASON,601801849,{Guardian}
+Orion Corporation of Minnesota,MICHAEL,SARAFOLEAN,473702639,{Guardian}
+Orion Corporation of Minnesota,MONICA,MORLAI,096393108,{Guardian}
+Orion Corporation of Minnesota,MONISHA,COMBS,475313067,{Guardian}
+Orion Corporation of Minnesota,PAM,KIRBY,398763750,{Guardian}
+Orion Corporation of Minnesota,PAMELA,GORDON,469800617,{Guardian}
+Orion Corporation of Minnesota,PATRICK,CRAIG,470117162,{Guardian}
+Orion Corporation of Minnesota,QUINN,SARAFOLEAN,476231166,{Guardian}
+Orion Corporation of Minnesota,ROSA,HAMMERLUND,469028399,{Guardian}
+Orion Corporation of Minnesota,RUTHANNE,HEMPHILL,477946503,{Guardian}
+Orion Corporation of Minnesota,SANDRA,JEWELL,573826102,{Guardian}
+Orion Corporation of Minnesota,SARA,HINTZ,483926311,{Guardian}
+Orion Corporation of Minnesota,SCHELLY,WOHLSDORF,476747282,{Guardian}
+Orion Corporation of Minnesota,SHELBY,MCDONALD,474254596,{Guardian}
+Orion Corporation of Minnesota,STEPHEN,NICKELS,471236829,{Guardian}
+Orion Corporation of Minnesota,STEVEN,KOVALL,469927150,{Guardian}
+Orion Corporation of Minnesota,SUSAN,HOLUM,473823016,"{FBA,Guardian}"
+Orion Corporation of Minnesota,SUSAN,JOHNSON,476904425,{Guardian}
+Orion Corporation of Minnesota,TERESA,HOARD,337585622,{Guardian}
+Orion Corporation of Minnesota,YAN,SHINN,608137750,{Guardian}
+"Outcomes, Inc",ABDALLA,HASSAN,004086209,{Guardian}
+"Outcomes, Inc",ADRIAN,SCHMALZ,470358436,{Guardian}
+"Outcomes, Inc",BETH,BECKMAN,474722911,{Guardian}
+"Outcomes, Inc",BRADLEY,MARTIN,522597004,"{FBA,Guardian}"
+"Outcomes, Inc",CHEYANNE,COCHERELL,471352920,{Guardian}
+"Outcomes, Inc",DAVID,JOHNSON,471960192,"{FBA,Guardian}"
+"Outcomes, Inc",DAVID,MUKWELLE,044558250,{Guardian}
+"Outcomes, Inc",DAVID,SANDQUIST,476787010,{Guardian}
+"Outcomes, Inc",DEBRA,JUDD,475044829,{Guardian}
+"Outcomes, Inc",EMMANUEL,KABBA,220292266,"{FBA,Guardian}"
+"Outcomes, Inc",ERIN,SCANLON,470943969,{Guardian}
+"Outcomes, Inc",FORGLAMBENCHI,YACUBU KEPEH,012993533,{Guardian}
+"Outcomes, Inc",GAYFLOR,HOWARD,739492497,{Guardian}
+"Outcomes, Inc",HOEUN,HACH,345703294,{Guardian}
+"Outcomes, Inc",JAMELLE,CULLENS,194720734,{Guardian}
+"Outcomes, Inc",JAMES,MARTIN,523253570,{Guardian}
+"Outcomes, Inc",JOSIANE LAURE,FEUTDOG TANKEU,292291659,{Guardian}
+"Outcomes, Inc",KAREN,ARENZ,473784284,{Guardian}
+"Outcomes, Inc",KRISTEN,MILLER,471237595,{Guardian}
+"Outcomes, Inc",LAURA,FERRICK,394985203,{Guardian}
+"Outcomes, Inc",LYNDSAY,BROWNING,474158896,{Guardian}
+"Outcomes, Inc",MEGHANN,HARRIS,470985412,{Guardian}
+"Outcomes, Inc",MEKEGHENWE,LUKE,785156276,{Guardian}
+"Outcomes, Inc",SEKOU,SOMBAI,132866189,{Guardian}
+"Outcomes, Inc",THIERRY,FOKOU,819634820,{Guardian}
+"Outcomes, Inc",WILLIAM,ODAME,471558482,{Guardian}
+PAK Management Group LLC,ANNETTE,GERMANN,468967320,{Guardian}
+PAK Management Group LLC,CHRISTOPHER,CHAPIN,474823461,{Guardian}
+Parks' Place,ASHLEY,SCHUMACHER,472081861,{Guardian}
+Parks' Place,AUGUSTINE,BUTLER,293416380,{Guardian}
+Parks' Place,BLANCA,CASTILLO,649231443,{Guardian}
+Parks' Place,CAROLYN,SAUNDERS,475628868,"{FBA,Guardian}"
+Parks' Place,CASSANDRA,HILL-LATHROBE,039665589,{Guardian}
+Parks' Place,CHANELL,DELANEY,336829881,{Guardian}
+Parks' Place,EFRAIN,RODRIGUEZ,609347385,{Guardian}
+Parks' Place,EVELYN,GONO,474351197,{Guardian}
+Parks' Place,FATMATA,BANGURA,468396788,{Guardian}
+Parks' Place,GARRETT,HESS,476980686,{Guardian}
+Parks' Place,JASMINE,MEYER,474179703,{Guardian}
+Parks' Place,KATHERINE,TRAUT,469497616,{Guardian}
+Parks' Place,ORETHA,FALKORNIA,062040338,{Guardian}
+Parks' Place,REBECCA,JOHNSON,506211532,{Guardian}
+Parks' Place,SARAH,BURMAN,475233659,{Guardian}
+Parks' Place,SARAH,CARPENTER,476044018,"{FBA,Guardian}"
+Parks' Place,SAYBAH,MORYAN,028295294,{Guardian}
+Parks' Place,STEFANIE,BEILBY,470156675,"{FBA,Guardian}"
+Parks' Place,SUZANNE,SCHURR,475760781,{Guardian}
+Parks' Place,TONY,JURADO,601592236,{Guardian}
+Parks' Place,TYLER,MEEK,375231345,{Guardian}
+Parks' Place,WENI,DUKULY,035664130,{Guardian}
+Paruan,ANDRES,MEYER,477415210,{Guardian}
+Paruan,COURTNEY,BLOMQUIST,389963160,{Guardian}
+Paruan,DIANA,CALLOWAY,437715408,{Guardian}
+Paruan,JENNY,CALLAHAN,502131486,{Guardian}
+Paruan,TIMOTHY,FUNKMEYER,477749200,"{FBA,Guardian}"
+Pine Ridge Clearwater DAC,ALEXA,MATHISON,507437520,{Guardian}
+Pine Ridge Clearwater DAC,ALLAN,DAHL,471048564,"{ABA,Guardian}"
+Pine Ridge Clearwater DAC,CECILIA,JOHNSON,470359419,"{FBA,Guardian}"
+Pine Ridge Clearwater DAC,DAVID,BERRARD,474080861,{Guardian}
+Pine Ridge Clearwater DAC,EMMA,MATTFIELD,470438429,{Guardian}
+Pine Ridge Clearwater DAC,FELICITY,ROBINSON,767143757,{Guardian}
+Pine Ridge Clearwater DAC,HAYLEY,HOTCHKISS,470278190,"{ABA,Guardian}"
+Pine Ridge Clearwater DAC,HEIDI,LAFONTAINE,391947756,{Guardian}
+Pine Ridge Clearwater DAC,JESSICA,HORN,473111843,"{ABA,Guardian}"
+Pine Ridge Clearwater DAC,JODI,CARDINAL,469041328,{Guardian}
+Pine Ridge Clearwater DAC,KELSEY,WALKER,473236694,{Guardian}
+Pine Ridge Clearwater DAC,MARCUS,JOHNSON,470233945,{Guardian}
+Pine Ridge Clearwater DAC,MORGAN,LAFERRIERE,472317246,{Guardian}
+Pine Ridge Clearwater DAC,RAY,WILLEY,591917634,{Guardian}
+Pine Ridge Clearwater DAC,VIRGINIA,FLATELAND,469889719,{Guardian}
+Plateau Healthcare,ALICIA,THIELEN-BOUKARI,470155230,{Guardian}
+Plateau Healthcare,ANGIE,SUMMERVILLE,163782947,{Guardian}
+Plateau Healthcare,AUGUSTINE,FALLAH,474043567,{Guardian}
+Plateau Healthcare,CELESTINA,LANDIS,476257802,{Guardian}
+Plateau Healthcare,DANIELLE,ARMSTRONG,468029134,{Guardian}
+Plateau Healthcare,ELIZABETH,OKILLA,474250989,{Guardian}
+Plateau Healthcare,FAISALE,BOUKARI,468372497,"{FBA,Guardian}"
+Plateau Healthcare,FRANCES,BLAY,100741317,{Guardian}
+Plateau Healthcare,GILBERT,OSAE AWUKU,475435397,"{FBA,Guardian}"
+Plateau Healthcare,HALIMA,MOUDI,368932366,{Guardian}
+Plateau Healthcare,HANH,TRUONG,477495099,{Guardian}
+Plateau Healthcare,HELEN,DOLO,133778989,{Guardian}
+Plateau Healthcare,JAMES,BOSIRE,627506114,{Guardian}
+Plateau Healthcare,JUNE,MIANTONA,475557699,{Guardian}
+Plateau Healthcare,KING,ESSANDOH,468471153,{Guardian}
+Plateau Healthcare,LIAN,PETERS,471439023,{Guardian}
+Plateau Healthcare,LORI,KVAAL,476769132,"{FBA,Guardian}"
+Plateau Healthcare,MAE,DIOKPO,162705511,{Guardian}
+Plateau Healthcare,MELISSA,OWREN,477212251,"{FBA,Guardian}"
+Plateau Healthcare,SERVEH,WILSON,472987265,{Guardian}
+Plateau Healthcare,VERONICA,LAWRENCE DOMAH,477438943,{Guardian}
+"PORT of Crow Wing County, Inc",ANNAMARIE,LEMOINE,319802393,{Guardian}
+"PORT of Crow Wing County, Inc",BOBBIE,BEMENT,469866297,{Guardian}
+"PORT of Crow Wing County, Inc",CHRISTIAN,HOFFMAN THUNDER BIRD,475981936,{Guardian}
+"PORT of Crow Wing County, Inc",DONNA,VOSS,477784871,"{FBA,Guardian}"
+"PORT of Crow Wing County, Inc",HEATHER,KELM,469064146,"{FBA,Guardian}"
+"PORT of Crow Wing County, Inc",JOHN,PROELL,470022076,{Guardian}
+"PORT of Crow Wing County, Inc",KATHLEEN,RIEDEL,470780643,{Guardian}
+"PORT of Crow Wing County, Inc",KIMBERLY,VANNATTER,472825661,{Guardian}
+"PORT of Crow Wing County, Inc",KIRSTEN,MCKEE,474213676,{Guardian}
+"PORT of Crow Wing County, Inc",MELISSA,JOHNSON,470233199,{Guardian}
+"PORT of Crow Wing County, Inc",RHIAN,HARDEE,398804359,{Guardian}
+"PORT of Crow Wing County, Inc",ROBERT,BERRY,475769614,{Guardian}
+"PORT of Crow Wing County, Inc",SAUNDRA,BOE,470022828,{Guardian}
+"PORT of Crow Wing County, Inc",STACEE,ATHMANN-DRISCOLL,468197436,{Guardian}
+"PORT of Crow Wing County, Inc",SUNNY,HEIKKENEN,468045352,{Guardian}
+"PORT of Crow Wing County, Inc",TRAVIS,BROWN,473176516,{Guardian}
+Prairie Senior Cottages,ABIGAIL,KAPING,477330470,{Guardian}
+Prairie Senior Cottages,ALEXIS,JOHNSON,471390294,"{BCBSMN,FBA,Guardian}"
+Prairie Senior Cottages,AMANDA,ADAMS,477967923,{Guardian}
+Prairie Senior Cottages,ANGELA,HAWKINSON,477707960,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,BECKY,HOLMGREN,471780940,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,BETH,PHILLIPS-SCOTT,471846978,{Guardian}
+Prairie Senior Cottages,BETTE,PLADSEN,470887817,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,BRANDISHA,HUMPHREY,505332068,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,BRENDA,JOHNSON,473748619,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,BRENDA,OLSEN,474920076,{Guardian}
+Prairie Senior Cottages,BRIDGET,TRANBERG,476137518,{Guardian}
+Prairie Senior Cottages,BRITNEY,WHITE,469212090,{Guardian}
+Prairie Senior Cottages,BRITTANY,VREDENBURG,473233666,{Guardian}
+Prairie Senior Cottages,BRITTANY,WHITE,476338566,{Guardian}
+Prairie Senior Cottages,CASSIE,STEVENS,475119350,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,CHAD,WERTH,470151797,{Guardian}
+Prairie Senior Cottages,CHRISTIAN,WIERSMA,477298423,"{BCBSMN,FBA,Guardian}"
+Prairie Senior Cottages,CHRISTINA,HEBRINK,483170588,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,CHRISTINE,TAYLOR,516063295,{Guardian}
+Prairie Senior Cottages,CHRISTOPHER,GIAMPOLO,475741701,{Guardian}
+Prairie Senior Cottages,DARION,KEYES,470376233,{Guardian}
+Prairie Senior Cottages,DEBBIE,STEINBRING,473787011,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,DENISE,MORA,477825614,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,DEYANIRA,MONDRAGON,633146439,{Guardian}
+Prairie Senior Cottages,DONNA,CHAPEL,477506152,{Guardian}
+Prairie Senior Cottages,DUSTIN,LEE,473900186,{Guardian}
+Prairie Senior Cottages,ELVIS,WEICHEL,394961062,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,GABRIELLE,HOEFS,470433540,{Guardian}
+Prairie Senior Cottages,HEIDI,CUMMINS,477744281,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,HEIDI,SLAYTON,469333669,{Guardian}
+Prairie Senior Cottages,HOLLY,HECK,477069597,{Guardian}
+Prairie Senior Cottages,IRENE,GUERRERO,509113555,{Guardian}
+Prairie Senior Cottages,JAMANNE,USHER,474902804,{Guardian}
+Prairie Senior Cottages,JANET,VANDEER,476026621,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,JAREMY,HARADON,475041901,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,JEFFRY,ALTMANN,469272428,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,JENA,INDRELIE,472253132,{Guardian}
+Prairie Senior Cottages,JENNIFER,GAREIS,524494314,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,JEREMY,JENSEN,258779192,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,JESSICA,BINGER,475298194,{Guardian}
+Prairie Senior Cottages,JOANNA,HILER,473045439,{Guardian}
+Prairie Senior Cottages,KARINA,NELSON,472357599,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,KAYLINE,VOLK-SWINGDORF,469299145,{Guardian}
+Prairie Senior Cottages,KRYSTAL,BRAUND,474047134,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,LARISSA,DRUM,399040035,{Guardian}
+Prairie Senior Cottages,LAURIE,WYTTENBACK,474687683,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,LEE,FILLEY,471311535,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,LINDA,STIMPERT,468721798,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,LISA,RASH,527911210,{Guardian}
+Prairie Senior Cottages,MEGAN,GOAD,474253605,{Guardian}
+Prairie Senior Cottages,MELISSA,CZENKUS,477112122,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,MELISSA,WALTERS,471117288,{Guardian}
+Prairie Senior Cottages,MIA,FRID,468272332,{Guardian}
+Prairie Senior Cottages,MICHAEL,SCHWERTFEGER,469061432,"{BCBSMN,FBA,Guardian}"
+Prairie Senior Cottages,MICHAEL,WATKINS,469604985,{Guardian}
+Prairie Senior Cottages,MICHAEL,ZEIPELT,442846322,{Guardian}
+Prairie Senior Cottages,MICHELLE,SCHARFENCAMP,475923962,{Guardian}
+Prairie Senior Cottages,NEIL,SWANSON,468418497,{Guardian}
+Prairie Senior Cottages,NICHOLAS,HOPPE,469295579,{Guardian}
+Prairie Senior Cottages,NICOLE,GARCIA,475233852,{Guardian}
+Prairie Senior Cottages,PAIGE,MARTINEZ,469290787,{Guardian}
+Prairie Senior Cottages,PAUL,WILLIAMS,470966917,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,RIKKI,HARI,475152456,{Guardian}
+Prairie Senior Cottages,RITA,RAE,505902094,"{BCBSMN,FBA,Guardian}"
+Prairie Senior Cottages,ROBIN,SALZWEDEL,474808163,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,ROMAINE,THORMODSON,595122968,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,SAMANTHA,PEREZ,472455390,{Guardian}
+Prairie Senior Cottages,SANDRA,KIRSCH,475218622,{Guardian}
+Prairie Senior Cottages,SARA,MICHALS,473275661,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,SARAH,DIAZ,464875711,{Guardian}
+Prairie Senior Cottages,SAVANNAH,VU,474049910,{Guardian}
+Prairie Senior Cottages,SELENA,TORRES,475392992,{Guardian}
+Prairie Senior Cottages,SHEILA,HEISER,502767014,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,SKYE,JENSEN,470419667,{Guardian}
+Prairie Senior Cottages,STEPHANIE,GUZMAN,047883795,{Guardian}
+Prairie Senior Cottages,TIFFANY,PETERSEN,470022032,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,TONIA,SMITH,475743996,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,TRAVIS,CAMERON,476435051,{Guardian}
+Prairie Senior Cottages,TRINIDAD,FRANCO,477434735,{Guardian}
+Prairie Senior Cottages,TYLER,DEFIEL,474065690,"{BCBSMN,Guardian}"
+Prairie Senior Cottages,VICTORIA,GILBERTSON,473417153,{Guardian}
+Prairie Senior Cottages,YOSSELIN,LOPEZ REYNA,474411558,{Guardian}
+Prairie Senior Cottages,ZUJEY,GOMEZ,545914123,{Guardian}
+"Progressive Care, LLC",ADAM,GERLACH,470319131,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",ALISA,MARZINSKE,396820602,{Guardian}
+"Progressive Care, LLC",ALYSSA,SUCHER,472391810,{Guardian}
+"Progressive Care, LLC",AMANDA,BACHMANN,468179080,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",AMBER,STROMME,474174833,{Guardian}
+"Progressive Care, LLC",AMY,DAGLE,477742837,{Guardian}
+"Progressive Care, LLC",AMY,MILLER,485061517,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",ANGELA,DICKEY,473068199,"{BCBSMN,FBA}"
+"Progressive Care, LLC",ANGIE,SAZAMA,476133058,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",ANNABELLE,VERSICH,470330125,"{BCBSMN,FBA}"
+"Progressive Care, LLC",ASHLEY,DAMMANN,477317359,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",AUNA,SIGDAHL,468336305,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",BARBARA,MASON,469862882,{BCBSMN}
+"Progressive Care, LLC",BARBARA,OLINGER,468909221,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",BREE,MAY,471357901,{Guardian}
+"Progressive Care, LLC",BRITTANY,KADEL,351909163,{Guardian}
+"Progressive Care, LLC",CHRISTINA,HARRIS,390238756,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",CONNIE,DENZINE,399708097,{Guardian}
+"Progressive Care, LLC",CYNTHIA,BOHAN,471251167,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",DANA,SIMONSON,394112197,"{FBA,Guardian}"
+"Progressive Care, LLC",DENNIS,REIFF,477941782,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",DESTINY,BUENO,468318134,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",DIANE,FENSKE,396601181,{Guardian}
+"Progressive Care, LLC",DONNA,BROWN,395901863,{Guardian}
+"Progressive Care, LLC",DONNA,PURGETT,390827718,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",DORA,MONTES,456931612,{Guardian}
+"Progressive Care, LLC",DUSTIE,HURLEY,387784500,{BCBSMN}
+"Progressive Care, LLC",ELISE,BROOKS,338789389,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",ELIZABETH,ECKES,391923617,{Guardian}
+"Progressive Care, LLC",ERIC,GRABER,471110687,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",GARY,EDER,474740662,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",HARLEE,BAKER,391190737,{Guardian}
+"Progressive Care, LLC",HEAVEN,BROWN,680385645,{Guardian}
+"Progressive Care, LLC",HEIDI,SEPANSKI,391866426,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",ISLAM,BARRERA COLIN,681675694,{Guardian}
+"Progressive Care, LLC",JAMES,KORAN,476860610,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",JANELLE,KELLERMANN,468947381,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",JAYNE,THIELKE,468789932,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",JEANNA,JOHNSON,394179340,{Guardian}
+"Progressive Care, LLC",JENA,ANDERSON,472255415,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",JENNIFER,KURKOSKY,470982002,{Guardian}
+"Progressive Care, LLC",JENNIFER,SHAW,393662851,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",JESSICA,WOLF,470046677,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",JOAN,BINDER,477846170,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",JODI,SPINELLI-GREISEN,477928117,{Guardian}
+"Progressive Care, LLC",JULIA,VALADEZ DE ARCOS,708630349,{Guardian}
+"Progressive Care, LLC",KAITLYN,CORLETT,473390586,{Guardian}
+"Progressive Care, LLC",KAYLA,HAYNES,397135052,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",KERI,HOUG,469968055,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",KIMBERLY,OLDENBURG,333782055,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",KIMBERLY,SPANDL,474929811,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",LEAH,WILSON,476273045,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",LINDA,HEIKKINEN,475766115,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",LISA,HILL,473864366,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",LYNN,WIRTANEN,470961210,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",MALLORY,LUCKING,388944329,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",MANDI,SEIFERT ENGELDINGER,468119926,{Guardian}
+"Progressive Care, LLC",MANDY,KRAUS,474190276,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",MARJORIE,PETERSON,397667819,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",MARK,RIEGER,477888941,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",MARTIN,RIVERA,472945034,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",MAUREEN,EVENSON,475828455,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",MELISSA,CARPENTER,399949603,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",MELISSA,NELSON,471942043,{Guardian}
+"Progressive Care, LLC",MERCEDES,GROTT,502231273,"{ABA,BCBSMN,Guardian}"
+"Progressive Care, LLC",MICHELE,MACKENTHUN,475704526,{Guardian}
+"Progressive Care, LLC",MICHELE,PIERCE,475721047,"{BCBSMN,FBA}"
+"Progressive Care, LLC",MICHON,VEIT,389043519,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",MOLLY,FELDT,389806684,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",MONIQUE,JACQUART,473966946,{Guardian}
+"Progressive Care, LLC",NATHAN,BUBACZ,468151857,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",NICHOLE,HOUG,470177411,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",NICOLE,MURPHY,471272513,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",OLGA,PINEDA,621123010,{Guardian}
+"Progressive Care, LLC",PAIGE,BECK,473276704,{Guardian}
+"Progressive Care, LLC",PAIGE,FORD,473298977,{Guardian}
+"Progressive Care, LLC",PATRICIA,ROLLINS,468922045,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",PATRICK,FIDELDY,469351126,{Guardian}
+"Progressive Care, LLC",PAULA,ESTEY,477080972,{Guardian}
+"Progressive Care, LLC",RACHEL,MEYERS,388047179,{Guardian}
+"Progressive Care, LLC",RACHEL,STENGER,476155236,{Guardian}
+"Progressive Care, LLC",RAELYN,WILLIAMS,470941312,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",RENAE,PETERSEN,472985767,{Guardian}
+"Progressive Care, LLC",RENEE,COLE,471084812,"{FBA,Guardian}"
+"Progressive Care, LLC",ROCHELLE,LANGLOIS,396961455,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",ROXANNE,OLIVER,390649191,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",SADIE,WEBER,468254367,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",SARA,AUST,474042590,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",SARA,BROWN,472741907,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",SARA,FASCHING,473824721,{Guardian}
+"Progressive Care, LLC",SCOTT,SOMERVILLE,389726925,{BCBSMN}
+"Progressive Care, LLC",SHANNON,SHEA,468780646,{Guardian}
+"Progressive Care, LLC",SHERRI,ZAESKE,468921998,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",SISSY,BJELLAND,474238499,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",STACY,STENBERG,476049156,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",TAMMIE,STEDMAN,395849285,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",TAMMY,EBY,265834852,"{BCBSMN,Guardian}"
+"Progressive Care, LLC",TARA,CROTTEAU,395888938,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",TAYLOR,CARLSON,475336075,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",TONI,SPRINGSTEELE,468115508,{Guardian}
+"Progressive Care, LLC",TRAVIS,SEELEY,246614132,{Guardian}
+"Progressive Care, LLC",TRINITY,HEMMILA,472861436,{Guardian}
+"Progressive Care, LLC",TRISA,HUTCHINSON,468319992,"{BCBSMN,FBA,Guardian}"
+"Progressive Care, LLC",TRISHA,BUSH,474903654,{Guardian}
+Residential Care Management,ALBERTINA,KOWA,742157160,"{FBA,Guardian}"
+Residential Care Management,AMANA,DROBLAS,338929832,"{BCBSMN,Guardian}"
+Residential Care Management,AMY,NEWBY,462175516,{Guardian}
+Residential Care Management,BETTY,JACKSON,475350338,{Guardian}
+Residential Care Management,BROOKE,JOURDAN,307966470,"{FBA,Guardian}"
+Residential Care Management,DANIEL,STONE,502722206,{Guardian}
+Residential Care Management,DANIELLE,MORGAN,477357305,"{BCBSMN,Guardian}"
+Residential Care Management,DEBORA,TAYLOR,476984625,"{BCBSMN,Guardian}"
+Residential Care Management,ELISE,ROCHE,477257909,{Guardian}
+Residential Care Management,ERICA,HENNEN,475942884,{Guardian}
+Residential Care Management,GRAHAM,STEVENS,592279458,"{FBA,Guardian}"
+Residential Care Management,GRANT,NERISON,471270239,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,HEATHER,HEIJERMAN,470170793,"{FBA,Guardian}"
+Residential Care Management,IVY JO,STRUBE,476027691,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,JACOB,HUMPHREY,476173630,"{FBA,Guardian}"
+Residential Care Management,JAMES,FAGER,483987073,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,JANET,GIBSON,471527726,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,JONATHON,SONDERGAARD,476085928,"{FBA,Guardian}"
+Residential Care Management,JUSTON,KILL,472315871,"{ABA,Guardian}"
+Residential Care Management,KELLY,ASKEW,471175784,"{BCBSMN,Guardian}"
+Residential Care Management,KENDRA,WESTENBERG,468333843,"{BCBSMN,Guardian}"
+Residential Care Management,KRISTEN,ELWELL,471113269,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,MARGARET,SCHMITT,472927391,"{BCBSMN,Guardian}"
+Residential Care Management,MARY,BREKKE,476860498,"{BCBSMN,Guardian}"
+Residential Care Management,MATT,BEEHR,385986938,"{FBA,Guardian}"
+Residential Care Management,MCKAILA,POPPEN,469274565,{Guardian}
+Residential Care Management,MICHAEL,CROW,351761359,{FBA}
+Residential Care Management,MICHAUN,PSIHOS,468863445,"{FBA,Guardian}"
+Residential Care Management,MINAH,CARTO,035628445,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,MOLLY,POTTER,475064044,{Guardian}
+Residential Care Management,NANCY,NACKERUD,473800189,"{BCBSMN,FBA,Guardian}"
+Residential Care Management,SARA,KASLOW,504981198,{Guardian}
+Residential Care Management,SHANNON,HOFFMAN,473317371,"{BCBSMN,Guardian}"
+Residential Care Management,SKY,FEHN,664034260,"{BCBSMN,Guardian}"
+Residential Care Management,SONJA,BAUMANN,092620124,{Guardian}
+Residential Care Management,SOUNA,VANG,612908973,{Guardian}
+Residential Care Management,STACEY,ROSSOW,471066087,{Guardian}
+Residential Care Management,TERRY,BREKKE,475867955,"{BCBSMN,Guardian}"
+Residential Care Management,THOMAS,JAWORSKI,207665398,"{BCBSMN,Guardian}"
+Restart Inc.,ABIGAIL,BELL,474237507,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,ALABA,OTUKOYA,079795597,{Guardian}
+Restart Inc.,ANTOINETTE,URBAN,470621838,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,DAISY,SAHN,202111352,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,DEJUAN,BRADLEY,327743961,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,ELIZABETH,STORY,468861122,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,EMMANUEL,NENSEH,169515774,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,ESTHER,ONDABU,452816598,{Guardian}
+Restart Inc.,JAMES,GARGAR,774230381,{Guardian}
+Restart Inc.,JOSEPHINE,LIVINGSTONE,476253812,"{BCBSMN,Guardian}"
+Restart Inc.,KALINA,NIMLEY,470432379,"{FBA,Guardian}"
+Restart Inc.,KATHLEEN,CROWLEY,475111477,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,KEVIN,WIPF,471029642,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,LAKISHA,ABU-JAJAH,347665955,{Guardian}
+Restart Inc.,LISA,BRANNAN,472549803,"{BCBSMN,Guardian}"
+Restart Inc.,LUCIANA,HILL,411069562,{Guardian}
+Restart Inc.,MARESHA,SPEED,468277469,{Guardian}
+Restart Inc.,MARIA,MEDINA,602059256,{Guardian}
+Restart Inc.,MOHAMED,ABDIKADIR,709651122,{Guardian}
+Restart Inc.,MOHAMUD,HASSAN,765625740,{Guardian}
+Restart Inc.,NATASHA,RAKOTZ,475965346,"{ABA,Guardian}"
+Restart Inc.,OLUWATOYIN,ADELAIYE,669912011,{Guardian}
+Restart Inc.,PARIS,JOHNSON,333021700,{Guardian}
+Restart Inc.,PAULA,WILKES,017521312,{Guardian}
+Restart Inc.,RENEE,DONALD,501963401,"{BCBSMN,FBA,Guardian}"
+Restart Inc.,RYAN,RUSCHOFF,479061865,{Guardian}
+Restart Inc.,SHARRAYA,ROGERS,358823292,{FBA}
+Restart Inc.,SHERI,ANDERSON,475723122,{Guardian}
+Restart Inc.,TAMMY,EDWARDS,309866771,{Guardian}
+Restart Inc.,TAMYKA,THOMAS,472276613,{Guardian}
+Restart Inc.,TATYANA,HENDERSON,477357212,{Guardian}
+Restart Inc.,TINA,GROSS,338705455,{Guardian}
+Restart Inc.,TRINA,KEMP,361545612,{Guardian}
+Restart Inc.,VIANN,CABEZAL,469589784,"{FBA,Guardian}"
+RM Management,ALBERT,MILLER,481621327,"{BCBSMN,FBA}"
+RM Management,ALEXANDER,FERRELL,395083317,{Guardian}
+RM Management,ALEXIS,WILSON,470339451,"{BCBSMN,Guardian}"
+RM Management,ALONA,CABURATAN,016193236,"{BCBSMN,Guardian}"
+RM Management,AMBER,OTTERDAHL,475213182,"{BCBSMN,FBA,Guardian}"
+RM Management,ANDREW,LOWE,468197104,"{BCBSMN,FBA,Guardian}"
+RM Management,ANNA,JOHNSON,469232625,{Guardian}
+RM Management,ASHLEY,CROWE,436698780,"{BCBSMN,FBA,Guardian}"
+RM Management,BARBARA,ANDERSON,394824921,"{BCBSMN,Guardian}"
+RM Management,BETH,NELSON,469084351,{Guardian}
+RM Management,BOLANLE,CAMPBELL,198398826,"{BCBSMN,FBA,Guardian}"
+RM Management,BONNIE,SCARBROUGH,477864684,"{BCBSMN,FBA,Guardian}"
+RM Management,BRANDY,AGUILERA,474154558,"{BCBSMN,Guardian}"
+RM Management,BRIAN,BARTZ,475941943,"{BCBSMN,Guardian}"
+RM Management,BRIANNA,STEINHAUS,473315215,{Guardian}
+RM Management,BRITTANY,LUSBY,476350913,"{BCBSMN,Guardian}"
+RM Management,BUFFY,REINMUTH,476190119,"{BCBSMN,Guardian}"
+RM Management,CARLA,ZACKOWSKI,475064401,"{BCBSMN,Guardian}"
+RM Management,CEFANEE,KANNEH-KESSELLY,825661295,{Guardian}
+RM Management,CHERYL,SILBERNAGLE,468723069,{BCBSMN}
+RM Management,CORLIN,FRANZMEIER,475963124,"{BCBSMN,FBA,Guardian}"
+RM Management,CUYLER,KAPPENMAN,503135667,{Guardian}
+RM Management,DANA,MARTEL,616769634,"{BCBSMN,Guardian}"
+RM Management,DARLENE,ANDERSON,477869240,"{BCBSMN,Guardian}"
+RM Management,DEZIRE,HOPKINS,476230237,"{ABA,Guardian}"
+RM Management,DONALD,SOHNS,471822084,"{BCBSMN,FBA,Guardian}"
+RM Management,ELETICIA,GIBBS,465319229,"{BCBSMN,FBA,Guardian}"
+RM Management,ELIZABETH,JOHNSON,469045920,"{BCBSMN,FBA,Guardian}"
+RM Management,EUNICE,BATASI,882647773,"{BCBSMN,Guardian}"
+RM Management,FATIMA,GOINES,076721085,{Guardian}
+RM Management,FIKRETA,OKANOVIC,600831802,"{BCBSMN,FBA,Guardian}"
+RM Management,FREDERICK,WAGNER,399720954,{Guardian}
+RM Management,HANNAH,KNUTSON,394157311,"{BCBSMN,Guardian}"
+RM Management,HEATHER,POLLARI,468155752,"{BCBSMN,Guardian}"
+RM Management,HEATHER,WASHBURN,469083899,"{BCBSMN,FBA,Guardian}"
+RM Management,JAIMEE,AMUNDSON,471334718,"{BCBSMN,Guardian}"
+RM Management,JAMES,HARRIS,472433349,"{BCBSMN,Guardian}"
+RM Management,JAMES,WHITE,475760891,"{BCBSMN,Guardian}"
+RM Management,JAMICA,WILEY,311158734,{Guardian}
+RM Management,JAMIE,SWANSON,476234213,{Guardian}
+RM Management,JANE,EDMUNDSON,474667714,"{BCBSMN,FBA,Guardian}"
+RM Management,JASON,BEDNAR,476113909,"{BCBSMN,Guardian}"
+RM Management,JEFFREY,ELMQUIST,472211245,"{BCBSMN,Guardian}"
+RM Management,JENNIFER,GADBOIS,475088273,{Guardian}
+RM Management,JENNILYN,NESNIA,472533654,"{BCBSMN,FBA,Guardian}"
+RM Management,JEREMY,SCHOUVELLER,475119930,"{BCBSMN,Guardian}"
+RM Management,JOANA,ATTOH,510695168,"{BCBSMN,Guardian}"
+RM Management,JOANN,RICHARDSON,471800289,"{BCBSMN,Guardian}"
+RM Management,JOHN,BOSMAN,392020083,"{BCBSMN,Guardian}"
+RM Management,JORGE,BERMUDEZ,048644188,"{BCBSMN,Guardian}"
+RM Management,KAREN,MATAYA,470843837,"{BCBSMN,Guardian}"
+RM Management,KARLY,LATOUR,468256365,{Guardian}
+RM Management,KATELYN,ANDERSON,470271855,{Guardian}
+RM Management,KAVINA,SMITH,472355688,"{BCBSMN,FBA,Guardian}"
+RM Management,KAY,SOUPIR,474905943,"{BCBSMN,FBA,Guardian}"
+RM Management,KELLI,LEONARD,391114497,"{BCBSMN,Guardian}"
+RM Management,KEVIN,WILLIAMS,328642282,{Guardian}
+RM Management,KIA,THAO,603080731,{Guardian}
+RM Management,KRISTINA,UMBERGER,470158385,"{BCBSMN,FBA,Guardian}"
+RM Management,LAURISA,CHANG,473233474,{Guardian}
+RM Management,LAVORA,FRIERSON,354667232,"{BCBSMN,Guardian}"
+RM Management,LINDSAY,JACOBS,473045217,{BCBSMN}
+RM Management,MANNASSES,OGUTU,239918059,"{ABA,BCBSMN}"
+RM Management,MATTHEW,VOLLMER,472150258,"{BCBSMN,Guardian}"
+RM Management,MODISETTE,WATTERS,473708438,"{BCBSMN,FBA,Guardian}"
+RM Management,MOLLY,GOSH,399905157,"{BCBSMN,FBA,Guardian}"
+RM Management,NAJJWA,BOWERS,473397219,"{BCBSMN,FBA,Guardian}"
+RM Management,NEIL,SCHMIT,470354800,"{BCBSMN,Guardian}"
+RM Management,NICOLLE,MONETTE,468217921,"{BCBSMN,FBA,Guardian}"
+RM Management,OLIVIA,BERERO,072990528,"{BCBSMN,FBA,Guardian}"
+RM Management,ORLUMMA,AFONYA,476534691,"{BCBSMN,FBA,Guardian}"
+RM Management,PATRICIA,VANLANDSCHOOT,387808552,{Guardian}
+RM Management,PATTI,DUFRESNE,476802766,{BCBSMN}
+RM Management,PAULA,TALBOT,273608560,"{BCBSMN,Guardian}"
+RM Management,RENEE,FOSS,470047162,"{BCBSMN,FBA,Guardian}"
+RM Management,RENEE,VOYCE,562651842,{Guardian}
+RM Management,RHONDA,HUGHES,357705727,{Guardian}
+RM Management,ROSELINE,FAYAH,765460353,{BCBSMN}
+RM Management,SHANE,REIMAN,469026487,"{BCBSMN,Guardian}"
+RM Management,SHANNA,CHRISTIAN,480906546,"{ABA,BCBSMN,FBA,Guardian}"
+RM Management,SHEILA,HUNTER,472041439,"{BCBSMN,Guardian}"
+RM Management,SHOSHANA,FRIEDLER,150741296,"{BCBSMN,Guardian}"
+RM Management,STEPHANIE,FREDERICK,601425195,"{BCBSMN,FBA,Guardian}"
+RM Management,STEPHANIE,ORTEGA,474214074,"{ABA,Guardian}"
+RM Management,SUSAN,LEATHES,501945824,"{BCBSMN,FBA,Guardian}"
+RM Management,SUSAN,TABOR,468756567,"{BCBSMN,Guardian}"
+RM Management,TABITHA,BARTON,029647042,"{BCBSMN,FBA,Guardian}"
+RM Management,TERESA,JANSKI,479984811,"{BCBSMN,FBA,Guardian}"
+RM Management,TIFFANY,RODMAN,475045194,"{FBA,Guardian}"
+RM Management,TINA,HEDALEN,476765439,{Guardian}
+RM Management,VERNISHA,BROWN,418437424,{Guardian}
+RM Management,YASMIN,ALEXANDER,360844846,{Guardian}
+R&M Welty Inc.,AMANDA,JOSEPH,477086703,{Guardian}
+R&M Welty Inc.,CHAD,PURVIS,473130230,"{FBA,Guardian}"
+R&M Welty Inc.,DAWN,CHAFFEE,473802038,"{FBA,Guardian}"
+R&M Welty Inc.,DOUGLAS,ULLEBERG,082569352,{Guardian}
+R&M Welty Inc.,DYLAN,BUSHINSKI,468291465,{Guardian}
+R&M Welty Inc.,JATERRA,MIX,474432042,{Guardian}
+R&M Welty Inc.,JOLENE,HANSON,470273246,{Guardian}
+R&M Welty Inc.,LINDA,DEITZ,468942842,{Guardian}
+R&M Welty Inc.,MELISSA,PACKARD,474861569,{Guardian}
+R&M Welty Inc.,MICHAEL,PRIBBLE,472199913,{Guardian}
+R&M Welty Inc.,MITCHELL,ANDERSON,475316673,{Guardian}
+R&M Welty Inc.,NICOLE,CULLEN,473358578,{Guardian}
+R&M Welty Inc.,PETER,DELLWO,477337386,"{FBA,Guardian}"
+R&M Welty Inc.,RIAN,FERRIAN,475277720,{Guardian}
+R&M Welty Inc.,ROXANNE,PERGL,475862639,{Guardian}
+R&M Welty Inc.,TRACEY,VARNER,501045370,"{ABA,Guardian}"
+R&M Welty Inc.,TRISTIAN,BLOUNT,473314672,{Guardian}
+R&M Welty Inc.,TROY,BACKOUS,476279385,{Guardian}
+Rural Living Environments,AARON,KAUFENBERG,395133948,{Guardian}
+Rural Living Environments,AMANDA,EGGEBRAATEN,503254491,{Guardian}
+Rural Living Environments,ANDREW,BOATMAN,506021337,{Guardian}
+Rural Living Environments,COLLEEN,DURHAM,474762304,{Guardian}
+Rural Living Environments,COLLIN,WARNOCK,592152503,{Guardian}
+Rural Living Environments,DANIEL,MYERS,477290088,{Guardian}
+Rural Living Environments,DONALD,NEGLEY,475887066,"{FBA,Guardian}"
+Rural Living Environments,EUGENE,INGELIN,471848587,{ABA}
+Rural Living Environments,HANS,OLSEN,477022790,"{FBA,Guardian}"
+Rural Living Environments,JAMES,JACKS,339465171,{Guardian}
+Rural Living Environments,JANETTE,POPESCU,503237733,{Guardian}
+Rural Living Environments,JEAN,KIRK,356488562,{Guardian}
+Rural Living Environments,JESSICA,HOFFMAN,477081348,{Guardian}
+Rural Living Environments,JOSHUA,SUTTER,316047749,{Guardian}
+Rural Living Environments,KIMBERLY,GRAVES,477982068,{Guardian}
+Rural Living Environments,LANA,MATTONEN,470847476,{Guardian}
+Rural Living Environments,LEANNE,NEGLEY,477903668,"{FBA,Guardian}"
+Rural Living Environments,MELINDA,VAGLE,470906479,{Guardian}
+Rural Living Environments,MICHAEL,FLUG,473964623,{Guardian}
+Rural Living Environments,MICHAEL,THOMPSON,615042888,{Guardian}
+Rural Living Environments,NANCY,ORCUTT,477025631,{Guardian}
+Rural Living Environments,PATRICIA,WILLIAMS,565790449,{Guardian}
+Rural Living Environments,PATTY,SKUBE,475720218,{Guardian}
+Rural Living Environments,PAUL,BLOOM,477909155,{Guardian}
+Rural Living Environments,SAMANTHA,MYERS,474259218,{Guardian}
+Rural Living Environments,SAMMANTHA,HIMES,475250319,{Guardian}
+Rural Living Environments,SCOTT,SUTTER,316048867,{Guardian}
+Rural Living Environments,TAMMIE,ELLIOTT,473983193,{Guardian}
+Rural Living Environments,TAMMY,LASART,472021867,"{FBA,Guardian}"
+Rural Living Environments,TONY,KOLP,309869561,{Guardian}
+Rural Living Environments,ZACARIAH,WARLOF,471399658,{Guardian}
+Scandia Senior Care,AMANDA,PEDERSEN,470235095,"{BCBSMN,FBA,Guardian}"
+Scandia Senior Care,ANITTA,REINOLT,393809158,"{BCBSMN,Guardian}"
+Scandia Senior Care,AUSTIN,ENNEKING,512112071,{Guardian}
+Scandia Senior Care,BREANNA,BRICHACEK,470270511,{FBA}
+Scandia Senior Care,BRIANNA,SELIX,471372126,{Guardian}
+Scandia Senior Care,BROOKE,CLARK,468399986,{Guardian}
+Scandia Senior Care,CARLA,AVALOS,469020931,"{BCBSMN,FBA,Guardian}"
+Scandia Senior Care,CARROL,MORSE,389467028,{Guardian}
+Scandia Senior Care,COLLEEN,SEAFOLK,470063560,{Guardian}
+Scandia Senior Care,CONSTANCE,MADDOX,419437415,{Guardian}
+Scandia Senior Care,DANIELLE,COOPER,476272821,"{BCBSMN,Guardian}"
+Scandia Senior Care,DAVID,ADAMS,397869806,{Guardian}
+Scandia Senior Care,DONNA,BECK,471156150,{Guardian}
+Scandia Senior Care,GAIL,ZIMMERMAN,508824971,{Guardian}
+Scandia Senior Care,GRETCHEN,AUSTRENG,389233341,{Guardian}
+Scandia Senior Care,HEATHER,HOLLMAN,468310189,{Guardian}
+Scandia Senior Care,HELENA,OSLOWSKI,475923566,"{BCBSMN,Guardian}"
+Scandia Senior Care,JESSICA,CRAWFORD,468190475,{Guardian}
+Scandia Senior Care,JULLIAN,SCHABLITSKY,477455482,{Guardian}
+Scandia Senior Care,JUSTIN,HAGE,476199384,"{BCBSMN,Guardian}"
+Scandia Senior Care,KELLY,MONAHAN,474045937,"{BCBSMN,FBA,Guardian}"
+Scandia Senior Care,KELLY,PIERCE,470843305,{Guardian}
+Scandia Senior Care,KENNA,BRANDT,475358534,{Guardian}
+Scandia Senior Care,KIMBERLY,LARSON,471022828,"{BCBSMN,Guardian}"
+Scandia Senior Care,KRISTINA,SCHABLITSKY,474252662,"{BCBSMN,Guardian}"
+Scandia Senior Care,LEESA,TAYLOR,469178760,{Guardian}
+Scandia Senior Care,LISA,HUFFMAN,472156481,{Guardian}
+Scandia Senior Care,LOGAN,WALSH,483211403,"{BCBSMN,Guardian}"
+Scandia Senior Care,LORAH,BONGIOVANNI,474043320,{Guardian}
+Scandia Senior Care,MORGAN,KUNSHIERBRANDT,474022031,"{FBA,Guardian}"
+Scandia Senior Care,NICOLE,MAKSUTOSKI,388156736,"{BCBSMN,Guardian}"
+Scandia Senior Care,PAMELA,SCHULTZ,468780307,"{BCBSMN,Guardian}"
+Scandia Senior Care,ROBIN,SCHMIDT,471865901,{Guardian}
+Scandia Senior Care,RONELL,CERKOWNIAK,472867454,{Guardian}
+Scandia Senior Care,SAMANTHA,ROSE,472392721,{Guardian}
+Scandia Senior Care,SAMANTHA,TABERT,469252074,"{BCBSMN,FBA,Guardian}"
+Scandia Senior Care,SANDRA,EDLUND,501688637,"{BCBSMN,Guardian}"
+Scandia Senior Care,SHERRI,BARBER,394762440,{Guardian}
+Scandia Senior Care,TERESA,MOBERG-SORENSON,237458911,{Guardian}
+Scandia Senior Care,TERRICO,BERRY,587792998,{Guardian}
+Senior Care Solutions,AMANDA,BELMORE,471083604,{Guardian}
+Senior Care Solutions,AMBER,ROCHON,398980687,{Guardian}
+Senior Care Solutions,ANN,SCHULZE,477866548,"{BCBSMN,FBA,Guardian}"
+Senior Care Solutions,ASHLEY,CLIFT,566870193,{Guardian}
+Senior Care Solutions,BRIDGET,PERZICHILLI,387137403,{Guardian}
+Senior Care Solutions,CAROL,NELSON,474927117,{ABA}
+Senior Care Solutions,CATHERINE,SHEETS,474926696,"{BCBSMN,FBA}"
+Senior Care Solutions,CONNIE,SARAUER,392922283,"{BCBSMN,Guardian}"
+Senior Care Solutions,DARLA,PALLOW,469823028,"{BCBSMN,Guardian}"
+Senior Care Solutions,ELIZABETH,LINDBERG,311568300,"{BCBSMN,FBA,Guardian}"
+Senior Care Solutions,EMILY,KUKOWSKI,468194970,"{FBA,Guardian}"
+Senior Care Solutions,HEIDI,SPRADO,468921911,{Guardian}
+Senior Care Solutions,JODI,KLOEPFER,477131772,"{BCBSMN,FBA,Guardian}"
+Senior Care Solutions,JOY,MATTICK,471021314,"{BCBSMN,Guardian}"
+Senior Care Solutions,JULIE,DIETZ,471084224,{Guardian}
+Senior Care Solutions,KATHLEEN,SCHINTZ-DAVID,475080353,"{BCBSMN,Guardian}"
+Senior Care Solutions,KELLY,BOTTEMA,468025551,"{BCBSMN,Guardian}"
+Senior Care Solutions,KELLY,FIRKUS,393902241,"{BCBSMN,Guardian}"
+Senior Care Solutions,KRISTINA,DISBROW,397686226,{BCBSMN}
+Senior Care Solutions,MARY,LALLY,475661214,{Guardian}
+Senior Care Solutions,MICHELLE,STOBER,471863398,"{BCBSMN,Guardian}"
+Senior Care Solutions,PATRICK,VAN OSS,474157032,"{BCBSMN,Guardian}"
+Senior Care Solutions,SANDRA,DUNCAN,470745468,"{BCBSMN,Guardian}"
+Senior Care Solutions,SARAH,HOOK,474966545,"{BCBSMN,FBA,Guardian}"
+Senior Care Solutions,STACY,JONES,469920795,{Guardian}
+Senior Care Solutions,SUMMER,NOHRENBERG,469888615,{Guardian}
+Senior Care Solutions,TRACY,KLENDA,349647565,"{BCBSMN,FBA,Guardian}"
+Senior Care Solutions,WENDY,RUDEK,470928418,"{BCBSMN,Guardian}"
+Senior Care Solutions,YER,THAO,474291987,"{BCBSMN,Guardian}"
+Senior Specialists,AAMARIA,LEACH,000007347,{Guardian}
+Senior Specialists,ABIGAIL,WILLIAMS,277085172,{Guardian}
+Senior Specialists,ALEXANDRA,HUNTER,301987965,{Guardian}
+Senior Specialists,ALEXIS,JENKINS,297020129,{Guardian}
+Senior Specialists,AMY,SRDANOVIC,276705659,{Guardian}
+Senior Specialists,ANITA,OPALENIK,293723932,{Guardian}
+Senior Specialists,ANNETTE,BLUE,286605081,{Guardian}
+Senior Specialists,ANNETTE,KASER,281905183,"{FBA,Guardian}"
+Senior Specialists,ANTWANITA,ROSS,275929562,{Guardian}
+Senior Specialists,AURORA,KACELI,717467103,{Guardian}
+Senior Specialists,AVRI,COOK,295042521,{Guardian}
+Senior Specialists,BEN,GAJDA,298726894,{Guardian}
+Senior Specialists,CARL,EVERETT,285989654,{Guardian}
+Senior Specialists,CAROLYN,VITAZ,280640625,{Guardian}
+Senior Specialists,CHERYL,O'DONNELL,274589417,{Guardian}
+Senior Specialists,CHRISTA,DECKER,271761479,{Guardian}
+Senior Specialists,CHRISTINE,SOLOKY,280649277,"{FBA,Guardian}"
+Senior Specialists,CHRISTOPHER,FOX,282680702,{Guardian}
+Senior Specialists,CHRISTOPHER,GILMORE,290421655,{Guardian}
+Senior Specialists,DAVID,HORNIKEL,294548910,{Guardian}
+Senior Specialists,DAVID,KRISTOFF,287745587,{Guardian}
+Senior Specialists,DIANA,SHORES-KONCZ,271725175,{Guardian}
+Senior Specialists,DONNA,DALESSANDRI,400196570,{Guardian}
+Senior Specialists,DONNA,LOGSDON,288664042,{Guardian}
+Senior Specialists,ELVIS,RODRIGUEZ,091681678,{Guardian}
+Senior Specialists,IMAN,NOORI,665718224,{Guardian}
+Senior Specialists,JACLYN,FULLERTON,302607378,{Guardian}
+Senior Specialists,JACOBIN,DOZIER,242718520,{Guardian}
+Senior Specialists,JAMISHA,ABNEY,302926548,{Guardian}
+Senior Specialists,JANAE,SMITH,382198225,{Guardian}
+Senior Specialists,JAYLENA,JACKSON,274843410,{Guardian}
+Senior Specialists,JENNIFER,RUSCIN,283681100,{Guardian}
+Senior Specialists,JERRY,WILK,290943215,{Guardian}
+Senior Specialists,JESSE,STOVER,307721334,{Guardian}
+Senior Specialists,JOAN,SOUTHARD,288589661,{Guardian}
+Senior Specialists,JOANN,TYLER,230601781,{Guardian}
+Senior Specialists,JONATHAN,LANGHAM,210548547,{Guardian}
+Senior Specialists,JOSELYN,PARKER,099709028,{Guardian}
+Senior Specialists,JOSELYN,PELIMA,284040591,"{FBA,Guardian}"
+Senior Specialists,KATHERINE,GARCIA,064729115,{Guardian}
+Senior Specialists,KIMBERLY,KELLON,278740385,{Guardian}
+Senior Specialists,LAKYSHA,MIMS,268860583,{Guardian}
+Senior Specialists,LANITA,TURMAN,297687063,{Guardian}
+Senior Specialists,LAURA,KEANE,297666656,{Guardian}
+Senior Specialists,LAURIE,YEAGER,281826879,{Guardian}
+Senior Specialists,LINDSEY,CROZIER,299708306,{Guardian}
+Senior Specialists,LISA,AMILL,165623778,{Guardian}
+Senior Specialists,LORI,BRINKLEY,275728393,{Guardian}
+Senior Specialists,MACY,MARSHALL,644523829,{Guardian}
+Senior Specialists,MARIA,FARACI,271648933,"{FBA,Guardian}"
+Senior Specialists,MATILDA,ELKADY,279044295,{Guardian}
+Senior Specialists,MATTHEW,MILLER,301844753,{Guardian}
+Senior Specialists,MELISSA,CANNON,297787466,{Guardian}
+Senior Specialists,MICHAELA,KENNY,273980121,{Guardian}
+Senior Specialists,MICHELLE,HAIRSTON,283767898,{Guardian}
+Senior Specialists,MICHELLE,HILL,273805164,{Guardian}
+Senior Specialists,NIKKI,ROBERTS,282940647,{Guardian}
+Senior Specialists,NOEMI,CANNON,299747686,{Guardian}
+Senior Specialists,PAMELA,LEE,297707961,{Guardian}
+Senior Specialists,PATRICE,TURNAGE,288904295,{Guardian}
+Senior Specialists,PAUL,CROWLEY,290546359,{Guardian}
+Senior Specialists,ROBIN,SCHOLL,276847251,{Guardian}
+Senior Specialists,SAMIR,SRDANOVIC,086828679,{Guardian}
+Senior Specialists,SAQURRAIN,BECK,385066241,{Guardian}
+Senior Specialists,SHARON,PRIDEMORE,233767465,{Guardian}
+Senior Specialists,SUSAN,KOZAN,294504918,{Guardian}
+Senior Specialists,SUSAN,LARSEN,288800232,{Guardian}
+Senior Specialists,TAKYA,HOLT,428838198,{Guardian}
+Senior Specialists,TATYANA,BROOM,293062189,{Guardian}
+Senior Specialists,TERRI,STRANG,272729194,{Guardian}
+Senior Specialists,THEODORE,FLORKO,290500762,{Guardian}
+Senior Specialists,THERESA,HEINLEN,298929324,{Guardian}
+Senior Specialists,TIFANY,JENKINS,273769981,{Guardian}
+Senior Specialists,TYLER,DAVIS,292965305,{Guardian}
+Serenity Assisted Living,AMBER,LUDWIG,471133674,{Guardian}
+Serenity Assisted Living,CAROL,MIRANOWSKI,477783664,{Guardian}
+Serenity Assisted Living,CHRISTOPHER,KRAFT,502985737,"{FBA,Guardian}"
+Serenity Assisted Living,DANIELLE,JOHNSON,472313183,"{FBA,Guardian}"
+Serenity Assisted Living,DENISE,TOLLEFSON,476064760,{Guardian}
+Serenity Assisted Living,ELAINE,ANDERSON,471840686,{Guardian}
+Serenity Assisted Living,EMILY,HURTT,502192121,{Guardian}
+Serenity Assisted Living,HEIDI,NELSON,475986972,"{FBA,Guardian}"
+Serenity Assisted Living,HOLLY,SOLLID,502232041,{Guardian}
+Serenity Assisted Living,ISABELLE,WALLACE,469439695,"{FBA,Guardian}"
+Serenity Assisted Living,JESSICA,SCHNEIDER,501042380,{Guardian}
+Serenity Assisted Living,JILL,WEISS,469046271,{Guardian}
+Serenity Assisted Living,KATHERINE,GAST,477137483,{Guardian}
+Serenity Assisted Living,KRISTEN,MUELLER,501046059,{Guardian}
+Serenity Assisted Living,LISA,JENSEN,502788113,{Guardian}
+Serenity Assisted Living,MARISSA,LUPKES,469197237,{Guardian}
+Serenity Assisted Living,MELISSA,STEWART,474983485,"{FBA,Guardian}"
+Serenity Assisted Living,NYIBOL,ATEM,086294578,{Guardian}
+Serenity Assisted Living,RENATA,KRULL,473941493,"{FBA,Guardian}"
+Serenity Assisted Living,ROSE,WOUTERS,501523052,{Guardian}
+Serenity Assisted Living,SANDRA,HAWK,476923696,"{FBA,Guardian}"
+Serenity Assisted Living,SHAWNA,MANTHEY,470138147,{Guardian}
+Serenity Assisted Living,SOFIA,RENO,475371148,{Guardian}
+Serenity Assisted Living,STEPHANIE,MILLER,472256823,"{FBA,Guardian}"
+Serenity Assisted Living,SUSAN,JOHNSON,502082783,{Guardian}
+Serenity Assisted Living,TYSON,SCHULZ,469238771,{Guardian}
+Serenity Assisted Living,WALLACE,LAUERMAN,501116742,"{FBA,Guardian}"
+Serenity Assisted Living,ZOE,KRAFT,502250699,{Guardian}
+Spectrum Health Companies,AIMEE,KERN,470020470,{Guardian}
+Spectrum Health Companies,ALEISHA,THOMAS,475410235,{Guardian}
+Spectrum Health Companies,ALEXANDREA,FELDMAN,470378439,{Guardian}
+Spectrum Health Companies,ALEXIS,GREENE,475236732,{Guardian}
+Spectrum Health Companies,ALYSSA,ANDERSON,469317608,{Guardian}
+Spectrum Health Companies,AMANDA,HAWLEY,471116163,{Guardian}
+Spectrum Health Companies,AMY,KAPPES,473040712,{Guardian}
+Spectrum Health Companies,AMY,MILLER,470136057,{Guardian}
+Spectrum Health Companies,AMY,SPAID,473272247,{Guardian}
+Spectrum Health Companies,ANDREA,SIMONSON,471335613,{Guardian}
+Spectrum Health Companies,ANNA,URBAS,474350722,{Guardian}
+Spectrum Health Companies,ANNA,WALSBERG,472842452,{Guardian}
+Spectrum Health Companies,APRIL,GRIVETTE,473969174,{Guardian}
+Spectrum Health Companies,ASHLEY,AHLFS,471258769,{Guardian}
+Spectrum Health Companies,ASHLEY,JUDNITCH,475277375,{Guardian}
+Spectrum Health Companies,ASHLEY,LUNA,637509546,{Guardian}
+Spectrum Health Companies,ASHLEY,OLSON,471315656,{Guardian}
+Spectrum Health Companies,ASIA,STEELE,354846453,{Guardian}
+Spectrum Health Companies,BARBARA,MARR,473908687,{Guardian}
+Spectrum Health Companies,BECKY,ATIENO,776710018,{Guardian}
+Spectrum Health Companies,BENJAMIN,CASTAGNERI,470086887,{Guardian}
+Spectrum Health Companies,BETHANY,HIETALA,469860267,{Guardian}
+Spectrum Health Companies,BETSY,BAIN,469292361,{Guardian}
+Spectrum Health Companies,BETTY,PFIFFNER,470782905,{Guardian}
+Spectrum Health Companies,BONNIE,FORSMAN,477022810,{Guardian}
+Spectrum Health Companies,BRANDI,BLAIS,469176374,{Guardian}
+Spectrum Health Companies,BRANDIE,KAHTAVA,468277773,{Guardian}
+Spectrum Health Companies,BRANDY,STEGEMAN,473980389,{Guardian}
+Spectrum Health Companies,BRENDA,OCHIENG,203944426,{Guardian}
+Spectrum Health Companies,BRIAN,MOYER,468439808,{Guardian}
+Spectrum Health Companies,BRIANNA,DOMBROVSKI,412775129,{Guardian}
+Spectrum Health Companies,BRITTA,JOHNSON,471230968,{Guardian}
+Spectrum Health Companies,CARLA,ROY,473964047,{Guardian}
+Spectrum Health Companies,CARRIE,LUOMA,474867212,{Guardian}
+Spectrum Health Companies,CARRIE,ROSETH,468925758,{Guardian}
+Spectrum Health Companies,CASSANDRA,HERBERG,471376617,{Guardian}
+Spectrum Health Companies,CHARLES,JONES,471926955,{Guardian}
+Spectrum Health Companies,CHERYL,BRAINARD,243271933,{Guardian}
+Spectrum Health Companies,CHERYL,HART,474764258,{Guardian}
+Spectrum Health Companies,CHRISTINA,BARNABY,476021628,{Guardian}
+Spectrum Health Companies,CHRISTINA,CHRISTIANSEN,474967956,{Guardian}
+Spectrum Health Companies,CHRISTINA,DIRCKS,477088671,{Guardian}
+Spectrum Health Companies,CHRISTINE,SKAGER,274663045,{Guardian}
+Spectrum Health Companies,CHRISTOPHER,BISSONETTE,474064231,{Guardian}
+Spectrum Health Companies,CINDY,CALKINS-JOHNSON,472868402,{Guardian}
+Spectrum Health Companies,CODY,GEHRKE,476064160,{Guardian}
+Spectrum Health Companies,CORY,NYNAS,477968988,{Guardian}
+Spectrum Health Companies,COURTNEY,CZUBIN,474175375,{Guardian}
+Spectrum Health Companies,DANA,HINES,476154619,{Guardian}
+Spectrum Health Companies,DANEE',HAENKE,468883330,{Guardian}
+Spectrum Health Companies,DARLA,WEATHERTON,468438958,{Guardian}
+Spectrum Health Companies,DAVID,PATTERSON,476765389,{Guardian}
+Spectrum Health Companies,DAWN,CEGLAR,470840149,{Guardian}
+Spectrum Health Companies,DEAN,ARNOLD,477880743,{Guardian}
+Spectrum Health Companies,DEBBIE,MAKI,350485777,{Guardian}
+Spectrum Health Companies,DEBORAH,RODICH,471941925,{Guardian}
+Spectrum Health Companies,DEBRA,LARSON-HURT,476864122,{Guardian}
+Spectrum Health Companies,DEBRA,NOVAK,470725433,{Guardian}
+Spectrum Health Companies,DEBRA,WHITE,477213765,{Guardian}
+Spectrum Health Companies,DENISE,DEBAERE,476685903,{Guardian}
+Spectrum Health Companies,DIANE,SERENA,476708485,{Guardian}
+Spectrum Health Companies,DIANE,VON RUDEN,475668029,{Guardian}
+Spectrum Health Companies,DONNA,BARTELS,469864653,{Guardian}
+Spectrum Health Companies,DONNA,JOHNSON,471701799,{Guardian}
+Spectrum Health Companies,DONNA,LIEN,501963894,{Guardian}
+Spectrum Health Companies,DUJAWN,BALDWIN,357766798,{Guardian}
+Spectrum Health Companies,ELIZABETH,HEWITT,608729430,{Guardian}
+Spectrum Health Companies,EMILY,SWANSON,521392584,{Guardian}
+Spectrum Health Companies,EVANS,MARANGA,469337952,{Guardian}
+Spectrum Health Companies,FAITH,VERNLUND,471114186,{Guardian}
+Spectrum Health Companies,GEORGE,MOMANYI,639629508,{Guardian}
+Spectrum Health Companies,GIOVONIA,MCLEMORE,393048313,{Guardian}
+Spectrum Health Companies,GODFREY,YEGO,477371164,{Guardian}
+Spectrum Health Companies,GREENLY,MOOS,475392791,{Guardian}
+Spectrum Health Companies,HAILEY,SCHALLER,473430895,{Guardian}
+Spectrum Health Companies,HANNAH,GLASS,356947737,{Guardian}
+Spectrum Health Companies,HEATHER,CALLAHAN,444888400,{Guardian}
+Spectrum Health Companies,HEATHER,HOLLIDAY,472272999,{Guardian}
+Spectrum Health Companies,HEIDI,JOHNSON,476940196,{Guardian}
+Spectrum Health Companies,HODAN,MOHAMED,228712168,{Guardian}
+Spectrum Health Companies,IZABELLA,GAMS,470333404,{Guardian}
+Spectrum Health Companies,JAIME,RASMUSSEN,503137199,{Guardian}
+Spectrum Health Companies,JAIMIE,RICHARDSON,469964030,{Guardian}
+Spectrum Health Companies,JAMIE,SPODEN,472191348,{Guardian}
+Spectrum Health Companies,JANET,BUERSKEN,476887370,{Guardian}
+Spectrum Health Companies,JANIE,CHRISTIANSEN,470829328,{Guardian}
+Spectrum Health Companies,JARED,MALDONADO,338940859,{Guardian}
+Spectrum Health Companies,JENNA,RABAS,516250004,{Guardian}
+Spectrum Health Companies,JENNIFER,LAGESON,469029024,{Guardian}
+Spectrum Health Companies,JENNIFER,SAMPSON,472060577,{Guardian}
+Spectrum Health Companies,JEREMY,KAUPPI,473846635,{Guardian}
+Spectrum Health Companies,JOAN,SWARTZ,469927986,{Guardian}
+Spectrum Health Companies,JOE,SWITAJEWSKI,476232483,{Guardian}
+Spectrum Health Companies,JOLENE,STOVER,473043730,{Guardian}
+Spectrum Health Companies,JOSECK,MOGAKA,477297744,{Guardian}
+Spectrum Health Companies,JOSEPH,BURKE,469353030,{Guardian}
+Spectrum Health Companies,JOSEPH,FOSTER,472944506,{Guardian}
+Spectrum Health Companies,JOY,SHEARROW,475044570,{Guardian}
+Spectrum Health Companies,JULIA,HOGAN,474585230,{Guardian}
+Spectrum Health Companies,JUSTIN,STEWARD,459857002,{Guardian}
+Spectrum Health Companies,KARLEE,PUZEL,468277198,{Guardian}
+Spectrum Health Companies,KARLEEN,GERADS,474333562,{Guardian}
+Spectrum Health Companies,KASEY,LANEY,472116855,{Guardian}
+Spectrum Health Companies,KASSANDRA,VAN METER,477279417,{Guardian}
+Spectrum Health Companies,KATHERINE,SCHULTZ,475823882,{Guardian}
+Spectrum Health Companies,KATHERINE,STAGE,477960902,{Guardian}
+Spectrum Health Companies,KATHLEEN,ECK,476290428,{Guardian}
+Spectrum Health Companies,KAYLA,BISSONETTE,399115225,{Guardian}
+Spectrum Health Companies,KAYLA,MISKOWIC,477337255,{Guardian}
+Spectrum Health Companies,KELSEY,MONSON,529990418,{Guardian}
+Spectrum Health Companies,KENNETH,ODHIAMBO,302790682,{Guardian}
+Spectrum Health Companies,KEVIN,NELSON,471807265,{Guardian}
+Spectrum Health Companies,KIMBERLY,CHASE,565418609,{Guardian}
+Spectrum Health Companies,KIMBERLY,OLSON,468921629,{Guardian}
+Spectrum Health Companies,KOMLA,ATSUVI,644873858,{Guardian}
+Spectrum Health Companies,KOMLAGAN,NOUMEDOH,468798061,{Guardian}
+Spectrum Health Companies,KOWSAR,MUSE,295115905,{Guardian}
+Spectrum Health Companies,KRISHA,THUL,475155937,{Guardian}
+Spectrum Health Companies,KRISTA,KREKELBERG,474216945,{Guardian}
+Spectrum Health Companies,LARA,JEFFERS,477023796,{Guardian}
+Spectrum Health Companies,LAURA,BAILEY,476827314,{Guardian}
+Spectrum Health Companies,LAURA,SANDBERG,475190115,{Guardian}
+Spectrum Health Companies,LAURA,TRESTER,476135175,{Guardian}
+Spectrum Health Companies,LAURIE,STEWART-WARNER,567023580,{Guardian}
+Spectrum Health Companies,LIAM,PROUDFOOT,469374865,{Guardian}
+Spectrum Health Companies,LILLIE,ELJ,471430987,{Guardian}
+Spectrum Health Companies,LISA,HOFF,468885626,{Guardian}
+Spectrum Health Companies,LISA,RAMDIN,470478481,"{ABA,Guardian}"
+Spectrum Health Companies,LISA,SMITH,530211502,{Guardian}
+Spectrum Health Companies,LORALEIGH,FREER,473213764,{Guardian}
+Spectrum Health Companies,LORI,DENNIE,474867605,{Guardian}
+Spectrum Health Companies,LORI,WAAGE,471804252,{Guardian}
+Spectrum Health Companies,LUANN,WARD,472723317,{Guardian}
+Spectrum Health Companies,LUCY,BAILLIF,477413047,{Guardian}
+Spectrum Health Companies,LUKE,MACCOY,470985712,{Guardian}
+Spectrum Health Companies,LYNN,BORG,544500243,{Guardian}
+Spectrum Health Companies,LYNN,GUSKI,469085868,{Guardian}
+Spectrum Health Companies,LYSANDRA,WHITFIELD,384025614,{Guardian}
+Spectrum Health Companies,MAGGIE,NEWELL,476219120,{Guardian}
+Spectrum Health Companies,MALLORY,BLISS,431612016,{Guardian}
+Spectrum Health Companies,MANDOLIN,COPA,472115527,{Guardian}
+Spectrum Health Companies,MARCIA,ARRIOLA,644721875,{Guardian}
+Spectrum Health Companies,MARGY,PORTER,468669289,{Guardian}
+Spectrum Health Companies,MARIA,SALGADO,611447883,{Guardian}
+Spectrum Health Companies,MARILYN,HANSON,472688888,{Guardian}
+Spectrum Health Companies,MARY JO,MCGATH,470888149,{Guardian}
+Spectrum Health Companies,MATTHEW,TEMPLE,472437077,{Guardian}
+Spectrum Health Companies,MCKENZIE,FRANK,476277647,{Guardian}
+Spectrum Health Companies,MELANIE,RYTTY,475296174,{Guardian}
+Spectrum Health Companies,MELISSA,BURT,476984415,{Guardian}
+Spectrum Health Companies,MELISSA,SPAID,471868804,{Guardian}
+Spectrum Health Companies,MERCEDES,FAGERENG,473256548,{Guardian}
+Spectrum Health Companies,MERLE,SAMPSON,472565635,{Guardian}
+Spectrum Health Companies,MIA,MOORE,471350815,{Guardian}
+Spectrum Health Companies,MICHAEL,SYLTIE,468088072,"{ABA,Guardian}"
+Spectrum Health Companies,MICHAEL,WESKE,472177640,{Guardian}
+Spectrum Health Companies,MICHELLE,CASTAGNERI,473862634,{Guardian}
+Spectrum Health Companies,MICHELLE,GUSTAFSON,476944313,{Guardian}
+Spectrum Health Companies,MICHELLE,LEE,477025822,{Guardian}
+Spectrum Health Companies,MICHELLE,MORROW,474020612,{Guardian}
+Spectrum Health Companies,MIRACLE,THOMPSON,083903550,{Guardian}
+Spectrum Health Companies,MOLLY,ERICKSON,471337449,{Guardian}
+Spectrum Health Companies,MOLLY,LAUTIZI,468087847,{Guardian}
+Spectrum Health Companies,NATALIE,NOLTING,468158046,{Guardian}
+Spectrum Health Companies,NICHOLE,ANDRES,503065354,{Guardian}
+Spectrum Health Companies,NICKOLAS,SPELLMAN,474416451,{Guardian}
+Spectrum Health Companies,NORA,HOLDEN,473392323,{Guardian}
+Spectrum Health Companies,PAMELA,DICKERSON,471969335,{Guardian}
+Spectrum Health Companies,PAMELA,ERNEST,472153196,{Guardian}
+Spectrum Health Companies,PAMELA,JOHNSON-LEPPANEN,476604486,{Guardian}
+Spectrum Health Companies,PATRICIA,KALLIO,264952001,{Guardian}
+Spectrum Health Companies,PEGGY,LEIKVOLL-WOODS,469966410,{Guardian}
+Spectrum Health Companies,PERJHAUN,HILLIARD,474371519,{Guardian}
+Spectrum Health Companies,RADKA,LENG,471943826,{Guardian}
+Spectrum Health Companies,RAE ANN,DEBELTZ,469119973,{Guardian}
+Spectrum Health Companies,REBECCA,THOMPSON,474901315,{Guardian}
+Spectrum Health Companies,REGINA,CHILSON,473130946,{Guardian}
+Spectrum Health Companies,RHONDA JEAN,HEATH,473920407,{Guardian}
+Spectrum Health Companies,ROBERTA,JOHNSON,469119937,{Guardian}
+Spectrum Health Companies,ROSEMARY,ASHLEY,333649207,{Guardian}
+Spectrum Health Companies,ROXANA,RICHTER,156943075,{Guardian}
+Spectrum Health Companies,SAMANTHA,ERICKSON,475217204,{Guardian}
+Spectrum Health Companies,SAMIRA,NOOR,866691217,{Guardian}
+Spectrum Health Companies,SANDRA,BEAUCHEM,474981299,{Guardian}
+Spectrum Health Companies,SANDRA,PETERSEN,472641083,{Guardian}
+Spectrum Health Companies,SARA,BECKSTROM,471048309,{Guardian}
+Spectrum Health Companies,SARAH,LAPRAIRIE,468271999,{Guardian}
+Spectrum Health Companies,SHANE,HOLDER,434517425,{Guardian}
+Spectrum Health Companies,SHAWNA,GIBSON,470788479,{Guardian}
+Spectrum Health Companies,SHIELA,LASHMETT,308934620,{Guardian}
+Spectrum Health Companies,SHOSHANNA,LINDEMAN,366195062,{Guardian}
+Spectrum Health Companies,STEPHANIE,GOULD,468295692,{Guardian}
+Spectrum Health Companies,STEPHANIE,MAROLT,470689239,{Guardian}
+Spectrum Health Companies,SUSAN,BAXTER,477860820,{Guardian}
+Spectrum Health Companies,SUSAN,JOHNSON,475047792,{Guardian}
+Spectrum Health Companies,SUSAN,PAULSON,473809443,{Guardian}
+Spectrum Health Companies,SUSIE,PETERSON,473846689,{Guardian}
+Spectrum Health Companies,TAMARA,FREED,475840815,{Guardian}
+Spectrum Health Companies,TAMARA,GERADS,472064487,{Guardian}
+Spectrum Health Companies,TAMMI,THOMPSON,517808923,{Guardian}
+Spectrum Health Companies,TAMMY,EASTMAN,470022097,{Guardian}
+Spectrum Health Companies,TAMMY,GREGORY,397921162,{Guardian}
+Spectrum Health Companies,TAMMY,PUTNEY,284760206,{Guardian}
+Spectrum Health Companies,TARA,BELLAND,475132704,{Guardian}
+Spectrum Health Companies,TAYLOR,SULLIVAN,474352441,{Guardian}
+Spectrum Health Companies,TIA,SCHLEGEL,476962737,{Guardian}
+Spectrum Health Companies,TIMOTHY,FORTUN,473258507,{Guardian}
+Spectrum Health Companies,TORI,PALKOVICH,476239673,{Guardian}
+Spectrum Health Companies,TRIVENA,NAGY,472940280,{Guardian}
+Spectrum Health Companies,VIRGINIA,DEMENT,476351611,{Guardian}
+Spectrum Health Companies,WILLIAM,BYRD,472250356,{Guardian}
+Spectrum Health Companies,YASMIN,FARAH,667055670,{Guardian}
+Spectrum Health Companies,YVONNE,BROTEN,468821009,{Guardian}
+Spring Valley Living,ALEXIS,LAUSENG,472378685,{Guardian}
+Spring Valley Living,AMBER,BRIGHAM,481273565,{Guardian}
+Spring Valley Living,AMY,BELL,476119133,{Guardian}
+Spring Valley Living,AMY,MEIER,469158221,{Guardian}
+Spring Valley Living,ANGIE,SCHNEIDER,502946110,{Guardian}
+Spring Valley Living,ANTHONY,SCHELL,475251080,{Guardian}
+Spring Valley Living,ASHLEY,CLOUSE,473132812,{Guardian}
+Spring Valley Living,ASHLEY,STIER,471231050,{Guardian}
+Spring Valley Living,BARBARA,KEEFE,470821933,{Guardian}
+Spring Valley Living,BRIDGET,RAMAKER,478069205,{Guardian}
+Spring Valley Living,BRITTANY,MCHAN,472239422,{Guardian}
+Spring Valley Living,CASSANDRA,STEVENS,474337936,{Guardian}
+Spring Valley Living,CHARLENE,CZAPIEWSKI,475808465,{Guardian}
+Spring Valley Living,CHELSEA,KRUEGER,480111441,{Guardian}
+Spring Valley Living,CHER,COOPER,468867744,{Guardian}
+Spring Valley Living,CHRISTINE,OCONNER,442989686,{Guardian}
+Spring Valley Living,DACIA,SORUM,473138162,{Guardian}
+Spring Valley Living,DAVONTE,ADAMS,470314130,{Guardian}
+Spring Valley Living,DEANA,COPEMAN,472217640,{Guardian}
+Spring Valley Living,DENNIS,NIETZ,472841407,{Guardian}
+Spring Valley Living,DIANNA,VOIGT,476706394,{Guardian}
+Spring Valley Living,DYLAN,MLINAR,470430860,{Guardian}
+Spring Valley Living,ELIZABETH,MARTIN,470336725,{Guardian}
+Spring Valley Living,ELIZABETH,MCHAN,471216930,{Guardian}
+Spring Valley Living,ERIN,MCKAY,475336306,{Guardian}
+Spring Valley Living,HEATHER,SELLERS,474946684,{Guardian}
+Spring Valley Living,JENNY,ARMSTRONG,475724994,{Guardian}
+Spring Valley Living,JOY,HINDT,476706389,{Guardian}
+Spring Valley Living,JUSTIN,ADLER,474086438,{Guardian}
+Spring Valley Living,KARSON,RINDELS,468352382,{Guardian}
+Spring Valley Living,KEATON,SCHMIDT,468431006,{Guardian}
+Spring Valley Living,LISA,SCHMIDT,469600860,{Guardian}
+Spring Valley Living,LOUISE,MARQUARDT,472727619,{Guardian}
+Spring Valley Living,MACKINZE,SKARE,477252824,{Guardian}
+Spring Valley Living,MATTHEW,DAHL,473235162,{Guardian}
+Spring Valley Living,MELISSA,VREEMAN,477025625,{Guardian}
+Spring Valley Living,MICHAEL,GRIFFIS,031586417,{Guardian}
+Spring Valley Living,NATASHA,CURTIS,469065874,{Guardian}
+Spring Valley Living,NICHOLAS,RIEKENS,477045516,{Guardian}
+Spring Valley Living,OLIVIA,VARGAS,471410690,{Guardian}
+Spring Valley Living,PATRICIA,RUGGEBERG,357688708,{Guardian}
+Spring Valley Living,PENNY,SOLBERG,469648842,{Guardian}
+Spring Valley Living,RENEE,REICKS,480765033,{Guardian}
+Spring Valley Living,SANDRA,VOELTZ,475029474,{Guardian}
+Spring Valley Living,SAVANNAH,HELLERUD,473375026,{Guardian}
+Spring Valley Living,SHAKIYA,OGILVIE,541455009,{Guardian}
+Spring Valley Living,SHERRY,NAGEL,477900229,{Guardian}
+Spring Valley Living,SILKE,SKINDELIEN,469178762,{Guardian}
+Spring Valley Living,SOPHIA,STEPHAS,475475564,{Guardian}
+Spring Valley Living,SUSAN,GILBERT,561414559,{Guardian}
+Spring Valley Living,SUZANNE,EBERLE,475986421,{Guardian}
+Spring Valley Living,TARA,BJERKE,473136438,{Guardian}
+Spring Valley Living,TIANA,PLAGMAN,482316107,{Guardian}
+Spring Valley Living,WAYNE,ROSS,473357287,{Guardian}
+Symphony Manor of Feasterville,ALANA,RIVERA,180803268,{Guardian}
+Symphony Manor of Feasterville,AMANDA,DUFFY,175804137,{Guardian}
+Symphony Manor of Feasterville,CENTRIN,BAILEY,180746879,{Guardian}
+Symphony Manor of Feasterville,COMFORT,SWEN,205800109,{Guardian}
+Symphony Manor of Feasterville,DANIELLE,ARMSTEAD,210662156,{Guardian}
+Symphony Manor of Feasterville,DEBORAH,ADAMS,098468482,{Guardian}
+Symphony Manor of Feasterville,DOMINICA,CHUDE,030860036,{Guardian}
+Symphony Manor of Feasterville,FAMATA,THOMAS,894917777,{Guardian}
+Symphony Manor of Feasterville,FREDERICK,REICHWEIN,177661897,{Guardian}
+Symphony Manor of Feasterville,GARY,THOMAS,176382712,{Guardian}
+Symphony Manor of Feasterville,GREGORY,GRAHAM,149923549,{Guardian}
+Symphony Manor of Feasterville,HEATHER,BINKLEY,200726215,{Guardian}
+Symphony Manor of Feasterville,JASON,AGRONT,164709535,{Guardian}
+Symphony Manor of Feasterville,JENNIFER,GRANT,183647233,{Guardian}
+Symphony Manor of Feasterville,JENNIFER,MAZUR,203703095,{Guardian}
+Symphony Manor of Feasterville,JOHN,CAMPBELL,189568683,{Guardian}
+Symphony Manor of Feasterville,JOHN,KUCHARCZYK,196469447,"{ABA,Guardian}"
+Symphony Manor of Feasterville,LATOYA,BIZZELL,149800995,{Guardian}
+Symphony Manor of Feasterville,LEXUS,MEDLEY,173767328,{Guardian}
+Symphony Manor of Feasterville,LUCRETIA,TOGBA,152028698,{Guardian}
+Symphony Manor of Feasterville,MANDORA,MALDONADO,084825544,{Guardian}
+Symphony Manor of Feasterville,MICHAEL,TAURINO,178568275,{Guardian}
+Symphony Manor of Feasterville,ORETHA,GRAY,705192130,{Guardian}
+Symphony Manor of Feasterville,PHILIP,PEAL,194825016,{Guardian}
+Symphony Manor of Feasterville,QUINDA,BAILEY,171662455,{Guardian}
+Symphony Manor of Feasterville,RONDA,SAUNDERS,211548374,{Guardian}
+Symphony Manor of Feasterville,SHANE,RAMSEY,176725154,{Guardian}
+Symphony Manor of Feasterville,TYIESHA,SAUNDERS,177641024,{Guardian}
+"Tapestry Senior Housing Management, LLC",ALEISHA,JONES,198744236,{Guardian}
+"Tapestry Senior Housing Management, LLC",ALICE,JONES,266691403,{Guardian}
+"Tapestry Senior Housing Management, LLC",ALICE,SMITH,302685596,{Guardian}
+"Tapestry Senior Housing Management, LLC",ALICIA,SCHROEDER,471171570,{Guardian}
+"Tapestry Senior Housing Management, LLC",ALLISON,MOLTER,290042613,{Guardian}
+"Tapestry Senior Housing Management, LLC",AMANDA,TOKARSKI,176745811,{Guardian}
+"Tapestry Senior Housing Management, LLC",AMY,CHRISTIAN,276648339,{Guardian}
+"Tapestry Senior Housing Management, LLC",ANDREA,PRATHER,595967877,{Guardian}
+"Tapestry Senior Housing Management, LLC",ANDREW,BURNHAM,590707492,{Guardian}
+"Tapestry Senior Housing Management, LLC",ANGEL,WEESE,173641008,{Guardian}
+"Tapestry Senior Housing Management, LLC",ANGELA,RUSSELL,233350142,{Guardian}
+"Tapestry Senior Housing Management, LLC",ANGELA,SIMON,564194678,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",ANNETTE,WICAL,284646160,{Guardian}
+"Tapestry Senior Housing Management, LLC",ASHLEY,WOOD,208729166,{Guardian}
+"Tapestry Senior Housing Management, LLC",AUTUMN,GARNER,295021479,{Guardian}
+"Tapestry Senior Housing Management, LLC",AVIS,KLAMMER,302508185,{Guardian}
+"Tapestry Senior Housing Management, LLC",BILLY,WILSON,290820951,{Guardian}
+"Tapestry Senior Housing Management, LLC",BRENDA,RAMONT,293769526,{Guardian}
+"Tapestry Senior Housing Management, LLC",BRETT,COOK,275663105,{Guardian}
+"Tapestry Senior Housing Management, LLC",BRIANA,KANE,220554579,{Guardian}
+"Tapestry Senior Housing Management, LLC",BRIDGETTE,COLEMON,268648305,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",BRIDGETTE,MONROE,266696239,{Guardian}
+"Tapestry Senior Housing Management, LLC",BROCK,STOMOFF,299985369,{Guardian}
+"Tapestry Senior Housing Management, LLC",BRYNNE,CAIN,282048976,{Guardian}
+"Tapestry Senior Housing Management, LLC",CARL,LYONS,173544986,{Guardian}
+"Tapestry Senior Housing Management, LLC",CASEY,MATTHEWS,594587901,{Guardian}
+"Tapestry Senior Housing Management, LLC",CHAVONNA,SHERMAN,403615076,{Guardian}
+"Tapestry Senior Housing Management, LLC",CHERI,BURKS,296807806,{Guardian}
+"Tapestry Senior Housing Management, LLC",CHRISTIE,MCMURTRIE,162587416,{Guardian}
+"Tapestry Senior Housing Management, LLC",CHRISTOPHER,STEPHENSON,594564999,{Guardian}
+"Tapestry Senior Housing Management, LLC",CLOEY,SPAHR,274060111,{Guardian}
+"Tapestry Senior Housing Management, LLC",CONNOR,MELVIN,592698591,{Guardian}
+"Tapestry Senior Housing Management, LLC",DEANDRE,REED,296968136,{Guardian}
+"Tapestry Senior Housing Management, LLC",DEBORAH,HERRLE,179648080,{Guardian}
+"Tapestry Senior Housing Management, LLC",DENETRIA,DIXSON,594219034,{Guardian}
+"Tapestry Senior Housing Management, LLC",DENISE,CLARKE,209115546,{Guardian}
+"Tapestry Senior Housing Management, LLC",DESAREE,EICHLER,164762133,{Guardian}
+"Tapestry Senior Housing Management, LLC",DEZIE,MARKS,022490577,{Guardian}
+"Tapestry Senior Housing Management, LLC",DIANE,PERSON,287527035,{Guardian}
+"Tapestry Senior Housing Management, LLC",DONNA,MCGULLION,014568584,{Guardian}
+"Tapestry Senior Housing Management, LLC",ELIZABETH,FAINGNAERT,210749751,{Guardian}
+"Tapestry Senior Housing Management, LLC",ERICA,SEYMORE,595662135,{Guardian}
+"Tapestry Senior Housing Management, LLC",EUGENIA,WILLIAMS,269601376,{Guardian}
+"Tapestry Senior Housing Management, LLC",FRANNITA,PORTER,281849432,{Guardian}
+"Tapestry Senior Housing Management, LLC",GREG,GRAMM,191601966,{Guardian}
+"Tapestry Senior Housing Management, LLC",HERBERT,KLEIN,209387179,{Guardian}
+"Tapestry Senior Housing Management, LLC",HOLLY,BIKUL,207644875,{Guardian}
+"Tapestry Senior Housing Management, LLC",HOLLY,DINELLA-BETHKE,471257878,{Guardian}
+"Tapestry Senior Housing Management, LLC",JACQUE,RICHARDSON,589350101,{Guardian}
+"Tapestry Senior Housing Management, LLC",JALEESA,KEMP,594800214,{Guardian}
+"Tapestry Senior Housing Management, LLC",JANE,RUSSELL,300722788,{Guardian}
+"Tapestry Senior Housing Management, LLC",JATAVIS,ROBINSON,595459090,{Guardian}
+"Tapestry Senior Housing Management, LLC",JAYSON,JACKSON,170662014,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",JEFFREY,SANTON,276845960,{Guardian}
+"Tapestry Senior Housing Management, LLC",JEFFREY,TOMME,293842281,{Guardian}
+"Tapestry Senior Housing Management, LLC",JENNIFER,BEACH,288864015,{Guardian}
+"Tapestry Senior Housing Management, LLC",JENNIFER,MUNDAY,258331178,{Guardian}
+"Tapestry Senior Housing Management, LLC",JENNIFER,STITT,273705687,{Guardian}
+"Tapestry Senior Housing Management, LLC",JESS,RAY,167566293,{Guardian}
+"Tapestry Senior Housing Management, LLC",JESSICA,SABA,473085462,{Guardian}
+"Tapestry Senior Housing Management, LLC",JILL,STANTON,115582171,{Guardian}
+"Tapestry Senior Housing Management, LLC",JOSEPH,VENCL,292647396,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",JUDY,SWEET WEATHERSPOON,266393420,{Guardian}
+"Tapestry Senior Housing Management, LLC",KAREN,GILES,593011368,{Guardian}
+"Tapestry Senior Housing Management, LLC",KATHLEEN,KRISE,204429613,{Guardian}
+"Tapestry Senior Housing Management, LLC",KAYLA,FOSTER,282960751,{Guardian}
+"Tapestry Senior Housing Management, LLC",KELLY,BAKER,295805854,{Guardian}
+"Tapestry Senior Housing Management, LLC",KENDRA,RASMUSON,476213622,{Guardian}
+"Tapestry Senior Housing Management, LLC",KIM,HARRIS,595262145,{Guardian}
+"Tapestry Senior Housing Management, LLC",KRISTEN,STALLWORTH,290986548,{Guardian}
+"Tapestry Senior Housing Management, LLC",LATOYA,HOBLEY,592726411,{ABA}
+"Tapestry Senior Housing Management, LLC",LAURA,RUPERT,132646719,{ABA}
+"Tapestry Senior Housing Management, LLC",LEON,BLAIR,170804126,{Guardian}
+"Tapestry Senior Housing Management, LLC",LEROY,BROWN,089500617,{Guardian}
+"Tapestry Senior Housing Management, LLC",LINDA,HARVEY,293625085,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",LINDSAY,SPEED,280902227,{Guardian}
+"Tapestry Senior Housing Management, LLC",LORA,HABER,279945177,{Guardian}
+"Tapestry Senior Housing Management, LLC",LORETTER,GAINES,259332952,{Guardian}
+"Tapestry Senior Housing Management, LLC",MACKENZIE,DUDA,191762839,{Guardian}
+"Tapestry Senior Housing Management, LLC",MADDISON,DEINERT,209764162,{Guardian}
+"Tapestry Senior Housing Management, LLC",MARIA,MORA,472419764,{Guardian}
+"Tapestry Senior Housing Management, LLC",MARIANA,AL-ASKARI,382277815,{Guardian}
+"Tapestry Senior Housing Management, LLC",MARILYN,CORBETT,266595997,{Guardian}
+"Tapestry Senior Housing Management, LLC",MARION,RUSHING,296920048,{Guardian}
+"Tapestry Senior Housing Management, LLC",MATILDA,WRIGHT,261857033,{Guardian}
+"Tapestry Senior Housing Management, LLC",MAXWELL,MERWITZ,216672453,{Guardian}
+"Tapestry Senior Housing Management, LLC",MELISSA,OROSS,199460959,{Guardian}
+"Tapestry Senior Housing Management, LLC",MELISSA,SCHMIDT,286664207,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",MELISSA,VELAZQUEZ,276781633,{Guardian}
+"Tapestry Senior Housing Management, LLC",MICHAEL,SKEETE,593496759,{Guardian}
+"Tapestry Senior Housing Management, LLC",MIKHAYLA,ABBOTT,279027723,{Guardian}
+"Tapestry Senior Housing Management, LLC",MILLERINE,CLARKE,291647792,{Guardian}
+"Tapestry Senior Housing Management, LLC",PAMELA,THOMPSON,256256502,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",PAULA,LOCKETT,271909018,{Guardian}
+"Tapestry Senior Housing Management, LLC",RAYNESSEA,HARDY,290821722,{Guardian}
+"Tapestry Senior Housing Management, LLC",RENEE,HARLOW,550618847,{Guardian}
+"Tapestry Senior Housing Management, LLC",RENITA,PETTY,211507277,{Guardian}
+"Tapestry Senior Housing Management, LLC",ROBERT,KUTSCHER,552657884,{Guardian}
+"Tapestry Senior Housing Management, LLC",ROSE,RENE,769668363,{Guardian}
+"Tapestry Senior Housing Management, LLC",ROY,ANDREWS,411457531,{Guardian}
+"Tapestry Senior Housing Management, LLC",RUKIYA,CAMPBELL,172662802,{Guardian}
+"Tapestry Senior Housing Management, LLC",SAMANTHA,BRYAN,171760648,{Guardian}
+"Tapestry Senior Housing Management, LLC",SAMANTHA,CLECKLEY,176704806,{Guardian}
+"Tapestry Senior Housing Management, LLC",SAMANTHA,MADAN,176706396,{Guardian}
+"Tapestry Senior Housing Management, LLC",SAVANNAH,PENN,200781732,{Guardian}
+"Tapestry Senior Housing Management, LLC",SHANIA,STOWERS,209801800,{Guardian}
+"Tapestry Senior Housing Management, LLC",SHANNON,BURTON,299743611,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",SHARLOTTE,BURTON,299741369,"{ABA,Guardian}"
+"Tapestry Senior Housing Management, LLC",SHAWNA,RAY,195708776,{Guardian}
+"Tapestry Senior Housing Management, LLC",SHAYNA,LINEAR,469840640,"{BCBSMN,Guardian}"
+"Tapestry Senior Housing Management, LLC",SHELLY,WAGNER,275741606,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",STEVEN,BJORKLUND,265333620,{Guardian}
+"Tapestry Senior Housing Management, LLC",SUSAN,CIPRIANI,190463999,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",TABITHA,VICKERS,256214805,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",TARAR,DANIELS,589037936,{Guardian}
+"Tapestry Senior Housing Management, LLC",TARRA,BROWN,592271138,{Guardian}
+"Tapestry Senior Housing Management, LLC",TEARLIS,WOODS,293921476,{Guardian}
+"Tapestry Senior Housing Management, LLC",TERESA,BUCCALO,284645892,{Guardian}
+"Tapestry Senior Housing Management, LLC",THOMAS,DICKSON,173640373,{Guardian}
+"Tapestry Senior Housing Management, LLC",THOMAS,HENSEL,299926844,{Guardian}
+"Tapestry Senior Housing Management, LLC",TIFFANY,COLLINS,276803118,{Guardian}
+"Tapestry Senior Housing Management, LLC",TRAVIS,RICH,274741915,{Guardian}
+"Tapestry Senior Housing Management, LLC",TYRE,CAMPBELL,205744444,{Guardian}
+"Tapestry Senior Housing Management, LLC",WENDY,RISCHMILLER,473880633,"{FBA,Guardian}"
+"Tapestry Senior Housing Management, LLC",WILLIAM,FISHER,476538211,{Guardian}
+"Tapestry Senior Housing Management, LLC",WILLIAM,LEPORT,209584017,{Guardian}
+"Tapestry Senior Housing Management, LLC",YONTINA,DAVIS,262690052,{Guardian}
+"The Laurels of Lake Orion, LLC",ANGELA,SMITH,383621568,{Guardian}
+"The Laurels of Lake Orion, LLC",DANYAIL,LEMASTER,365806100,{Guardian}
+"The Laurels of Lake Orion, LLC",KRYSTAL,LEWIS,381115954,{Guardian}
+"The Laurels of Lake Orion, LLC",MICHAEL,MAYES,369805466,{Guardian}
+"The Laurels of Lake Orion, LLC",ROBERT,FENNER,386025548,{Guardian}
+"The Laurels of Lake Orion, LLC",TIFFANY,GIAMMARCO,379766518,"{FBA,Guardian}"
+"The Moments, LLC",ALAINA,BROWN,470219111,{FBA}
+"The Moments, LLC",ALANNA,EVANS,475197766,{Guardian}
+"The Moments, LLC",ALYSSA,DANIELSON,472279762,{FBA}
+"The Moments, LLC",BEAU,LARSON,470132047,"{FBA,Guardian}"
+"The Moments, LLC",BRENNA,TOVAR,468355198,{FBA}
+"The Moments, LLC",JASON,BRYANT,484020102,{Guardian}
+"The Moments, LLC",KERRY,OTTESON,473809139,"{FBA,Guardian}"
+"The Moments, LLC",LANA,KING,471880053,"{FBA,Guardian}"
+"The Moments, LLC",NANCY,KIMMES,476130023,{Guardian}
+"The Moments, LLC",SHEILA,STANCZYK,392721647,{FBA}
+"The Moments, LLC",SI SI,HLAING,823929308,{FBA}
+"The Moments, LLC",TAMARA,MOYER,469828516,{FBA}
+Total Care Group,AARON,GAVIN,390880388,{Guardian}
+Total Care Group,AMANDA,RUIZ,393925612,{Guardian}
+Total Care Group,AMBER,LEZINE,387130153,{Guardian}
+Total Care Group,ASHLEY,DAVIS,004842899,{Guardian}
+Total Care Group,BAILEY,MCFARLAND,388219455,{Guardian}
+Total Care Group,BRUCE,FRANCOIS,396112714,{Guardian}
+Total Care Group,CAROLYN,MASCHERI,390862186,{Guardian}
+Total Care Group,CASSONDRA,MEWES,393088715,{Guardian}
+Total Care Group,CHARLES,PFRANG,396541727,{Guardian}
+Total Care Group,CHARLES,SANDERS III,387064854,{Guardian}
+Total Care Group,CHERYL,SCHOLZ,390482474,{Guardian}
+Total Care Group,CHRISTY,STUCKERT,396707966,"{FBA,Guardian}"
+Total Care Group,CIERA,HUNTER,399968967,{Guardian}
+Total Care Group,CYNTHIA,IGIEHON,060946362,{Guardian}
+Total Care Group,DANIEL,WILLIAMS,451777057,"{FBA,Guardian}"
+Total Care Group,DARLA,ERNST,397680741,{Guardian}
+Total Care Group,DEBRA,PAWLING,387587068,{Guardian}
+Total Care Group,DONNA,KUNSTMAN,389882693,{Guardian}
+Total Care Group,EMMA,WEITZEL,769382593,{Guardian}
+Total Care Group,HANS,PFRANG,389198093,{Guardian}
+Total Care Group,HEATHER,CLEVELAND,391046634,{Guardian}
+Total Care Group,HEATHER,RHOADS,397941652,{Guardian}
+Total Care Group,HEATHER,RIOS,542769276,{Guardian}
+Total Care Group,HEATHER,TAYLOR,399647543,{Guardian}
+Total Care Group,ISAIAH,GARZA,388150953,"{FBA,Guardian}"
+Total Care Group,JACQUELIN,EPPERSON,399112370,{Guardian}
+Total Care Group,JAKOB,DUZESKI,641726122,{Guardian}
+Total Care Group,JAYME,WHITE,390061814,{Guardian}
+Total Care Group,JENNA,OLSON,395028469,{Guardian}
+Total Care Group,JENNIFER,STRUVE,389800083,{Guardian}
+Total Care Group,JILL,BARTELT,395608024,{Guardian}
+Total Care Group,JULIE,DEMEY,394746169,{Guardian}
+Total Care Group,JULIE,PFRANG,390701140,{Guardian}
+Total Care Group,KAITLYN,BJERKE,636681961,{Guardian}
+Total Care Group,KATHLEEN,CALDWELL,393609317,{Guardian}
+Total Care Group,KELLY,FLASCH,391945069,{Guardian}
+Total Care Group,KELLY,MCGARRY,392115187,{Guardian}
+Total Care Group,KRISTIN,MORSE,389647713,{Guardian}
+Total Care Group,LATISHA,GIBBS,390926949,{Guardian}
+Total Care Group,LISA,BRONKHORST,399902276,{Guardian}
+Total Care Group,LISA,SCHNEIDER,396701570,{Guardian}
+Total Care Group,LORI,JOHNSON,476800173,{Guardian}
+Total Care Group,MARIAM,AROWOBUSOYE,345714191,{Guardian}
+Total Care Group,MARY,KANE,389602583,{Guardian}
+Total Care Group,MELISSA,JONES,389722821,{Guardian}
+Total Care Group,MICHELLE,AUSTIN,398728364,{Guardian}
+Total Care Group,MONICA,MORALEZ HERNANDEZ,395044730,{Guardian}
+Total Care Group,MYKELLE,MANDEL,388948078,{Guardian}
+Total Care Group,NAPRESHA,SHANNON,399111620,{Guardian}
+Total Care Group,NATASHA,DUNCAN,593363773,{Guardian}
+Total Care Group,NICOLE,SCHUMAKER,395137655,{Guardian}
+Total Care Group,NICOLLE,MERKEL,389177441,{Guardian}
+Total Care Group,NOEL,CLOUD,543886521,{Guardian}
+Total Care Group,ROBERT,TORO,334728887,{Guardian}
+Total Care Group,ROBIN,BALDWIN,393761097,{Guardian}
+Total Care Group,SAMANTHA,OAKLEY,620184062,{Guardian}
+Total Care Group,SANDRA,MISZEWSKI,399806877,{Guardian}
+Total Care Group,SARA,BARSTOW,364747198,{Guardian}
+Total Care Group,SHANNA,LOPEZ,393905872,{Guardian}
+Total Care Group,TAYLOR,LOVE,404519565,{Guardian}
+Total Care Group,TERRI,FLORES,389602576,{Guardian}
+Total Care Group,TIFFANY,HECKER,395138506,{Guardian}
+Total Care Group,TREVOR,MASSIE,326960693,{Guardian}
+Total Care Group,WANDA,ELZY,309866103,{Guardian}
+Total Care Group,WILLIAM,PFRANG,392152104,{Guardian}
+Touching Hearts at Home,AARON,STROMLEY,469027997,"{FBA,Guardian}"
+Touching Hearts at Home,ANDREW,LUNGSTROM,474199220,{Guardian}
+Touching Hearts at Home,BREANNE,STROMLEY,476117050,{Guardian}
+Touching Hearts at Home,RAMONA,HUNT,413040328,{Guardian}
+Touching Hearts at Home,RYAN,LUNGSTROM,474195487,{Guardian}
+TruHope,ANTHONY,KARBAH,143151118,"{FBA,Guardian}"
+TruHope,ARONA,NDIAYE,630069157,{Guardian}
+"Twenty20 Management, Inc",AARON,PARKER,257976274,{Guardian}
+"Twenty20 Management, Inc",ABIGAIL,EVANS,305253446,{Guardian}
+"Twenty20 Management, Inc",ALAN,LICALZI,248976026,{Guardian}
+"Twenty20 Management, Inc",ALAYSIA,PEREZ,042924546,{Guardian}
+"Twenty20 Management, Inc",ALEENA,PELFREY,654180513,{Guardian}
+"Twenty20 Management, Inc",ALEXUS,GRANT,250934332,{Guardian}
+"Twenty20 Management, Inc",ALICE,ROBERTS,249735654,{Guardian}
+"Twenty20 Management, Inc",AMANI,GRANT,657074523,{Guardian}
+"Twenty20 Management, Inc",AMBER,DONALDSON,254818865,{Guardian}
+"Twenty20 Management, Inc",AMBER,FRANKLIN,260770755,{Guardian}
+"Twenty20 Management, Inc",ANA,CARRANZA,125908203,{Guardian}
+"Twenty20 Management, Inc",ANA,FALCON,835334704,{Guardian}
+"Twenty20 Management, Inc",ANGELA,COKLEY,655265688,{Guardian}
+"Twenty20 Management, Inc",ANN,HUTCHENS,242110766,{Guardian}
+"Twenty20 Management, Inc",ANNETTE,ROBINSON,251299506,{Guardian}
+"Twenty20 Management, Inc",ANTHONY,UMSHARES,200600051,{Guardian}
+"Twenty20 Management, Inc",ANTWAN,CUNNINGHAM,237230160,{Guardian}
+"Twenty20 Management, Inc",ASHI,SMITH,654054386,{Guardian}
+"Twenty20 Management, Inc",ASHLEIGH,CONLEY,238654331,"{ABA,Guardian}"
+"Twenty20 Management, Inc",ASHLEY,O NALE,258918223,{Guardian}
+"Twenty20 Management, Inc",ASHLEY,SIMS,590865736,{ABA}
+"Twenty20 Management, Inc",ASHNA,NELSON,130720708,{Guardian}
+"Twenty20 Management, Inc",AUNDREIA,CHESTNUT,251479105,{Guardian}
+"Twenty20 Management, Inc",AURENEE,MCCALL,246452846,{Guardian}
+"Twenty20 Management, Inc",BARBARA,LLORENS,002662538,{Guardian}
+"Twenty20 Management, Inc",BEATRICE,DAHN BARRENTINE,220612447,{Guardian}
+"Twenty20 Management, Inc",BERNARD,DOBSON,239174918,{Guardian}
+"Twenty20 Management, Inc",BETHANY,TURNER,257975642,{Guardian}
+"Twenty20 Management, Inc",BEVERLY,BETHEA,250395257,{Guardian}
+"Twenty20 Management, Inc",BIANCA,ERVING,248854825,"{FBA,Guardian}"
+"Twenty20 Management, Inc",BOBBIE,DANDY,247153656,{Guardian}
+"Twenty20 Management, Inc",BRANDY,BELL,247519443,{Guardian}
+"Twenty20 Management, Inc",BRANDY,HELTON,245650748,{Guardian}
+"Twenty20 Management, Inc",BREANNA,VEREEN,247932628,{Guardian}
+"Twenty20 Management, Inc",BRIANNA,CASTELLON,240811594,{Guardian}
+"Twenty20 Management, Inc",BRITTANY,AKERS,224655372,{Guardian}
+"Twenty20 Management, Inc",BRITTANY,ALLISON,257991760,{Guardian}
+"Twenty20 Management, Inc",BRITTANY,COLLIER,240811301,{Guardian}
+"Twenty20 Management, Inc",BRITTANY,NAPERKOWSKI,135988268,{Guardian}
+"Twenty20 Management, Inc",BURLINE,PULLEN,225114582,{Guardian}
+"Twenty20 Management, Inc",CANDIDA,HORTON,250610100,{Guardian}
+"Twenty20 Management, Inc",CANDY,SHERIDAN,250232917,{Guardian}
+"Twenty20 Management, Inc",CAROLYN,FLOYD,257213273,{Guardian}
+"Twenty20 Management, Inc",CAROLYN,HARGETT,260314388,{Guardian}
+"Twenty20 Management, Inc",CASSANDRA,JACKSON,589803033,{Guardian}
+"Twenty20 Management, Inc",CELESTE,LEGRAND,251974031,{Guardian}
+"Twenty20 Management, Inc",CHANTEL,DIXON,257313849,{Guardian}
+"Twenty20 Management, Inc",CHELSEA,THOMAS,248937994,{Guardian}
+"Twenty20 Management, Inc",CHIQUITA,VEREEN,238492273,{Guardian}
+"Twenty20 Management, Inc",CHRISTOPHER,HENDERSON,260250127,{Guardian}
+"Twenty20 Management, Inc",CHRYSTAL,HILLMAN,228459593,{Guardian}
+"Twenty20 Management, Inc",CIERRA,BAXTER,250896003,{Guardian}
+"Twenty20 Management, Inc",CINDY,VOGLER,240418639,{Guardian}
+"Twenty20 Management, Inc",CLIFFORD,JAMES  JR.,241456427,{Guardian}
+"Twenty20 Management, Inc",CONNIE,NORRELL,257213612,{Guardian}
+"Twenty20 Management, Inc",CONSEARL,EVANS,251333614,{Guardian}
+"Twenty20 Management, Inc",COURTNEY,FORREST,228818361,{Guardian}
+"Twenty20 Management, Inc",CYNTHIA,BILLINGSLEY,423902344,{Guardian}
+"Twenty20 Management, Inc",CYNTHIA,MENARD,020608131,{Guardian}
+"Twenty20 Management, Inc",DARLENE,BARTEE,114548378,{Guardian}
+"Twenty20 Management, Inc",DAWN,DAVALL,131520609,{Guardian}
+"Twenty20 Management, Inc",DEBORAH,SALAS,247757258,{Guardian}
+"Twenty20 Management, Inc",DEBORAH,SHEALY,250213076,{Guardian}
+"Twenty20 Management, Inc",DEBRA,GRAHAM,248133587,{Guardian}
+"Twenty20 Management, Inc",DEBRA,MOSER,242171457,{Guardian}
+"Twenty20 Management, Inc",DIANE,WENNER,211487444,{Guardian}
+"Twenty20 Management, Inc",DONALD,TRACY,249555797,{Guardian}
+"Twenty20 Management, Inc",DONNA,PACK,240373328,{Guardian}
+"Twenty20 Management, Inc",DORIS,BIVING,249134273,{Guardian}
+"Twenty20 Management, Inc",DWAYNE,GLOVER,066681776,{Guardian}
+"Twenty20 Management, Inc",DYRON,WALTERS,654142391,{Guardian}
+"Twenty20 Management, Inc",EDWARD,ANTHONY,242435565,{Guardian}
+"Twenty20 Management, Inc",EMMA,LAMOTTE,024869653,{Guardian}
+"Twenty20 Management, Inc",GILLEN,CHUCCI,242682075,{Guardian}
+"Twenty20 Management, Inc",GREGORY,WHITE,148544210,{Guardian}
+"Twenty20 Management, Inc",GWENDOLYN,FLEMING,249553041,{Guardian}
+"Twenty20 Management, Inc",HALEIGH,JOHNSON,658054521,{Guardian}
+"Twenty20 Management, Inc",HANNAH,FULMER,657099908,{Guardian}
+"Twenty20 Management, Inc",HEATHER,LEHNERT,083740491,{Guardian}
+"Twenty20 Management, Inc",HEATHER,VANTIL,309194140,{Guardian}
+"Twenty20 Management, Inc",HELEN,BEAMER,229238759,{Guardian}
+"Twenty20 Management, Inc",HOLLY,TALLANT,255614462,{Guardian}
+"Twenty20 Management, Inc",JACQUELINE,GARNETT,249359953,{Guardian}
+"Twenty20 Management, Inc",JACQUELINE,OWENS,249377177,{Guardian}
+"Twenty20 Management, Inc",JAMES,CORWELL,009566276,{Guardian}
+"Twenty20 Management, Inc",JAMES,MITCHELL,230231258,{Guardian}
+"Twenty20 Management, Inc",JANA,COURTNEY,238040612,{Guardian}
+"Twenty20 Management, Inc",JANICE,CAMP,248392250,{Guardian}
+"Twenty20 Management, Inc",JASMINE,SHERMAN,657011382,{Guardian}
+"Twenty20 Management, Inc",JAVONA,HICKMAN-STANLEY,248757861,{Guardian}
+"Twenty20 Management, Inc",JENNIFER,MORGAN-BARNES,247716324,{Guardian}
+"Twenty20 Management, Inc",JESSICA,COKER,260458031,{Guardian}
+"Twenty20 Management, Inc",JESSICA,WILLIAMS,240577793,{Guardian}
+"Twenty20 Management, Inc",JOANNA,EDWARDS,098725089,{Guardian}
+"Twenty20 Management, Inc",JOHNNY,LAMB,247538940,{Guardian}
+"Twenty20 Management, Inc",JOSEPH,SELFSLAGHS,245959602,{Guardian}
+"Twenty20 Management, Inc",JOSEPH,YOON,220292172,{Guardian}
+"Twenty20 Management, Inc",JUANITA,COHEN,248274646,{Guardian}
+"Twenty20 Management, Inc",JULIA,CHARETTE,658019676,{Guardian}
+"Twenty20 Management, Inc",JULIE,CONNOR,242572915,{Guardian}
+"Twenty20 Management, Inc",JUSTICE,BURTON,654057377,{Guardian}
+"Twenty20 Management, Inc",JUSTICE,JARNAGIN,654204134,{Guardian}
+"Twenty20 Management, Inc",KAMRYN,CLOER,674108376,{Guardian}
+"Twenty20 Management, Inc",KAREN,SCHAFER,386721836,{Guardian}
+"Twenty20 Management, Inc",KATHY,DAVIS,236889701,{Guardian}
+"Twenty20 Management, Inc",KAYLA,LEWIS,250731099,{Guardian}
+"Twenty20 Management, Inc",KAYLEE,RICHMOND,383190218,{Guardian}
+"Twenty20 Management, Inc",KELLY,DYER,020541183,{Guardian}
+"Twenty20 Management, Inc",KELLY,MORROW,245476446,{Guardian}
+"Twenty20 Management, Inc",KENDRA,HUNTER,243737205,{Guardian}
+"Twenty20 Management, Inc",KEYONA,WATSON,657054821,{Guardian}
+"Twenty20 Management, Inc",KEYOUSHA,HANEY,250975286,{Guardian}
+"Twenty20 Management, Inc",KIM,SPEER,241159517,{Guardian}
+"Twenty20 Management, Inc",KIMBERLY,ANDERSON,251390622,{Guardian}
+"Twenty20 Management, Inc",KIMBERLY,DOCKERY,250292952,{Guardian}
+"Twenty20 Management, Inc",KIMBERLY,JOHNSON,247394660,{Guardian}
+"Twenty20 Management, Inc",KIMBERLY,SPENCER,656222226,{Guardian}
+"Twenty20 Management, Inc",KIMBERLY,WARD,090588853,{Guardian}
+"Twenty20 Management, Inc",KRISTEN,LOCKWOOD,115665971,{Guardian}
+"Twenty20 Management, Inc",KRISTIN,SPARKS,238175620,{Guardian}
+"Twenty20 Management, Inc",KWANZA,LEAPHART,251959953,{Guardian}
+"Twenty20 Management, Inc",LARA,CRIBB,253829428,{Guardian}
+"Twenty20 Management, Inc",LASHAWNDRIEA,COLE,243753882,{Guardian}
+"Twenty20 Management, Inc",LATORIA,AKINS,243450482,{Guardian}
+"Twenty20 Management, Inc",LAURA,GEDDINGS,251831462,{Guardian}
+"Twenty20 Management, Inc",LAUREN,SHORE,687035329,{Guardian}
+"Twenty20 Management, Inc",LESLEY,DONOVAN,276809137,{Guardian}
+"Twenty20 Management, Inc",LINDA,GAINEY,247434681,{Guardian}
+"Twenty20 Management, Inc",LINDSEY,NEIDLINGER,654090872,{Guardian}
+"Twenty20 Management, Inc",LISA,CHILDRESS,240847003,{Guardian}
+"Twenty20 Management, Inc",LISA,KILGO,243259939,{Guardian}
+"Twenty20 Management, Inc",LISA,PEREZ,025604673,{Guardian}
+"Twenty20 Management, Inc",LIZETTE,SALAS,636569230,{Guardian}
+"Twenty20 Management, Inc",LORETTA,SMITH,178521518,{Guardian}
+"Twenty20 Management, Inc",LYNN,BUCKLEY,106627063,{Guardian}
+"Twenty20 Management, Inc",LYNN,MIMS,247043630,{Guardian}
+"Twenty20 Management, Inc",MAELISIA,SMITH,687018787,{Guardian}
+"Twenty20 Management, Inc",MANDIGO,VAMBE,470872219,{Guardian}
+"Twenty20 Management, Inc",MARGARET,OWENS,248898660,{Guardian}
+"Twenty20 Management, Inc",MARIA,ADAMS,307041620,{Guardian}
+"Twenty20 Management, Inc",MARIA,LOPEZ-CARVAJAL,286369405,{Guardian}
+"Twenty20 Management, Inc",MARIAN,GILBERT,252816097,{Guardian}
+"Twenty20 Management, Inc",MARY,TOLAR,239235768,{Guardian}
+"Twenty20 Management, Inc",MATT,MACLEAN,522112116,"{ABA,Guardian}"
+"Twenty20 Management, Inc",MCCHALLA,NIXON,424193432,{Guardian}
+"Twenty20 Management, Inc",MEGAN,HITE,248672537,{Guardian}
+"Twenty20 Management, Inc",MELINDA,GATEWOOD,253438832,{Guardian}
+"Twenty20 Management, Inc",MELISSA,CARNES,237271637,{Guardian}
+"Twenty20 Management, Inc",MELISSA,HOWARD,259471252,{Guardian}
+"Twenty20 Management, Inc",MELISSA,HUNTER,667035920,{Guardian}
+"Twenty20 Management, Inc",MELISSA,MCFADDEN,250877096,{Guardian}
+"Twenty20 Management, Inc",MIA,COPNEY,236212335,{Guardian}
+"Twenty20 Management, Inc",MICHAEL,CAMPBELL,242063923,{Guardian}
+"Twenty20 Management, Inc",MICHAEL,MITCHELL,501848999,{Guardian}
+"Twenty20 Management, Inc",MICHELLE,FUNDERBURK,007707324,{Guardian}
+"Twenty20 Management, Inc",MICHELLE,PARDUE,593167310,{Guardian}
+"Twenty20 Management, Inc",MICHELLE,RICHARDSON,240338684,{Guardian}
+"Twenty20 Management, Inc",MIRNA,MARTINEZ,237974987,{Guardian}
+"Twenty20 Management, Inc",MISTY,KILGORE,259633972,{Guardian}
+"Twenty20 Management, Inc",MISTY,MIDGETT,256558292,{Guardian}
+"Twenty20 Management, Inc",MORGAN,BELL,257952166,{Guardian}
+"Twenty20 Management, Inc",NAKEISHA,WILKINS,242639980,{Guardian}
+"Twenty20 Management, Inc",NEMIA,RIMERMAN,612259519,{Guardian}
+"Twenty20 Management, Inc",NICOLE,FILETTI,102724157,{Guardian}
+"Twenty20 Management, Inc",NIMIA,DIAZ DE QUINTEROS,682142409,{Guardian}
+"Twenty20 Management, Inc",NYCKO,BLACK,229217639,{Guardian}
+"Twenty20 Management, Inc",OSVALDO,ORENGO JR.,105606310,{Guardian}
+"Twenty20 Management, Inc",PAMELA,BELLAMY,241397299,{Guardian}
+"Twenty20 Management, Inc",PAMELA,KISSICK,234847105,{Guardian}
+"Twenty20 Management, Inc",PAMELA,THOMAS,409359488,{Guardian}
+"Twenty20 Management, Inc",PATRICIA,ANDERSON,233022001,{Guardian}
+"Twenty20 Management, Inc",PATRICIA,CLARK,249747677,{Guardian}
+"Twenty20 Management, Inc",PATRICIA,HIPP,250298503,{Guardian}
+"Twenty20 Management, Inc",PATRICIA,LAMB,251310118,{Guardian}
+"Twenty20 Management, Inc",PATTI,JARRARD,254357190,{Guardian}
+"Twenty20 Management, Inc",PAULA,CLARK,422840920,{Guardian}
+"Twenty20 Management, Inc",PAULETTE,BROCK,315860972,{Guardian}
+"Twenty20 Management, Inc",PEREZ,DILLARD,248475660,{Guardian}
+"Twenty20 Management, Inc",PHYLLIS LYNN,LINGAO,155644117,{ABA}
+"Twenty20 Management, Inc",QUASHUN,ARTHUR,247792772,{Guardian}
+"Twenty20 Management, Inc",RASHONDA,AVENT,251959920,{Guardian}
+"Twenty20 Management, Inc",REBA,DUFFORD,250656047,{Guardian}
+"Twenty20 Management, Inc",REGINA,MCCANNON,251832581,{Guardian}
+"Twenty20 Management, Inc",REGINA,MESSER,378842515,{Guardian}
+"Twenty20 Management, Inc",RENEE,REID,135722346,{Guardian}
+"Twenty20 Management, Inc",RHONDA,KROGER,250575253,{Guardian}
+"Twenty20 Management, Inc",R'NASIA,DORRAH,654160993,{Guardian}
+"Twenty20 Management, Inc",ROBERT,PICKEN,302907338,"{FBA,Guardian}"
+"Twenty20 Management, Inc",ROBERTA,PATTERSON,073587174,{Guardian}
+"Twenty20 Management, Inc",ROBERTTA,DEBRUHL,250578528,{Guardian}
+"Twenty20 Management, Inc",ROBIN,GRANT,250610762,{Guardian}
+"Twenty20 Management, Inc",ROKIA,GREENE,250973441,{Guardian}
+"Twenty20 Management, Inc",RONALD,LOCKHART,237821908,{Guardian}
+"Twenty20 Management, Inc",ROSANNA,SMITH,253615724,{Guardian}
+"Twenty20 Management, Inc",ROSE,BELLAMY,251063996,{Guardian}
+"Twenty20 Management, Inc",ROXANNE,ROPER,251437909,{Guardian}
+"Twenty20 Management, Inc",RUFUS,JONES,256397461,{Guardian}
+"Twenty20 Management, Inc",SAMANTHA,WOFFORD,251819773,{Guardian}
+"Twenty20 Management, Inc",SAMUEL,BARNETT,424116034,{Guardian}
+"Twenty20 Management, Inc",SAMUEL,PARSONS,237972625,{Guardian}
+"Twenty20 Management, Inc",SANDRA,LANZETTI,248670340,{Guardian}
+"Twenty20 Management, Inc",SAROYA,JACKSON,449294261,{Guardian}
+"Twenty20 Management, Inc",SHAMEKA,HOLLIS,250450548,{Guardian}
+"Twenty20 Management, Inc",SHANONDREAH,CANNON,656108980,{Guardian}
+"Twenty20 Management, Inc",SHARON R,COUNTS,251257737,{Guardian}
+"Twenty20 Management, Inc",SHAUNETTE,GREEN,241611837,{Guardian}
+"Twenty20 Management, Inc",SHEILA,CARTER,238211644,{Guardian}
+"Twenty20 Management, Inc",SHEILA,HAMILTON,242252548,{Guardian}
+"Twenty20 Management, Inc",SHELLEY,OWEN,303828231,{Guardian}
+"Twenty20 Management, Inc",SHENEIQUA,ROBINSON,249910720,{Guardian}
+"Twenty20 Management, Inc",SHENIQUE,SAMUEL,248459691,{Guardian}
+"Twenty20 Management, Inc",SHERRY,BESSENT,249339795,{Guardian}
+"Twenty20 Management, Inc",SHERRY,MADDOX,432271658,{Guardian}
+"Twenty20 Management, Inc",SONYA,ROUSE,250391692,{Guardian}
+"Twenty20 Management, Inc",SPRING,KIBBE,250651373,{Guardian}
+"Twenty20 Management, Inc",STEPHANIE,SHEALY,248531448,{Guardian}
+"Twenty20 Management, Inc",STEPHANIE,SMITH,253851531,{Guardian}
+"Twenty20 Management, Inc",STEVEN,MOORE,240259575,{Guardian}
+"Twenty20 Management, Inc",TAKEISHA,BARR,239598736,{Guardian}
+"Twenty20 Management, Inc",TAMICA,MADDOX,246212540,{Guardian}
+"Twenty20 Management, Inc",TAMIKA,WHITTINGTON,239239668,{Guardian}
+"Twenty20 Management, Inc",TAMMY,BARRS,258491597,{Guardian}
+"Twenty20 Management, Inc",TAMMY,WATTS,246212029,{Guardian}
+"Twenty20 Management, Inc",TANIYA,GRAHAM,239953048,{Guardian}
+"Twenty20 Management, Inc",TANYA,PARTAIN,249878212,{Guardian}
+"Twenty20 Management, Inc",TAQUINA,GLOVER-WRIGHT,247839182,{Guardian}
+"Twenty20 Management, Inc",TARA,KNOWLIN,065640962,{Guardian}
+"Twenty20 Management, Inc",TATYANA,DANDY,654057831,{Guardian}
+"Twenty20 Management, Inc",TATYANA,FREEMAN,241912849,{Guardian}
+"Twenty20 Management, Inc",TAYLOR,HANSARD,667012849,{Guardian}
+"Twenty20 Management, Inc",TAYLOR,KNIGHT,668037882,{Guardian}
+"Twenty20 Management, Inc",TEOFILA,AREVALO,523095761,{Guardian}
+"Twenty20 Management, Inc",TERESA,MONTGOMERY,244153711,{Guardian}
+"Twenty20 Management, Inc",TERESA,SCOTT,553060613,{Guardian}
+"Twenty20 Management, Inc",TERTIA,MARSHALL,244395407,{Guardian}
+"Twenty20 Management, Inc",THERESA,CHASTAIN,248410593,{Guardian}
+"Twenty20 Management, Inc",THOMAS,JACKSON,251822173,{Guardian}
+"Twenty20 Management, Inc",TIMERA,JACKSON,249953054,{Guardian}
+"Twenty20 Management, Inc",TINA,GARRIS,255652427,{Guardian}
+"Twenty20 Management, Inc",TORI,LOVE,243775431,{Guardian}
+"Twenty20 Management, Inc",TWANNA,JOHNSON,245178244,{Guardian}
+"Twenty20 Management, Inc",TYNESIA,BOOKER,141968988,{Guardian}
+"Twenty20 Management, Inc",TYRA,DAVIS,654109390,{Guardian}
+"Twenty20 Management, Inc",UMAY,HABIBA,243894622,{Guardian}
+"Twenty20 Management, Inc",VANESSA,PEOPLES,602919453,{Guardian}
+"Twenty20 Management, Inc",VERONICA,HAYE,654070054,{Guardian}
+"Twenty20 Management, Inc",VICKIE,FRACHISEUR,256513287,{Guardian}
+"Twenty20 Management, Inc",VICKY,CALDWELL,251395607,{Guardian}
+"Twenty20 Management, Inc",VICTORIA,TWYMAN,243234414,{Guardian}
+"Twenty20 Management, Inc",VIRGINIA,HOPKINS,249457483,{Guardian}
+"Twenty20 Management, Inc",VONETTA,LOWERY,246154563,{Guardian}
+"Twenty20 Management, Inc",WANDA,GREEN,247439589,{Guardian}
+"Twenty20 Management, Inc",WENDY,POWELL,249910504,{Guardian}
+"Twenty20 Management, Inc",WHITNEY,GAGE,658010152,{Guardian}
+"Twenty20 Management, Inc",WILLIAM,MATTINGLY,595108509,{Guardian}
+"Twenty20 Management, Inc",WILLIAM,WARCOP,259998425,{Guardian}
+"Twenty20 Management, Inc",YANIRA,FUNETES,222556432,{Guardian}
+"Twenty20 Management, Inc",YASMINE,TALBERT,602064714,{Guardian}
+"Twenty20 Management, Inc",YOLANDA,VANCIL,600105829,{Guardian}
+"Twenty20 Management, Inc",YVETTE,QUATTLEBAUM,249332243,{Guardian}
+Valley Lake Boys Home,DANIELLE,KNUDSON,502252270,{Guardian}
+Valley Lake Boys Home,DAVID,WIENBAR,501026002,{Guardian}
+Valley Lake Boys Home,FERNANDO,REESE,425677702,{Guardian}
+Valley Lake Boys Home,JESSICA,LINDSEY,501083924,{Guardian}
+Valley Lake Boys Home,JOANNA,ETZLER,501926518,{Guardian}
+Valley Lake Boys Home,JONATHAN,LOFBERG,501924737,{Guardian}
+Valley Lake Boys Home,KARLENE,LITTKE,501846284,{Guardian}
+"Welcome Home Health Care, Inc",ALEXANDRA,COOKE,469456050,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",ALISABETH,NEITZKE,502275749,{Guardian}
+"Welcome Home Health Care, Inc",ALONDRA,URZUA,619964456,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",AMBER,REESE,502021762,{Guardian}
+"Welcome Home Health Care, Inc",AMY,CHANCE,469116411,{Guardian}
+"Welcome Home Health Care, Inc",ASHLEY,JOHNSON,474214101,{Guardian}
+"Welcome Home Health Care, Inc",ASHLEY,LUND,476333535,{Guardian}
+"Welcome Home Health Care, Inc",AUDREY,LOISELLE,398022008,{Guardian}
+"Welcome Home Health Care, Inc",BETHANY,MCSORLEY CLEAR,469295663,{Guardian}
+"Welcome Home Health Care, Inc",BRITTANY,GULDEN,473299469,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",BROOKE,THOMAS,502235254,{Guardian}
+"Welcome Home Health Care, Inc",BRYCE,CASSENS,471483340,{Guardian}
+"Welcome Home Health Care, Inc",CASSANDRA,DIERCKS,471086995,{Guardian}
+"Welcome Home Health Care, Inc",CATHERINE,NELK,477784220,{Guardian}
+"Welcome Home Health Care, Inc",CHRISTINA,KILGORE,302921999,{Guardian}
+"Welcome Home Health Care, Inc",CHRISTINE,BANDEL,684446295,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",CINDY,HARDEN,471782723,{Guardian}
+"Welcome Home Health Care, Inc",CINDY,SMITH,501703083,{Guardian}
+"Welcome Home Health Care, Inc",CRYSTAL,UYS,475060322,{Guardian}
+"Welcome Home Health Care, Inc",CYNTHIA,LIZAKOWSKI,502880722,{Guardian}
+"Welcome Home Health Care, Inc",CYNTHIA,OLSON,502907296,{Guardian}
+"Welcome Home Health Care, Inc",DANNALE,KRUEGER,225516805,{Guardian}
+"Welcome Home Health Care, Inc",DEBRA,BERG,501762761,{Guardian}
+"Welcome Home Health Care, Inc",ELLIE,NELSON,470392571,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",EMILEE,HASERT,469375740,{Guardian}
+"Welcome Home Health Care, Inc",FAYTH,ROBINSON,468411236,{Guardian}
+"Welcome Home Health Care, Inc",FRANCIS,LENE,474061112,{Guardian}
+"Welcome Home Health Care, Inc",GABRIELA,MICHESCU,472515488,{Guardian}
+"Welcome Home Health Care, Inc",GREGORY,LOISELLE,469135081,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",HANNAH,WALBERG,469210544,{Guardian}
+"Welcome Home Health Care, Inc",HEATHER,PLATT,502153314,{Guardian}
+"Welcome Home Health Care, Inc",JACOB,WORK,479984742,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",JANNA,BJUR,477080467,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",JEREMEY,ROBINSON,473942111,{Guardian}
+"Welcome Home Health Care, Inc",JESSICA,ANDEL,501080061,{Guardian}
+"Welcome Home Health Care, Inc",JILL,SPRINGER,477960302,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",JUDITH,MEYER,476561563,{Guardian}
+"Welcome Home Health Care, Inc",JULIE,BOOKS,391749933,{Guardian}
+"Welcome Home Health Care, Inc",KAREN,SNOW,470134544,{Guardian}
+"Welcome Home Health Care, Inc",KATIE,RODINA,395022014,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",KEISHA,WILLIAMS,502255371,{Guardian}
+"Welcome Home Health Care, Inc",KELLY,FRAZIER,389021561,{Guardian}
+"Welcome Home Health Care, Inc",KELLY,OLSON,470066562,{Guardian}
+"Welcome Home Health Care, Inc",KELSY,LINDER,475176936,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",LAUNA,SPRINGER,501170251,{Guardian}
+"Welcome Home Health Care, Inc",MADISON,GORR,475392993,{ABA}
+"Welcome Home Health Care, Inc",MARIANNE,CASE,476216888,{Guardian}
+"Welcome Home Health Care, Inc",MARY,WOLFGRAM,501845684,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",MICHELLE,ADOLPH,388046709,{Guardian}
+"Welcome Home Health Care, Inc",MICHELLE,HELDT,399785542,{Guardian}
+"Welcome Home Health Care, Inc",MITCHEL,BATES,398132015,{Guardian}
+"Welcome Home Health Care, Inc",MORGAN,GULDEN,469292408,{Guardian}
+"Welcome Home Health Care, Inc",MYRA,WYMER,392766714,{Guardian}
+"Welcome Home Health Care, Inc",NATASHA,GREEN,611842938,{Guardian}
+"Welcome Home Health Care, Inc",NOEL,EASTMAN,399022897,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",PAMELA,DAVID,399749576,{Guardian}
+"Welcome Home Health Care, Inc",PATRICIA,SUNDE,473823384,{Guardian}
+"Welcome Home Health Care, Inc",PAULA,DENNIS,393847159,{Guardian}
+"Welcome Home Health Care, Inc",PENNY,WAYNE,474825448,{Guardian}
+"Welcome Home Health Care, Inc",RACHEL,PETERSON,468920224,{Guardian}
+"Welcome Home Health Care, Inc",REINNA,GERHARDT,470337914,{Guardian}
+"Welcome Home Health Care, Inc",ROGER,FREITAG,502560480,{Guardian}
+"Welcome Home Health Care, Inc",ROMAN,BLOEMKE,472020565,{Guardian}
+"Welcome Home Health Care, Inc",RONNA,FULLERTON,194609178,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",SARA,HOLMES,391023321,{Guardian}
+"Welcome Home Health Care, Inc",SARAH,WORK,470025917,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",SHAYNA,PEPPENGER,430873761,{Guardian}
+"Welcome Home Health Care, Inc",SHAYNIA,BATES,391210239,{Guardian}
+"Welcome Home Health Care, Inc",SHERI,DIRCKS,474239678,{Guardian}
+"Welcome Home Health Care, Inc",SILKE,SCHWARK,358851601,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",SKYE,MATTON,391199959,"{FBA,Guardian}"
+"Welcome Home Health Care, Inc",SUAVIS,MUREKERISONI,006112064,{Guardian}
+"Welcome Home Health Care, Inc",SUSAN,BREITLING,476743951,{Guardian}
+"Welcome Home Health Care, Inc",TIFFANI,FOWLER,393230012,{Guardian}
+"Welcome Home Health Care, Inc",TONYIA,SWAN,397860790,{Guardian}
+"Welcome Home Health Care, Inc",VANESSA,LEDFORD,730098845,{Guardian}
+"West Central Industries, Inc.",ADAM,JULIUS,469044018,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",AJ,STEPHENS,477195224,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",AMBER,MAHLUM,475133106,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",AMBER,TALLMAN,397043659,{Guardian}
+"West Central Industries, Inc.",ANGELA,RODRIGUEZ,634620203,"{ABA,BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",BEN,MEISENHEIMER,436692676,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",BETH,THEIS,473923901,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",BLAKE,WOLD,471882671,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",CARRIE,STOLP,469151377,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",CATHERINE,PLUCKER,475887510,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",CHASSIDY,WITTMAN,475987497,"{FBA,Guardian}"
+"West Central Industries, Inc.",DARLA,OLDFIELD,477787497,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",DAWN,FREETLY-GAETZ,475767234,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",DEANA,SCHAFER CONWAY,470986990,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",EMMA,SAULSBURY,468430545,{Guardian}
+"West Central Industries, Inc.",ETHAN,KUBESH,471378031,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",JOHN,GULDEN,477860182,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",JOHN,JOHANNSEN,475841292,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",JOHN,WALLIN,472709958,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",JORDAN,KLAVETTER,476230392,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",KAITLYN,MOONEN,476195799,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",KAITLYN,SKINDELIEN,471317927,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",LATEESHA,RIECK,469210305,{Guardian}
+"West Central Industries, Inc.",LEONEL,ALONZO,458614906,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",LOIS,BROWN,468882004,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",MARCIA,SOLBRACK,475868020,{Guardian}
+"West Central Industries, Inc.",MARY,ORTEGA CASTILLO,461418299,{Guardian}
+"West Central Industries, Inc.",MICHELLE,PRAHL,474968349,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",PATRICIA,LESTEBERG,391762245,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",PAULA,OSLUND,477768015,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",PEGGY,GANT,504903530,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",RACHELLE,JACOBSON,475987495,{Guardian}
+"West Central Industries, Inc.",RENEE,NOLTING,474847844,"{BCBSMN,Guardian}"
+"West Central Industries, Inc.",SHEILA,WARD,475861878,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",TAMMY,HATLESTAD,476728719,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",TAYLOR,STALLMAN,471292758,"{BCBSMN,FBA,Guardian}"
+"West Central Industries, Inc.",VALERIE,HONEBRINK,473965698,"{BCBSMN,FBA,Guardian}"
+Willow River LLC,RANDY,HANDSON,257917309,{Guardian}
+"Xttollo, LLC",BENJAMIN,BLEEKER,468199676,{Guardian}
+"Xttollo, LLC",NATHAN,JENSEN,476900283,{Guardian}
+Your Way Transportation,LON,PETERSON,468867236,{Guardian}
+Your Way Transportation,PATTY,SCHOLTES,468866985,"{FBA,Guardian}"
+Your Way Transportation,STEVE,FLINK,874084545,{Guardian}
